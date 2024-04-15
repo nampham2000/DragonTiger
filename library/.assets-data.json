@@ -12262,5 +12262,15 @@
     "url": "db://assets/Scripts/NetworkConnect.ts",
     "value": {},
     "versionCode": 0
+  },
+  "d2909ce2-fa07-4516-a217-d75e95e77804": {
+    "url": "db://assets/Scene/scene-2d.scene",
+    "value": {
+      "depends": [
+        "d2909ce2-fa07-4516-a217-d75e95e77804"
+      ],
+      "dependScripts": []
+    },
+    "versionCode": 0
   }
 }

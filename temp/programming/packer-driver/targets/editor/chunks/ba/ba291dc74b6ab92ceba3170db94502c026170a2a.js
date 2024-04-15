@@ -1,7 +1,7 @@
 System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _context) {
   "use strict";
 
-  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, Colyseus, _dec, _class, _class2, _descriptor, _descriptor2, _descriptor3, _crd, ccclass, property, NetworkConnect;
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, Label, Node, Colyseus, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _crd, ccclass, property, NetworkConnect;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -22,6 +22,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
       __checkObsoleteInNamespace__ = _cc.__checkObsoleteInNamespace__;
       _decorator = _cc._decorator;
       Component = _cc.Component;
+      Label = _cc.Label;
+      Node = _cc.Node;
     }, function (_unresolved_2) {
       Colyseus = _unresolved_2.default;
     }],
@@ -30,14 +32,24 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
       _cclegacy._RF.push({}, "f9288fCnqNOx7X/4BfkUyJf", "NetworkConnect", undefined);
 
-      __checkObsolete__(['_decorator', 'Component', 'Node']);
+      __checkObsolete__(['_decorator', 'Component', 'Label', 'Node']);
 
       ({
         ccclass,
         property
       } = _decorator);
 
-      _export("NetworkConnect", NetworkConnect = (_dec = ccclass("NetworkConnect"), _dec(_class = (_class2 = class NetworkConnect extends Component {
+      _export("NetworkConnect", NetworkConnect = (_dec = ccclass("NetworkConnect"), _dec2 = property({
+        type: String
+      }), _dec3 = property({
+        type: Number
+      }), _dec4 = property({
+        type: Boolean
+      }), _dec5 = property({
+        type: Node
+      }), _dec6 = property({
+        type: Label
+      }), _dec(_class = (_class2 = class NetworkConnect extends Component {
         constructor(...args) {
           super(...args);
 
@@ -47,64 +59,157 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
           _initializerDefineProperty(this, "useSSL", _descriptor3, this);
 
+          _initializerDefineProperty(this, "ListL", _descriptor4, this);
+
+          _initializerDefineProperty(this, "ListLabel", _descriptor5, this);
+
           this.client = void 0;
           this.room = void 0;
         }
 
         start() {
-          // Instantiate Colyseus Client
-          // connects into (ws|wss)://hostname[:port]
           this.client = new (_crd && Colyseus === void 0 ? (_reportPossibleCrUseOfColyseus({
             error: Error()
-          }), Colyseus) : Colyseus).Client(`${this.useSSL ? "wss" : "ws"}://${this.hostname}`); // Connect into the room
-
+          }), Colyseus) : Colyseus).Client(`${this.useSSL ? "wss" : "ws"}://${this.hostname}:${this.port}`);
           this.connect();
         }
 
         async connect() {
           try {
-            // const a = [...this.room.state.players.values()]
-            this.room = await this.client.joinById("VDGHY");
-            console.log("joined successfully!");
-            console.log("user's sessionId:", this.room.sessionId);
-            console.log("players", this.room.state.players);
+            const rooms = await this.client.getAvailableRooms("room1");
+
+            if (rooms.length === 0) {
+              this.room = await this.client.create("room1");
+              console.log("Created new room with sessionId:", this.room.sessionId);
+            } else {
+              // Nếu có phòng có sẵn, tham gia vào phòng đầu tiên trong danh sách
+              this.room = await this.client.joinById(rooms[0].roomId);
+              console.log("Joined existing room with sessionId:", this.room.sessionId);
+            }
+
+            console.log("Joined successfully!");
+            console.log("User's sessionId:", this.room.sessionId);
             this.room.onMessage("playerList", message => {
-              console.log("message received from server");
-              console.log("Mess", message); // console.log("players", [...this.room.state.players.values()]);
+              this.updatePlayerList(message);
             });
             this.room.onStateChange(state => {
+              console.log("Room state changed:", state);
               console.log("onStateChange: ", state);
+              console.log("Players", [...state.players.values()]);
             });
             this.room.onLeave(code => {
-              console.log("onLeave:", code);
+              console.log("Left room with code:", code);
             });
           } catch (e) {
-            console.error(e);
+            console.error("Error:", e);
           }
         }
 
-      }, (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "hostname", [property], {
+        updatePlayerList(playerList) {
+          const numElements = playerList.length;
+          this.ListL.forEach(node => {
+            node.active = false;
+          });
+
+          for (let i = 0; i < numElements && i < this.ListL.length; i++) {
+            this.ListL[i].active = true;
+            this.ListLabel[i].string = playerList[i].sessionId;
+          }
+        }
+
+      }, (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "hostname", [_dec2], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return "7bb3-115-79-59-222.ngrok-free.app";
         }
-      }), _descriptor2 = _applyDecoratedDescriptor(_class2.prototype, "port", [property], {
+      }), _descriptor2 = _applyDecoratedDescriptor(_class2.prototype, "port", [_dec3], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return 80;
         }
-      }), _descriptor3 = _applyDecoratedDescriptor(_class2.prototype, "useSSL", [property], {
+      }), _descriptor3 = _applyDecoratedDescriptor(_class2.prototype, "useSSL", [_dec4], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return true;
         }
-      })), _class2)) || _class));
+      }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "ListL", [_dec5], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return [];
+        }
+      }), _descriptor5 = _applyDecoratedDescriptor(_class2.prototype, "ListLabel", [_dec6], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function () {
+          return [];
+        }
+      })), _class2)) || _class)); // import { _decorator, Component, Label, Node } from "cc";
+      // const { ccclass, property } = _decorator;
+      // import Colyseus from "db://colyseus-sdk/colyseus.js";
+      // @ccclass("NetworkConnect")
+      // export class NetworkConnect extends Component {
+      //   @property({ type: String })
+      //   hostname = "7bb3-115-79-59-222.ngrok-free.app";
+      //   @property({ type: Number })
+      //   port = 80;
+      //   @property({ type: Boolean })
+      //   useSSL = true;
+      //   @property({ type: Node })
+      //   private ListL: Node[] = [];
+      //   @property({ type: Label })
+      //   private ListLabel: Label[] = [];
+      //   client!: Colyseus.Client;
+      //   room!: Colyseus.Room;
+      //   start() {
+      //     this.client = new Colyseus.Client(
+      //       `${this.useSSL ? "wss" : "ws"}://${this.hostname}:${this.port}`
+      //     );
+      //     this.connect();
+      //   }
+      //   async connect() {
+      //     try {
+      //       this.room = await this.client.joinById("Room1");
+      //       console.log("Joined successfully!");
+      //       console.log("User's sessionId:", this.room.sessionId);
+      //       this.startCountdown();
+      //       this.setupEventListeners();
+      //     } catch (e) {
+      //       console.error("Error:", e);
+      //     }
+      //   }
+      //   startCountdown() {
+      //     const countdownInterval = setInterval(() => {
+      //       if (this.room.state.countdown > 0) {
+      //         this.room.state.countdown--;
+      //         console.log("Countdown:", this.room.state.countdown);
+      //         this.room.send("countdown", this.room.state.countdown);
+      //       } else {
+      //         clearInterval(countdownInterval);
+      //       }
+      //     }, 1000);
+      //   }
+      //   setupEventListeners() {
+      //     this.room.onMessage("countdown", (countdown: number) => {
+      //       // Cập nhật giao diện người chơi với giá trị mới của biến đếm ngược
+      //     });
+      //     this.room.onStateChange((state) => {
+      //       console.log("Room state changed:", state);
+      //     });
+      //     this.room.onLeave((code) => {
+      //       console.log("Left room with code:", code);
+      //     });
+      //   }
+      // }
+
 
       _cclegacy._RF.pop();
 

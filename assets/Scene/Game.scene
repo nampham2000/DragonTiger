@@ -203,7 +203,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 960,
+      "x": 959.9999999999999,
       "y": 540,
       "z": 0
     },
@@ -289,7 +289,7 @@
     "_priority": 0,
     "_fov": 45,
     "_fovAxis": 0,
-    "_orthoHeight": 612.2105263157895,
+    "_orthoHeight": 699.4974874371859,
     "_near": 0,
     "_far": 1000,
     "_color": {
@@ -959,6 +959,7 @@
         "__id__": 325
       }
     ],
+    "BalanceList": [],
     "PayUserSprite": [
       {
         "__uuid__": "9f0fdf45-c5d9-4acd-b7d1-55d5fd730d1d@f9941",
@@ -7178,7 +7179,7 @@
     "_fontSize": 25,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
-    "_overflow": 0,
+    "_overflow": 2,
     "_enableWrapText": true,
     "_font": null,
     "_isSystemFontUsed": true,
@@ -7605,7 +7606,7 @@
     "_fontSize": 25,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
-    "_overflow": 0,
+    "_overflow": 2,
     "_enableWrapText": true,
     "_font": null,
     "_isSystemFontUsed": true,
@@ -8032,7 +8033,7 @@
     "_fontSize": 25,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
-    "_overflow": 0,
+    "_overflow": 2,
     "_enableWrapText": true,
     "_font": null,
     "_isSystemFontUsed": true,
@@ -8459,7 +8460,7 @@
     "_fontSize": 25,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
-    "_overflow": 0,
+    "_overflow": 2,
     "_enableWrapText": true,
     "_font": null,
     "_isSystemFontUsed": true,
@@ -8644,7 +8645,7 @@
         "__id__": 214
       }
     ],
-    "_active": false,
+    "_active": true,
     "_components": [
       {
         "__id__": 217
@@ -8886,7 +8887,7 @@
     "_fontSize": 25,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
-    "_overflow": 0,
+    "_overflow": 2,
     "_enableWrapText": true,
     "_font": null,
     "_isSystemFontUsed": true,
@@ -9389,7 +9390,7 @@
     "_fontSize": 25,
     "_fontFamily": "Arial",
     "_lineHeight": 40,
-    "_overflow": 0,
+    "_overflow": 2,
     "_enableWrapText": true,
     "_font": null,
     "_isSystemFontUsed": true,
@@ -9604,7 +9605,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 669.2870000000001,
+      "x": 669.287,
       "y": -417.954,
       "z": 0
     },
@@ -9743,7 +9744,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 669.2870000000001,
+      "x": 669.287,
       "y": -417.954,
       "z": 0
     },
@@ -9882,7 +9883,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 669.2870000000001,
+      "x": 669.287,
       "y": -417.954,
       "z": 0
     },
@@ -13920,6 +13921,46 @@
     "hostname": "7bb3-115-79-59-222.ngrok-free.app",
     "port": 80,
     "useSSL": true,
+    "ListL": [
+      {
+        "__id__": 158
+      },
+      {
+        "__id__": 163
+      },
+      {
+        "__id__": 174
+      },
+      {
+        "__id__": 185
+      },
+      {
+        "__id__": 196
+      },
+      {
+        "__id__": 207
+      }
+    ],
+    "ListLabel": [
+      {
+        "__id__": 227
+      },
+      {
+        "__id__": 169
+      },
+      {
+        "__id__": 180
+      },
+      {
+        "__id__": 191
+      },
+      {
+        "__id__": 202
+      },
+      {
+        "__id__": 213
+      }
+    ],
     "_id": "dfMcrelClFMaIb0C3WSxAq"
   },
   {
@@ -15260,7 +15301,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 1920,
+      "width": 1919.9999999999998,
       "height": 1080
     },
     "_anchorPoint": {

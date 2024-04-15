@@ -49,7 +49,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
 
       _cclegacy._RF.push({}, "d8ab5YQ3ZZPeJeVYhhzn+bz", "GameController", undefined);
 
-      __checkObsolete__(['_decorator', 'Component', 'Label', 'Node', 'tween', 'Vec3', 'Animation', 'SpriteFrame', 'Sprite', 'math', 'log', 'Graphics', 'Color', 'instantiate', 'Prefab', 'Button']);
+      __checkObsolete__(['_decorator', 'Component', 'Label', 'Node', 'tween', 'Vec3', 'Animation', 'SpriteFrame', 'Sprite', 'math', 'log', 'Graphics', 'Color', 'instantiate', 'Prefab', 'Button', 'CCInteger']);
 
       ({
         ccclass,
@@ -356,7 +356,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
                   }).call(() => {
                     this.displayImages();
                   }).start();
-                }, 30000);
+                }, 30000); //Waitime
               }).start();
               tween(this.CardNodeR).to(0.4, {
                 position: this.clonePosCardR
@@ -375,9 +375,9 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
                   }).start();
                   this.GameEnd = true;
                   this.StartBet.play("EndBet");
-                }, 30000);
+                }, 30000); //WaitTime
               }).start();
-            }, 3000);
+            }, 3000); //ShuffleTime
           }).start();
           tween(this.CardNodeR).to(0.4, {
             position: new Vec3(1, 70)

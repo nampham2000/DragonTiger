@@ -15,6 +15,7 @@ import {
   instantiate,
   Prefab,
   Button,
+  CCInteger,
 } from "cc";
 import { Chip } from "./Chip";
 import { NetworkConnect } from "./NetworkConnect";
@@ -370,7 +371,7 @@ export class GameController extends Component {
                     this.displayImages();
                   })
                   .start();
-              }, 30000);
+              }, 30000); //Waitime
             })
             .start();
 
@@ -397,10 +398,10 @@ export class GameController extends Component {
                   .start();
                 this.GameEnd = true;
                 this.StartBet.play("EndBet");
-              }, 30000);
+              }, 30000); //WaitTime
             })
             .start();
-        }, 3000);
+        }, 3000); //ShuffleTime
       })
       .start();
 
