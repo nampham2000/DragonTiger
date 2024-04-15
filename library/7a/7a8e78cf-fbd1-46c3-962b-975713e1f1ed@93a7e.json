@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fireblast19",
+    "atlas": "7a8e78cf-fbd1-46c3-962b-975713e1f1ed",
+    "rect": {
+      "x": 1787,
+      "y": 341,
+      "width": 388,
+      "height": 318
+    },
+    "offset": {
+      "x": 10,
+      "y": -14
+    },
+    "originalSize": {
+      "width": 550,
+      "height": 346
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "60eb3b67-83c5-4342-96d6-bd32e1a29c23@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

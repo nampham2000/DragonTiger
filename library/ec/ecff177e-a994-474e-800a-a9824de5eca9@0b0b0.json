@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TW05",
+    "atlas": "ecff177e-a994-474e-800a-a9824de5eca9",
+    "rect": {
+      "x": 940,
+      "y": 1,
+      "width": 386,
+      "height": 246
+    },
+    "offset": {
+      "x": 0,
+      "y": -4
+    },
+    "originalSize": {
+      "width": 520,
+      "height": 350
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "a0eb16f9-cc73-467e-b175-afe46c6ceb08@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

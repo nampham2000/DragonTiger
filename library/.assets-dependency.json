@@ -1,0 +1,178 @@
+{
+  "path": {
+    "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/dragonhurt.plist": [
+      "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/dragonhurt.png"
+    ],
+    "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Card/An.plist": [
+      "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Card/An.png"
+    ],
+    "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Dragon/Win/dragonWin.plist": [
+      "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Dragon/Win/dragonWin.png"
+    ],
+    "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Dragon/Win/DragonIntro/dragonWin-0.plist": [
+      "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Dragon/Win/DragonIntro/dragonWin-0.png"
+    ],
+    "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Tiger/TigerWin/tigerWin.plist": [
+      "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Tiger/TigerWin/tigerWin.png"
+    ],
+    "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Tiger/TigerIntro/TigerIntro.plist": [
+      "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Tiger/TigerIntro/TigerIntro.png"
+    ],
+    "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Dragon/Ide/DragonIde.plist": [
+      "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Dragon/Ide/DragonIde.png"
+    ],
+    "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Dragon/Attack/dragpnAttack.plist": [
+      "/Users/waostudio/Desktop/GameDemo/TigerDragon/assets/Animation/Dragon/Attack/dragpnAttack.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\dragonhurt.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\dragonhurt.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Dragon\\Attack\\dragpnAttack.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Dragon\\Attack\\dragpnAttack.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Dragon\\Win\\dragonWin.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Dragon\\Win\\dragonWin.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Tiger\\TigerIntro\\TigerIntro.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Tiger\\TigerIntro\\TigerIntro.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Tiger\\TigerWin\\tigerWin.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Tiger\\TigerWin\\tigerWin.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Card\\An.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Card\\An.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Dragon\\Win\\DragonIntro\\dragonWin-0.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Dragon\\Win\\DragonIntro\\dragonWin-0.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Dragon\\Ide\\DragonIde.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 2\\TigerDragon\\assets\\Animation\\Dragon\\Ide\\DragonIde.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/dragonhurt.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/dragonhurt.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Ide/DragonIde.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Ide/DragonIde.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Attack/dragpnAttack.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Attack/dragpnAttack.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Win/dragonWin.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Win/dragonWin.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Card/An.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Card/An.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Win/DragonIntro/dragonWin-0.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Win/DragonIntro/dragonWin-0.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerIntro/TigerIntro.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerIntro/TigerIntro.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerWin/tigerWin.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerWin/tigerWin.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Win/DragonIntro/DragonIntro.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Win/DragonIntro/DragonIntro.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Hurt/DragonHurt.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Dragon/Hurt/DragonHurt.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerIde/TigerIde.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerIde/TigerIde.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerIde/TigerIdeFix.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerIde/TigerIdeFix.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/tigerIde2.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/tigerIde2.png"
+    ],
+    "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerAttack/tigerAttack2.plist": [
+      "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerAttack/tigerAttack2.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\dragonhurt.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\dragonhurt.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Card\\An.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Card\\An.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Attack\\dragpnAttack.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Attack\\dragpnAttack.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Ide\\DragonIde.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Ide\\DragonIde.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Win\\dragonWin.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Win\\dragonWin.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Hurt\\DragonHurt.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Hurt\\DragonHurt.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\TigerAttack\\tigerAttack2.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\TigerAttack\\tigerAttack2.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\TigerIde\\TigerIde.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\TigerIde\\TigerIde.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\TigerIde\\TigerIdeFix.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\TigerIde\\TigerIdeFix.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Win\\DragonIntro\\DragonIntro.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Win\\DragonIntro\\DragonIntro.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Win\\DragonIntro\\dragonWin-0.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Dragon\\Win\\DragonIntro\\dragonWin-0.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\tigerIde2.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\tigerIde2.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\TigerIntro\\TigerIntro.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\TigerIntro\\TigerIntro.png"
+    ],
+    "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\TigerWin\\tigerWin.plist": [
+      "C:\\Users\\Admin\\Downloads\\Telegram Desktop\\TigerDragon 8\\TigerDragon 4\\assets\\Animation\\Tiger\\TigerWin\\tigerWin.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Attack/dragpnAttack.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Attack/dragpnAttack.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Hurt/DragonHurt.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Hurt/DragonHurt.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Card/An.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Card/An.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Ide/DragonIde.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Ide/DragonIde.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/dragonhurt.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/dragonhurt.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/tigerIde2.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/tigerIde2.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Win/dragonWin.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Win/dragonWin.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/TigerAttack/tigerAttack2.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/TigerAttack/tigerAttack2.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/TigerIde/TigerIdeFix.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/TigerIde/TigerIdeFix.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/TigerIde/TigerIde.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/TigerIde/TigerIde.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/TigerIntro/TigerIntro.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/TigerIntro/TigerIntro.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/TigerWin/tigerWin.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Tiger/TigerWin/tigerWin.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Win/DragonIntro/dragonWin-0.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Win/DragonIntro/dragonWin-0.png"
+    ],
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Win/DragonIntro/DragonIntro.plist": [
+      "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Animation/Dragon/Win/DragonIntro/DragonIntro.png"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/extensions/Colyseus Multiplayer SDK/runtime/colyseus.d.ts": {
+      "time": 1713155720026.0117,
+      "uuid": "b3d37852-12c5-433f-9b2f-1572b85fabda"
+    },
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/extensions/Colyseus Multiplayer SDK/runtime/colyseus.js": {
+      "time": 1713155720024.2375,
+      "uuid": "b554cfc3-98f3-4c04-ac8b-fd4ca2621ffb"
+    },
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/extensions/Colyseus Multiplayer SDK/runtime/colyseus.d.ts.meta": {
+      "time": 1713155720114.8916
+    },
+    "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/extensions/Colyseus Multiplayer SDK/runtime/colyseus.js.meta": {
+      "time": 1713155720115.1648
+    }
+  },
+  "missing": {}
+}

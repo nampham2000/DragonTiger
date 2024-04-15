@@ -1,0 +1,12 @@
+4-15-2024 12:03:02 - log: Load engine in /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine
+4-15-2024 12:03:02 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+4-15-2024 12:03:02 - log: Register native engine in /Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+4-15-2024 12:03:11 - log: [Scene] meshopt wasm decoder initialized
+4-15-2024 12:03:11 - log: [Scene] [box2d]:box2d wasm lib loaded.
+4-15-2024 12:03:11 - log: [Scene] [bullet]:bullet wasm lib loaded.
+4-15-2024 12:03:11 - log: [Scene] [PHYSICS]: using builtin.
+4-15-2024 12:03:11 - log: [Scene] Cocos Creator v3.8.2
+4-15-2024 12:03:11 - info: [Scene] Forward render pipeline initialized.
+4-15-2024 12:03:12 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+4-15-2024 12:03:21 - warn: Please set the application in Preferences -> Program Manager -> Default Script Editor to better open the script
+4-15-2024 12:10:41 - warn: Please set the application in Preferences -> Program Manager -> Default Script Editor to better open the script

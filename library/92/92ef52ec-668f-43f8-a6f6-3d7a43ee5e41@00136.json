@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "floating23",
+    "atlas": "92ef52ec-668f-43f8-a6f6-3d7a43ee5e41",
+    "rect": {
+      "x": 1563,
+      "y": 763,
+      "width": 382,
+      "height": 390
+    },
+    "offset": {
+      "x": -9,
+      "y": 10
+    },
+    "originalSize": {
+      "width": 512,
+      "height": 512
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "646277fc-f1d5-4b9b-a955-27937e012736@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dragonSplash",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 542,
+      "height": 711
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 542,
+      "height": 711
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -271,
+        -355.5,
+        0,
+        271,
+        -355.5,
+        0,
+        -271,
+        355.5,
+        0,
+        271,
+        355.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        711,
+        542,
+        711,
+        0,
+        0,
+        542,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -271,
+        "y": -355.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 271,
+        "y": 355.5,
+        "z": 0
+      }
+    },
+    "texture": "923bf97a-bfea-41ec-badd-88f0970f84ac@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

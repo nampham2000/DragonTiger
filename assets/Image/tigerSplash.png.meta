@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "2c01b504-028e-4c61-a5ae-4a45cd6ad741",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "2c01b504-028e-4c61-a5ae-4a45cd6ad741@6c48a",
+      "displayName": "tigerSplash",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "2c01b504-028e-4c61-a5ae-4a45cd6ad741",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "2c01b504-028e-4c61-a5ae-4a45cd6ad741@f9941",
+      "displayName": "tigerSplash",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -3.5,
+        "trimX": 0,
+        "trimY": 7,
+        "width": 464,
+        "height": 650,
+        "rawWidth": 464,
+        "rawHeight": 657,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -232,
+            -325,
+            0,
+            232,
+            -325,
+            0,
+            -232,
+            325,
+            0,
+            232,
+            325,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            0,
+            650,
+            464,
+            650,
+            0,
+            0,
+            464,
+            0
+          ],
+          "nuv": [
+            0,
+            0,
+            1,
+            0,
+            0,
+            0.989345509893455,
+            1,
+            0.989345509893455
+          ],
+          "minPos": [
+            -232,
+            -325,
+            0
+          ],
+          "maxPos": [
+            232,
+            325,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "2c01b504-028e-4c61-a5ae-4a45cd6ad741@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "2c01b504-028e-4c61-a5ae-4a45cd6ad741@f9941"
+  }
+}

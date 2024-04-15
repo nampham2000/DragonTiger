@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "damaged29",
+    "atlas": "8ae349ac-49da-490c-b6b7-089065e6e3e0",
+    "rect": {
+      "x": 1,
+      "y": 1135,
+      "width": 285,
+      "height": 299
+    },
+    "offset": {
+      "x": -12,
+      "y": 10
+    },
+    "originalSize": {
+      "width": 345,
+      "height": 345
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "028a8662-8a97-44a4-8ad3-4eeefade961d@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

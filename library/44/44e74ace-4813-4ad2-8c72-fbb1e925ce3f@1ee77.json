@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "DW01",
+    "atlas": "44e74ace-4813-4ad2-8c72-fbb1e925ce3f",
+    "rect": {
+      "x": 1764,
+      "y": 791,
+      "width": 207,
+      "height": 105
+    },
+    "offset": {
+      "x": 0,
+      "y": -3
+    },
+    "originalSize": {
+      "width": 413,
+      "height": 263
+    },
+    "rotated": true,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "e06f6c3f-6598-4158-9fbd-6021cd98f76c@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

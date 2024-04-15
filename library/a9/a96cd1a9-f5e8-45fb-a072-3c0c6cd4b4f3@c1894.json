@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TigerNormal23",
+    "atlas": "a96cd1a9-f5e8-45fb-a072-3c0c6cd4b4f3",
+    "rect": {
+      "x": 761,
+      "y": 355,
+      "width": 386,
+      "height": 356
+    },
+    "offset": {
+      "x": 3,
+      "y": -2
+    },
+    "originalSize": {
+      "width": 520,
+      "height": 520
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "bbade88b-d78c-49b2-838c-2502b506a7c2@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}
