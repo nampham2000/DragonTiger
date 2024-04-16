@@ -8218,6 +8218,2225 @@
     "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Scene/scene-2d.scene": {
       "time": 1713167764144.323,
       "uuid": "d2909ce2-fa07-4516-a217-d75e95e77804"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation": {
+      "time": 1713274989058.691,
+      "uuid": "a7560bdd-a06f-4455-8c52-913147cafa2d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image": {
+      "time": 1713274989187.9912,
+      "uuid": "4f5be8be-5012-4c86-a329-cc362475b596"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Prefabs": {
+      "time": 1713274989192.0088,
+      "uuid": "d87594e9-9bfb-49a9-b904-858fce46ac9b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scene": {
+      "time": 1713274989196.01,
+      "uuid": "a91e5ad8-86df-4c55-98ca-33a8c1fd9147"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scripts": {
+      "time": 1713274989201.0117,
+      "uuid": "8b4dfd5f-28ed-4c84-ba54-0493384aa01a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\BetValueAnim": {
+      "time": 1713274988724.0613,
+      "uuid": "8cf59d52-c908-4d56-a79d-c5953924dcc8"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Card": {
+      "time": 1713274988728.5718,
+      "uuid": "2cba9735-3950-4bfb-80d2-863f87614915"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Cloud": {
+      "time": 1713274988730.5723,
+      "uuid": "ea9d90d9-c912-49d8-b0d3-fa0c2414cc30"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon": {
+      "time": 1713274988861.2666,
+      "uuid": "d476a9e9-4518-4ac0-834f-1feb8dc47e02"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Startbet": {
+      "time": 1713274988894.2024,
+      "uuid": "d389413a-3c31-46f0-a9b2-0d194a4b9cfb"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger": {
+      "time": 1713274989053.8489,
+      "uuid": "6102e090-26eb-43d5-84bb-98fdceb4c191"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts": {
+      "time": 1713274989147.1487,
+      "uuid": "b58a216a-aa93-481b-96bc-476f63fdf90e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sounds": {
+      "time": 1713274989170.932,
+      "uuid": "663c45a9-ebbb-4d79-8c93-992ba31883ad"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack": {
+      "time": 1713274988781.5051,
+      "uuid": "4ffe0702-2bef-48cc-98f7-98e32ca39eb6"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast": {
+      "time": 1713274988838.2302,
+      "uuid": "6a1532e4-600f-4960-9591-17aea968b88e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Hurt": {
+      "time": 1713274988853.6565,
+      "uuid": "a649ec1a-5a73-46fe-8226-4e6b4505a8dd"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Ide": {
+      "time": 1713274988860.265,
+      "uuid": "91084b6e-11fc-4612-9e51-4205fb383423"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win": {
+      "time": 1713274988891.7231,
+      "uuid": "d599547b-a832-4211-ba71-b9e777e6efc5"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack": {
+      "time": 1713274988984.7434,
+      "uuid": "f5fc984e-8476-4b7d-af15-35851c5f9797"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt": {
+      "time": 1713274989016.6804,
+      "uuid": "ba8101e3-c2cd-42b7-9140-2ecf744477ea"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde": {
+      "time": 1713274989026.8794,
+      "uuid": "5fe40b5c-8ac9-4e81-8d8d-0a909e01bf3f"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIntro": {
+      "time": 1713274989034.8801,
+      "uuid": "ca5c398f-514d-4aeb-a899-7e8894967296"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerWin": {
+      "time": 1713274989047.8694,
+      "uuid": "cc5ada02-553a-42f9-9e7b-6d4b2bad6167"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion": {
+      "time": 1713274988753.4521,
+      "uuid": "b9c20e08-54e7-4fa5-a0ad-878baf062da7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire": {
+      "time": 1713274988776.304,
+      "uuid": "405c879d-525d-4c42-b830-a6b0be5cc2f5"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro": {
+      "time": 1713274988885.5012,
+      "uuid": "f3eca816-4209-436b-8c43-ec1e57031021"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig": {
+      "time": 1713274988929.674,
+      "uuid": "4af82a15-b7e5-4d6a-9895-905f1938eb3b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash": {
+      "time": 1713274988980.7449,
+      "uuid": "2c0fd51e-8783-4648-a9b6-1c1e79a51d7d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scripts\\Chip.ts": {
+      "time": 1713274989197.0137,
+      "uuid": "cd8d8b1c-5af2-46c8-ab1a-7bccd45446f0"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scripts\\GameController.ts": {
+      "time": 1713294132764.0625,
+      "uuid": "d8ab5610-dd96-4f78-9795-6218739fe6f3"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scripts\\NetworkConnect.ts": {
+      "time": 1713292810205.4917,
+      "uuid": "f92887c2-9ea3-4ec7-b5ff-e017e453225f"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scripts\\PlayerList.ts": {
+      "time": 1713274989201.0117,
+      "uuid": "055dedd8-8187-48d0-8ea4-eb0eee651d41"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation.meta": {
+      "time": 1713274988721.6394
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image.meta": {
+      "time": 1713274989058.691
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Prefabs.meta": {
+      "time": 1713274989188.9897
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scene.meta": {
+      "time": 1713274989192.0088
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scripts.meta": {
+      "time": 1713274989197.0137
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\BetValueAnim.meta": {
+      "time": 1713274988722.639
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Card.meta": {
+      "time": 1713274988724.567
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Cloud.meta": {
+      "time": 1713274988728.5718
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon.meta": {
+      "time": 1713274988731.5713
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Startbet.meta": {
+      "time": 1713274988891.7231
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger.meta": {
+      "time": 1713274988894.2024
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts.meta": {
+      "time": 1713274989113.8047
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sounds.meta": {
+      "time": 1713274989169.9324
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack.meta": {
+      "time": 1713274988731.5713
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast.meta": {
+      "time": 1713274988781.5051
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Hurt.meta": {
+      "time": 1713274988839.559
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Ide.meta": {
+      "time": 1713274988854.8901
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win.meta": {
+      "time": 1713274988861.2666
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack.meta": {
+      "time": 1713274988895.1985
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt.meta": {
+      "time": 1713274988985.7437
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde.meta": {
+      "time": 1713274989016.6804
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIntro.meta": {
+      "time": 1713274989026.8794
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerWin.meta": {
+      "time": 1713274989034.8801
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion.meta": {
+      "time": 1713274988733.572
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire.meta": {
+      "time": 1713274988754.585
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro.meta": {
+      "time": 1713274988861.2666
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig.meta": {
+      "time": 1713274988896.1987
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash.meta": {
+      "time": 1713274988930.6753
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scripts\\Chip.ts.meta": {
+      "time": 1713274989198.0105
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scripts\\GameController.ts.meta": {
+      "time": 1713274989200.0132
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scripts\\NetworkConnect.ts.meta": {
+      "time": 1713274989201.0117
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scripts\\PlayerList.ts.meta": {
+      "time": 1713274989202.0107
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\dragonhurt.plist": {
+      "time": 1713274989053.8489,
+      "uuid": "8ae349ac-49da-490c-b6b7-089065e6e3e0"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\dragonhurt.png": {
+      "time": 1713274989057.7131,
+      "uuid": "028a8662-8a97-44a4-8ad3-4eeefade961d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\9d2df9416c6d6c3f61c461e1423462cf.jpg": {
+      "time": 1713274989059.8767,
+      "uuid": "932f8138-d8f4-4cf6-b48f-d455d62c10a3"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\avatar.png": {
+      "time": 1713274989080.889,
+      "uuid": "32d7e92c-01c2-4161-98da-773bceb11e71"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR1.png": {
+      "time": 1713274989060.8845,
+      "uuid": "0b33623d-1fb8-4e7e-a0c7-60f9d0cc37d0"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR10.png": {
+      "time": 1713274989061.8843,
+      "uuid": "5311541c-d7bb-4f66-8d22-1f8adacd5142"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR11.png": {
+      "time": 1713274989062.8843,
+      "uuid": "5dbdda6d-a9cf-4f69-8c58-493c7e130278"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR12.png": {
+      "time": 1713274989063.8848,
+      "uuid": "9214c157-4d4b-47fd-8d49-61c6c81b80de"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR13.png": {
+      "time": 1713274989064.8838,
+      "uuid": "19392e71-8cfb-4671-ab0a-0905a3f27156"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR14.png": {
+      "time": 1713274989065.8855,
+      "uuid": "3ac94e60-eae0-4205-b8db-c38bd9f5c366"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR15.png": {
+      "time": 1713274989066.884,
+      "uuid": "8b56e0bc-d6b0-4a14-bfb8-a7dcb804d832"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR16.png": {
+      "time": 1713274989068.8833,
+      "uuid": "3474fc68-b7e9-44b9-8d19-ea0fca2ab288"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR2.png": {
+      "time": 1713274989069.8843,
+      "uuid": "a625a484-dc01-47c8-be9d-809be35f90f6"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR3.png": {
+      "time": 1713274989071.377,
+      "uuid": "559e0a25-07a3-48e8-ae12-3b25df8669cd"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR4.png": {
+      "time": 1713274989072.386,
+      "uuid": "3cdd1362-d146-4814-8329-7cfc8a267a70"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR5.png": {
+      "time": 1713274989073.3848,
+      "uuid": "19ed3725-a0a1-449f-b6e0-3a6c0605f4aa"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR6.png": {
+      "time": 1713274989074.3835,
+      "uuid": "4b2bcd7b-8731-4573-a389-1d1b9e11802c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR7.png": {
+      "time": 1713274989075.3848,
+      "uuid": "ef5726ee-c302-4a43-96ae-adf0f7465f73"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR8.png": {
+      "time": 1713274989076.3828,
+      "uuid": "95e5197b-3b0b-4f53-bd8f-2a783df80a85"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR9.png": {
+      "time": 1713274989077.3843,
+      "uuid": "5b43b32e-e20e-4c41-ab4f-13a9a85077dd"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\avatarSquare.png": {
+      "time": 1713274989081.889,
+      "uuid": "414af1f6-327c-4489-93f2-3d2e3755bcb2"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\backCard.png": {
+      "time": 1713274989083.3706,
+      "uuid": "0eaef207-8d05-4a9c-89d1-1d4bf438759b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\background.png": {
+      "time": 1713274989088.1272,
+      "uuid": "939b5a72-a6a2-490e-b5ea-ec6c1151107e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\background01.png": {
+      "time": 1713274989095.618,
+      "uuid": "73a0d81e-9967-4182-9a42-d0c57a206a04"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\bg.png": {
+      "time": 1713274989099.6145,
+      "uuid": "25b15f48-d131-4732-ade8-129f77ce661b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip1.png": {
+      "time": 1713274989100.6133,
+      "uuid": "9f0fdf45-c5d9-4acd-b7d1-55d5fd730d1d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip2.png": {
+      "time": 1713274989101.615,
+      "uuid": "0e0ff984-42c0-401d-914d-830de6cafab9"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip3.png": {
+      "time": 1713274989102.6143,
+      "uuid": "dc791b46-60c7-465c-8cb0-7bfaa9777214"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip4.png": {
+      "time": 1713274989102.6143,
+      "uuid": "36e5a9d8-7338-48e6-9177-80140e0fb1f0"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip5.png": {
+      "time": 1713274989103.6218,
+      "uuid": "b9280eab-08a3-4846-af27-75de5ca0a202"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip6.png": {
+      "time": 1713274989104.6196,
+      "uuid": "aea43730-d20d-4c9f-8565-281c859e9632"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\closeBtn.png": {
+      "time": 1713274989105.9775,
+      "uuid": "e26275f6-bcbd-4837-a74d-ffbe50ae3bf3"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\cloud-left.png": {
+      "time": 1713274989105.9775,
+      "uuid": "3906732c-4a7a-4e4e-a4b2-ccfd831f2d1b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\cloud-right.png": {
+      "time": 1713274989106.9856,
+      "uuid": "0b437c17-0a16-4050-bb71-59a3141c3939"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\coinIcon.png": {
+      "time": 1713274989108.4707,
+      "uuid": "e368cfb5-14b1-4c4d-8e4e-af5cfc57ff38"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\Download White Circle PNG.jpeg": {
+      "time": 1713274989078.883,
+      "uuid": "14ae7709-228a-4152-abcb-0b96c291c5cf"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\dragonCard.png": {
+      "time": 1713274989109.4775,
+      "uuid": "0bd369b8-bf86-482b-a7a2-a311b8fcfd52"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\dragonIcon.png": {
+      "time": 1713274989110.4783,
+      "uuid": "fc138120-fb42-46df-aa1b-d0e6d615f949"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\dragonSplash.png": {
+      "time": 1713274989112.8066,
+      "uuid": "923bf97a-bfea-41ec-badd-88f0970f84ac"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\frameAvatar.png": {
+      "time": 1713274989148.1467,
+      "uuid": "aea390dd-8851-451c-b375-3a7a7fd67901"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\goldenChip.png": {
+      "time": 1713274989149.1487,
+      "uuid": "9ba735ea-e519-4aeb-9673-97c2c7065382"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\icon-player.png": {
+      "time": 1713274989149.1487,
+      "uuid": "9c5c75ec-394d-4a0c-9158-320c60fec83e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\logo.png": {
+      "time": 1713274989150.1443,
+      "uuid": "3b7df2f4-d238-4397-9499-cceb3590682e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\logoSplash.png": {
+      "time": 1713274989152.1436,
+      "uuid": "6bcef563-13ce-4791-b73a-0615916d64d4"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\processBar.png": {
+      "time": 1713274989153.147,
+      "uuid": "e142006a-2249-4a2a-9457-e5e6c28d5362"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\processFrame.png": {
+      "time": 1713274989154.4778,
+      "uuid": "366498d4-b61c-4b1a-b6a7-a986f5d98ec9"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s10.png": {
+      "time": 1713274989155.4875,
+      "uuid": "8566a1cd-8ae5-4cd5-96bc-4bafb7e5d9a5"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s2.png": {
+      "time": 1713274989156.4878,
+      "uuid": "d845f913-9da8-454f-ac38-d37c94deafe0"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s3.png": {
+      "time": 1713274989157.486,
+      "uuid": "dc9f5c4b-2b2a-40ed-ba63-e485166c3836"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s4.png": {
+      "time": 1713274989158.486,
+      "uuid": "21ce8fad-2a24-42c0-b3d3-954f102ba87c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s5.png": {
+      "time": 1713274989159.4856,
+      "uuid": "2d92bc09-bfa7-428b-b559-3e0583a071c5"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s6.png": {
+      "time": 1713274989160.4866,
+      "uuid": "c992234b-2d63-4277-9949-d9c3c3431ccf"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s7.png": {
+      "time": 1713274989161.4998,
+      "uuid": "9fff05f9-d970-4905-94f3-0fce4d0391de"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s8.png": {
+      "time": 1713274989162.508,
+      "uuid": "f6e3d277-7d44-4fc4-9e02-d1054adf9281"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s9.png": {
+      "time": 1713274989162.508,
+      "uuid": "204e26e2-4031-4a26-98f9-b145f43743c3"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sA.png": {
+      "time": 1713274989163.5076,
+      "uuid": "288f9c2f-9a99-4007-9488-e817edba2bf2"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\scroll.png": {
+      "time": 1713274989169.9324,
+      "uuid": "1d8debdc-d5e3-4706-88b4-7c53e57ce8d1"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sJ.png": {
+      "time": 1713274989164.5073,
+      "uuid": "dcdbabde-c1f3-4e6d-a11a-3c5df3136456"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sK.png": {
+      "time": 1713274989165.5068,
+      "uuid": "336b50b5-89c0-4de9-985e-ecaff5ddab85"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sQ.png": {
+      "time": 1713274989166.9243,
+      "uuid": "5a987fdb-4920-4c13-b572-434e2e3a48c4"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\startBet.png": {
+      "time": 1713274989172.2146,
+      "uuid": "ba726bf0-65c1-4d38-b77c-056abf3b3f41"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\stopBet.png": {
+      "time": 1713274989174.2212,
+      "uuid": "0c724ca2-9a08-46c2-95e0-06a104a3024a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\table 43.png": {
+      "time": 1713274989174.2212,
+      "uuid": "937064b3-f29d-4b83-98ea-5eab12c9f8ab"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\table 52.png": {
+      "time": 1713274989175.6104,
+      "uuid": "837dec81-cc21-4b11-84d9-572ff118c94a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\table 54.png": {
+      "time": 1713274989177.62,
+      "uuid": "97f4effc-5616-461c-8d8f-7644db9fdd3a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\table 56.png": {
+      "time": 1713274989178.6177,
+      "uuid": "63746e3b-ab31-4f40-bc01-e446ad1c27a3"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\tieCard.png": {
+      "time": 1713274989179.618,
+      "uuid": "c63e3f8a-6580-4ccf-b5d6-17a0b5af9fd4"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\tieIcon.png": {
+      "time": 1713274989180.6165,
+      "uuid": "d4ec2b5d-d7db-47ca-94f2-bcd7a357932d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\tigerCard.png": {
+      "time": 1713274989181.6174,
+      "uuid": "3c478ba8-8bfa-4768-ac2f-111d37b270d5"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\tigerIcon.png": {
+      "time": 1713274989182.6162,
+      "uuid": "536f0e46-0479-47c9-bbf3-825ab28e1c5d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\tigerSplash.png": {
+      "time": 1713274989184.6187,
+      "uuid": "2c01b504-028e-4c61-a5ae-4a45cd6ad741"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\Untitled-1.png": {
+      "time": 1713274989079.889,
+      "uuid": "c155e90b-fe3e-4ac2-b4c1-cbb7d353d9a9"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\white-circle-png-new-moon-phase-drawi-11563654400bdrw3yigxk.png": {
+      "time": 1713274989186.988,
+      "uuid": "31dd78f5-7da5-4deb-9d4f-47e96c06583b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Prefabs\\DragonWin.prefab": {
+      "time": 1713274989188.9897,
+      "uuid": "c3aecb3e-9266-476a-adec-4a8895899baa"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Prefabs\\Tie.prefab": {
+      "time": 1713274989190.0122,
+      "uuid": "bcabb7b4-2089-43ca-b4d6-c85eaeb24642"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Prefabs\\TigerWin.prefab": {
+      "time": 1713274989192.0088,
+      "uuid": "0584e434-4342-43a9-a905-c17bc6f3a5ab"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scene\\Game.scene": {
+      "time": 1713294398553.657,
+      "uuid": "6223537d-4143-493b-8d2a-2511d740155b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scene\\scene-2d.scene": {
+      "time": 1713274989196.01,
+      "uuid": "d2909ce2-fa07-4516-a217-d75e95e77804"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\BetValueAnim\\AnimPay.anim": {
+      "time": 1713274988722.639,
+      "uuid": "9f6f30d5-b965-4a53-ae28-9f2d7e5895b2"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Card\\An.plist": {
+      "time": 1713274988725.584,
+      "uuid": "e6ffc856-b01e-4527-a905-8f8469afdcad"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Card\\An.png": {
+      "time": 1713274988726.5725,
+      "uuid": "24943795-c686-488b-b930-0ba009f590ec"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Card\\Cardshuff.anim": {
+      "time": 1713274988727.5723,
+      "uuid": "7f6e2aab-f34f-458f-92c8-2c8e195cff8c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Cloud\\CloudLeft.anim": {
+      "time": 1713274988729.5723,
+      "uuid": "d576269a-ae58-4269-9b1f-4ef354c1d523"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Cloud\\CloudRight.anim": {
+      "time": 1713274988729.5723,
+      "uuid": "59587392-9272-489c-abde-58eba0d7baac"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonHurt.anim": {
+      "time": 1713274988839.559,
+      "uuid": "3ce2335f-7caa-4aee-abd7-2d8927c7aac8"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Startbet\\EndBet.anim": {
+      "time": 1713274988893.1907,
+      "uuid": "c047dd7a-9c2d-485a-ac6f-6d58bf4ca40f"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Startbet\\Startbet.anim": {
+      "time": 1713274988893.1907,
+      "uuid": "b1d0043a-c193-4049-a08d-4770ffa96de4"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\tigerIde2.plist": {
+      "time": 1713274989048.8528,
+      "uuid": "f2325255-9bce-46a6-85eb-20058aa8ea57"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\tigerIde2.png": {
+      "time": 1713274989053.8489,
+      "uuid": "c9d2f33a-8afd-4833-9e3d-b719f1bfe087"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Neusharp-Bold.ttf": {
+      "time": 1713274989115.8054,
+      "uuid": "6ff8c28f-c427-4416-a156-ca29e93d92fe"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Black.ttf": {
+      "time": 1713274989118.306,
+      "uuid": "9a9d898f-96a6-4834-acf7-0b33bf9ac700"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-BlackItalic.ttf": {
+      "time": 1713274989120.601,
+      "uuid": "838fb5ae-37b6-4c2a-9198-8a588d5719ac"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Bold.ttf": {
+      "time": 1713274989123.6218,
+      "uuid": "44549c6a-07ed-4a60-8a4a-54a9c605c249"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-BoldItalic.ttf": {
+      "time": 1713274989126.6511,
+      "uuid": "65954992-e410-42b6-90c7-b668b5e5d243"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Italic.ttf": {
+      "time": 1713274989128.6582,
+      "uuid": "a28502db-6da0-4e88-921d-2d2764f23a24"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Light.ttf": {
+      "time": 1713274989130.7334,
+      "uuid": "3c2a9b9d-8f91-4a82-bd37-42beb24a88e8"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-LightItalic.ttf": {
+      "time": 1713274989133.7366,
+      "uuid": "281f97ab-641a-4016-88d8-3143a16c897a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Medium.ttf": {
+      "time": 1713274989135.7344,
+      "uuid": "820e3749-03ec-4d3f-bb2e-95601dd7f7c9"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-MediumItalic.ttf": {
+      "time": 1713274989139.1367,
+      "uuid": "c094efd6-7d2f-4e8d-ae3c-2b954e791554"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Regular.ttf": {
+      "time": 1713274989141.144,
+      "uuid": "f7ee8b9f-0598-4cb2-b482-9b39d486bd92"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Thin.ttf": {
+      "time": 1713274989144.146,
+      "uuid": "835c6fd1-2e0d-4f44-a521-86c5cfddbea9"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-ThinItalic.ttf": {
+      "time": 1713274989147.1487,
+      "uuid": "279a6ba2-9aee-40e6-83bf-f9d67a9034f0"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sounds\\intro.mp3": {
+      "time": 1713274989170.932,
+      "uuid": "818b24ab-7327-4d3d-948b-e301e3c5ce03"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\DragonAttack.anim": {
+      "time": 1713274988732.5715,
+      "uuid": "52ba68e9-d3aa-48ea-af4f-92ee4716cb3d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\dragpnAttack.plist": {
+      "time": 1713274988776.304,
+      "uuid": "7a8e78cf-fbd1-46c3-962b-975713e1f1ed"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\dragpnAttack.png": {
+      "time": 1713274988780.5042,
+      "uuid": "60eb3b67-83c5-4342-96d6-bd32e1a29c23"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_00.png": {
+      "time": 1713274988783.5225,
+      "uuid": "e463b4e0-5952-46c8-98a9-c99172d63a54"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_01.png": {
+      "time": 1713274988785.5059,
+      "uuid": "d6f7e4c4-7407-444f-a255-5a9de85add12"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_02.png": {
+      "time": 1713274988787.5063,
+      "uuid": "356142e2-0b32-4a46-8b6e-731e136bce31"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_03.png": {
+      "time": 1713274988788.5066,
+      "uuid": "80c5b83b-8d37-4ddc-aa6b-5f0f3c3599c7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_04.png": {
+      "time": 1713274988790.0117,
+      "uuid": "e96f0672-a66f-497a-b2b3-dcb187bba904"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_05.png": {
+      "time": 1713274988791.02,
+      "uuid": "a46ef5a3-756b-4a60-96c1-f78d921ce9da"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_06.png": {
+      "time": 1713274988793.0205,
+      "uuid": "9fb52314-085f-49a5-b196-bb707e2d2f51"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_07.png": {
+      "time": 1713274988794.021,
+      "uuid": "b522dfea-ba21-4094-92a0-fb1b22fb9a79"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_08.png": {
+      "time": 1713274988795.0183,
+      "uuid": "d9ec147d-1ed6-4f2f-93a9-3e14e908a40e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_09.png": {
+      "time": 1713274988797.0203,
+      "uuid": "d642c206-da2a-4375-96de-2f69d17fb250"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_10.png": {
+      "time": 1713274988798.0198,
+      "uuid": "28bd1691-4b3a-4a82-9974-ada49ebdd595"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_11.png": {
+      "time": 1713274988800.019,
+      "uuid": "17f556d4-6b02-455b-b442-9de17908fac7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_12.png": {
+      "time": 1713274988801.0188,
+      "uuid": "4f8b1c80-013e-4893-ab28-2018dad5c42a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_13.png": {
+      "time": 1713274988803.0227,
+      "uuid": "7459fc71-8a03-4bdb-bcdd-98576e97cee0"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_14.png": {
+      "time": 1713274988804.0234,
+      "uuid": "f7a928a3-ddbe-4be7-be07-e6970c6a567e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_15.png": {
+      "time": 1713274988805.0234,
+      "uuid": "ca5583e1-3741-4c41-bb88-20c03ebe3359"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_16.png": {
+      "time": 1713274988807.023,
+      "uuid": "93ee5e5a-5e3a-4312-bdb1-0e7652a0ebf8"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_17.png": {
+      "time": 1713274988808.0413,
+      "uuid": "84cd54be-d662-46ed-b2b9-6b536232e1e5"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_18.png": {
+      "time": 1713274988809.0671,
+      "uuid": "8a50c35e-7029-4491-b013-8f52d0612d3d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_19.png": {
+      "time": 1713274988811.0713,
+      "uuid": "b8c2388e-f2d1-43b7-9b3c-1f51c7ea4848"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_20.png": {
+      "time": 1713274988812.0676,
+      "uuid": "1c079bf1-c612-4626-b2dd-fe3cd745436c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_21.png": {
+      "time": 1713274988814.067,
+      "uuid": "a22d3f19-2bc3-452d-b704-8c8631efc70c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_22.png": {
+      "time": 1713274988815.0679,
+      "uuid": "b842e97a-27b4-4d90-9f8e-d2c6223d1f24"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_23.png": {
+      "time": 1713274988816.0676,
+      "uuid": "c6a10c9b-2a7c-47e8-90b9-62f2d9af2ece"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_24.png": {
+      "time": 1713274988817.5747,
+      "uuid": "f4884592-3df4-4e26-b823-b699227c7b49"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_25.png": {
+      "time": 1713274988819.5815,
+      "uuid": "403f8df7-d99c-49bd-b068-f2d627b609ba"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_26.png": {
+      "time": 1713274988820.5823,
+      "uuid": "724f59e9-ef88-42c2-ba10-536c2307c149"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_27.png": {
+      "time": 1713274988821.5818,
+      "uuid": "20576290-67c5-45d8-9d2f-39634efd10e4"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_28.png": {
+      "time": 1713274988822.5818,
+      "uuid": "47af3c31-e74b-41f3-94d6-cdd14e3a8d70"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_29.png": {
+      "time": 1713274988824.9546,
+      "uuid": "b8c21ee1-c5a5-4f50-ab32-f2a7eb5c51c0"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_30.png": {
+      "time": 1713274988825.9543,
+      "uuid": "df78659e-829a-4171-8ce3-5b5748b5d25f"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_31.png": {
+      "time": 1713274988828.9563,
+      "uuid": "d2fe7391-bc5d-41f5-a206-16a812e50e2e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_32.png": {
+      "time": 1713274988829.9556,
+      "uuid": "c10bf7bf-3dc8-4665-a605-4e79e6d7f91f"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_33.png": {
+      "time": 1713274988831.955,
+      "uuid": "9b698616-1869-46bb-bcca-4c69f8b0df73"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_34.png": {
+      "time": 1713274988833.9553,
+      "uuid": "6daf11bf-1287-44ba-90e7-84566a4c1078"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_35.png": {
+      "time": 1713274988835.9563,
+      "uuid": "86c57a30-d27a-4fec-bb59-ffecd47efb72"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_36.png": {
+      "time": 1713274988837.2158,
+      "uuid": "5aae725f-5ed3-4908-809a-6ea81ab8484f"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_37.png": {
+      "time": 1713274988838.2302,
+      "uuid": "535031af-6c26-40d3-ba44-b54cf9eb1270"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Hurt\\DragonHurt.anim": {
+      "time": 1713274988840.7952,
+      "uuid": "43ace0c1-0e51-45bb-9e62-92cf4d894eb4"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Hurt\\DragonHurt.plist": {
+      "time": 1713274988842.276,
+      "uuid": "b60f60e3-616f-48ce-97bf-3bd1d817b7db"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Hurt\\DragonHurt.png": {
+      "time": 1713274988852.6567,
+      "uuid": "347712a3-f874-46bb-8116-8ae4141123e9"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Ide\\DragonIde.anim": {
+      "time": 1713274988854.8901,
+      "uuid": "6b736ba2-16df-4d4f-bb98-e4b9d8e668f0"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Ide\\DragonIde.plist": {
+      "time": 1713274988856.2598,
+      "uuid": "92ef52ec-668f-43f8-a6f6-3d7a43ee5e41"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Ide\\DragonIde.png": {
+      "time": 1713274988860.265,
+      "uuid": "646277fc-f1d5-4b9b-a955-27937e012736"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\dragonWin.plist": {
+      "time": 1713274988887.7117,
+      "uuid": "44e74ace-4813-4ad2-8c72-fbb1e925ce3f"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\dragonWin.png": {
+      "time": 1713274988890.7163,
+      "uuid": "e06f6c3f-6598-4158-9fbd-6021cd98f76c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonWinIcon.anim": {
+      "time": 1713274988885.5012,
+      "uuid": "27fbf84c-3892-467b-bb14-5d3f598aaa56"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\TigerAttack.anim": {
+      "time": 1713274988981.7444,
+      "uuid": "cfd41de8-9d5b-47ba-923e-7bad737f44ba"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\tigerAttack2.plist": {
+      "time": 1713274988981.7444,
+      "uuid": "c3691ebe-19dc-4b8b-a30f-8868c42ee3b8"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\tigerAttack2.png": {
+      "time": 1713274988984.7434,
+      "uuid": "0bf88688-a6ef-4fe7-80a2-8113bb92e621"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH00.png": {
+      "time": 1713274988986.7441,
+      "uuid": "f87243d4-3fa8-493f-b29a-d03fa02052e9"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH01.png": {
+      "time": 1713274988988.7456,
+      "uuid": "af860b3f-6b44-4920-be88-4e2938519030"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH02.png": {
+      "time": 1713274988989.7454,
+      "uuid": "2e250491-b2ec-436a-8955-d5ca995c1ec2"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH03.png": {
+      "time": 1713274988990.745,
+      "uuid": "ea9701c5-27af-4076-97c0-893f53673f18"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH04.png": {
+      "time": 1713274988992.1648,
+      "uuid": "e10a12cc-c8bf-4179-be35-d4457d5cbad8"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH05.png": {
+      "time": 1713274988994.1707,
+      "uuid": "141a1498-6462-4775-949b-eccfdc59306c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH06.png": {
+      "time": 1713274988995.171,
+      "uuid": "3fa62ed5-476a-4668-bad5-7cdf7bd7c598"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH07.png": {
+      "time": 1713274988996.1704,
+      "uuid": "762016b7-c340-4895-9cf7-80c6d74fc2cd"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH08.png": {
+      "time": 1713274988997.5679,
+      "uuid": "d2c981e1-f66c-493a-815a-549e6675b98f"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH09.png": {
+      "time": 1713274988999.5742,
+      "uuid": "15e9469f-52b2-4218-9ebf-a0e6e6ed6b8e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH10.png": {
+      "time": 1713274989001.5764,
+      "uuid": "a7614efe-df43-44ba-a48c-00f42238d642"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH11.png": {
+      "time": 1713274989002.5962,
+      "uuid": "02520890-3aa8-40d8-8e39-01cab5fd8f1e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH12.png": {
+      "time": 1713274989004.609,
+      "uuid": "50823050-526a-4bdd-adab-aa66a6a873c7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH13.png": {
+      "time": 1713274989005.6104,
+      "uuid": "9e66f272-6503-4a3d-a714-75b032e47467"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH14.png": {
+      "time": 1713274989007.6853,
+      "uuid": "11181707-0ed2-4818-a131-189a15b3e7a7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH15.png": {
+      "time": 1713274989008.6953,
+      "uuid": "ac44eac4-ef0a-46fa-8987-499775c4cd12"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH16.png": {
+      "time": 1713274989009.693,
+      "uuid": "0e4d8f80-0886-4f68-82c0-463623eb5f02"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH17.png": {
+      "time": 1713274989011.1604,
+      "uuid": "db76030b-b536-4d17-87d3-4bc3719b7b52"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH18.png": {
+      "time": 1713274989012.1719,
+      "uuid": "17d86e6f-de60-4167-ad09-19ed1742d7ae"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH19.png": {
+      "time": 1713274989014.1714,
+      "uuid": "feda6dac-cec7-4bc7-9a51-77f197e27167"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH20.png": {
+      "time": 1713274989015.6719,
+      "uuid": "11e5eed9-6bbb-4520-9068-55464343bb64"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TigerHurt.anim": {
+      "time": 1713274989015.6719,
+      "uuid": "2c173957-a498-4d7e-a6f4-f758e5409328"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde\\TigerIde.anim": {
+      "time": 1713274989017.6812,
+      "uuid": "527c13a6-c1b4-4b77-8816-5ca98d2a9c14"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde\\TigerIde.plist": {
+      "time": 1713274989018.6926,
+      "uuid": "a96cd1a9-f5e8-45fb-a072-3c0c6cd4b4f3"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde\\TigerIde.png": {
+      "time": 1713274989021.705,
+      "uuid": "bbade88b-d78c-49b2-838c-2502b506a7c2"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde\\TigerIdeFix.plist": {
+      "time": 1713274989022.8552,
+      "uuid": "5c42830e-d775-4941-9c03-8f114c9b18b7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde\\TigerIdeFix.png": {
+      "time": 1713274989026.8794,
+      "uuid": "3a2200fb-87fa-42c6-989e-b70ee5119d7e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIntro\\TigerIntro.anim": {
+      "time": 1713274989027.8809,
+      "uuid": "a77790d7-ddec-4662-8a9e-19cb4393c87d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIntro\\TigerIntro.plist": {
+      "time": 1713274989028.88,
+      "uuid": "7f5d6fd6-dd13-4802-a1cb-f1db402040dd"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIntro\\TigerIntro.png": {
+      "time": 1713274989033.878,
+      "uuid": "6331d71f-dc8b-44db-8988-45fe5ad9c751"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerWin\\TigerWin.anim": {
+      "time": 1713274989035.8794,
+      "uuid": "efb7438a-47b4-4a3d-97ef-32df55276567"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerWin\\tigerWin.plist": {
+      "time": 1713274989036.879,
+      "uuid": "ecff177e-a994-474e-800a-a9824de5eca9"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerWin\\tigerWin.png": {
+      "time": 1713274989047.8694,
+      "uuid": "a0eb16f9-cc73-467e-b175-afe46c6ceb08"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Boom.anim": {
+      "time": 1713274988734.5718,
+      "uuid": "8e89cc53-c742-40ea-9e75-964a76229d4f"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo00.png": {
+      "time": 1713274988735.5715,
+      "uuid": "21b3513f-018a-481b-8469-8585d33dd847"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo01.png": {
+      "time": 1713274988736.5708,
+      "uuid": "3526e4f3-74e3-4dd1-aac2-070dfd586de3"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo02.png": {
+      "time": 1713274988738.5723,
+      "uuid": "ba591cce-3921-465c-af13-d427073a6063"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo03.png": {
+      "time": 1713274988739.5713,
+      "uuid": "76b75d77-bb7d-437c-aaaa-954bac9a92f5"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo04.png": {
+      "time": 1713274988740.5728,
+      "uuid": "67eba554-c03c-42f1-befb-f4419b3358ac"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo05.png": {
+      "time": 1713274988742.578,
+      "uuid": "3938b4e1-ce92-42e5-b749-359ac148b07b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo06.png": {
+      "time": 1713274988743.5735,
+      "uuid": "fae2fbfe-7a4c-460c-8cd3-34afe8759a35"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo07.png": {
+      "time": 1713274988744.9165,
+      "uuid": "c7e9b976-20fc-4010-a872-3c5ea14ee54b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo08.png": {
+      "time": 1713274988745.9268,
+      "uuid": "13e654d6-b098-48f4-adb2-bc766823062a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo09.png": {
+      "time": 1713274988747.9236,
+      "uuid": "edbbbd20-72dc-4f72-8916-8a87cc8f49d5"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo10.png": {
+      "time": 1713274988748.924,
+      "uuid": "2a54cac5-3d9d-454b-80cc-2b6ebaf98bc2"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo11.png": {
+      "time": 1713274988749.923,
+      "uuid": "ecb37115-802c-4dd6-83ef-3250e61f6494"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo12.png": {
+      "time": 1713274988751.408,
+      "uuid": "5313acd9-ced6-4974-bb90-ff7df9571c07"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo13.png": {
+      "time": 1713274988752.4177,
+      "uuid": "8749f49b-a72a-431e-9838-22d4a2654b9d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo14.png": {
+      "time": 1713274988752.4177,
+      "uuid": "d51398c3-4276-46ea-a91a-8dbefee893cb"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo15.png": {
+      "time": 1713274988753.4521,
+      "uuid": "b5d08e17-71ee-4226-a9fd-b96a7441840d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire00.png": {
+      "time": 1713274988755.8088,
+      "uuid": "47733551-8e0e-4837-a9cd-33c620bdd0ef"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire01.png": {
+      "time": 1713274988756.853,
+      "uuid": "e23a99e5-382b-4444-8726-0eebfe5c69ea"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire02.png": {
+      "time": 1713274988757.8157,
+      "uuid": "0890317d-4bec-4ffc-a11d-570a92e1e95d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire03.png": {
+      "time": 1713274988758.8154,
+      "uuid": "d8b83fec-6f52-4b2e-8149-7a84d6e3de92"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire04.png": {
+      "time": 1713274988759.8176,
+      "uuid": "9948d854-9df8-4a2c-8b08-31e39accd725"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire05.png": {
+      "time": 1713274988761.8188,
+      "uuid": "c1819128-0a3d-4d0f-9fb6-c151fbead7dd"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire06.png": {
+      "time": 1713274988762.818,
+      "uuid": "f983194e-b38b-497c-ae6a-82ab93d206b7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire07.png": {
+      "time": 1713274988763.8174,
+      "uuid": "318801e0-cd8f-4689-b47f-d9f625220e4d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire08.png": {
+      "time": 1713274988764.8164,
+      "uuid": "c1963664-9c94-4336-89d2-965deeaf1e9b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire09.png": {
+      "time": 1713274988766.8186,
+      "uuid": "ed63c255-52ca-4319-bf24-aa01667a7f57"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire10.png": {
+      "time": 1713274988767.817,
+      "uuid": "4cdaed72-94a1-4284-8af8-736a819550d4"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire11.png": {
+      "time": 1713274988768.8154,
+      "uuid": "653dca1c-0ad5-4579-90fa-3f687a4adf5a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire12.png": {
+      "time": 1713274988769.8154,
+      "uuid": "34dc7f2d-2fe8-4f1a-911f-cb0226860089"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire13.png": {
+      "time": 1713274988769.8154,
+      "uuid": "038573a6-1c4e-4614-a561-95ae3d80cc8c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire14.png": {
+      "time": 1713274988770.8157,
+      "uuid": "aa56d903-8e78-4a8f-8182-6f8ccdbc7edc"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire15.png": {
+      "time": 1713274988771.8157,
+      "uuid": "174c4e30-9842-4ade-a2ac-1ec84df72f41"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire16.png": {
+      "time": 1713274988772.8176,
+      "uuid": "fb37dc22-3d72-433e-96c8-37785f5baa2d"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire17.png": {
+      "time": 1713274988773.817,
+      "uuid": "557bb94c-f5b5-4a66-9a48-dd9fd25883d3"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire18.png": {
+      "time": 1713274988775.2964,
+      "uuid": "5854e71c-c459-41c6-a871-17f3fa985c48"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire19.png": {
+      "time": 1713274988775.2964,
+      "uuid": "eb287334-9259-4319-bd5a-d1114de6abb7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro\\DragonIntro.anim": {
+      "time": 1713274988863.13,
+      "uuid": "a209d163-5ecd-4676-8d5a-37657c8b1e10"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro\\DragonIntro.plist": {
+      "time": 1713274988864.1394,
+      "uuid": "6eae7d0e-3ca4-4a3c-9c05-278f71cf9114"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro\\DragonIntro.png": {
+      "time": 1713274988875.3591,
+      "uuid": "419d3e44-a190-4778-8018-d15587ac91a0"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro\\dragonWin-0.plist": {
+      "time": 1713274988877.3613,
+      "uuid": "9fc1fb23-6012-4db5-aa23-a7a5b8fffa07"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro\\dragonWin-0.png": {
+      "time": 1713274988884.5002,
+      "uuid": "753f13f7-4c36-44ab-96e0-90d136237210"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_00.png": {
+      "time": 1713274988897.199,
+      "uuid": "e12687e2-d93b-401c-a677-44ee19143e16"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_01.png": {
+      "time": 1713274988899.1975,
+      "uuid": "6a551830-08db-4e0a-ba2e-2174b4bb69cb"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_02.png": {
+      "time": 1713274988901.1997,
+      "uuid": "222c54b8-f660-4950-8095-a63433d146f7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_03.png": {
+      "time": 1713274988903.2078,
+      "uuid": "e3e0d0d4-3e30-4ea2-b970-c6ba0d4d0d12"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_04.png": {
+      "time": 1713274988904.565,
+      "uuid": "dd0429d1-542b-41ac-8970-13c4cc18368c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_05.png": {
+      "time": 1713274988906.5735,
+      "uuid": "536e2d0a-04c5-46cf-9020-3ccb1327ce4c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_06.png": {
+      "time": 1713274988908.5735,
+      "uuid": "b3717ddb-4446-4313-86b7-bfe4302bd048"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_07.png": {
+      "time": 1713274988909.573,
+      "uuid": "1eabde20-4a2b-4f6e-a6fa-ee87e0fd99df"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_08.png": {
+      "time": 1713274988912.0107,
+      "uuid": "3967fac2-16ab-42af-a314-549c65950c4e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_09.png": {
+      "time": 1713274988914.013,
+      "uuid": "7a6c187a-412e-4188-bc20-71b8dd6d1225"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_10.png": {
+      "time": 1713274988915.0132,
+      "uuid": "73ad5306-5341-46da-bbe9-dd507945a379"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_11.png": {
+      "time": 1713274988916.0117,
+      "uuid": "365740d5-5c54-4c7b-b5ab-0d7d0d9d8f8c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_12.png": {
+      "time": 1713274988918.75,
+      "uuid": "653dfcd2-1553-451c-9cce-b2f4ae03f788"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_13.png": {
+      "time": 1713274988921.662,
+      "uuid": "16cc0bbb-e231-4758-a626-a72a1eed2ee7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_14.png": {
+      "time": 1713274988923.6736,
+      "uuid": "896d7719-d645-4fb7-9184-4391704a3935"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_15.png": {
+      "time": 1713274988924.6753,
+      "uuid": "80e3b72e-3414-490c-91e4-e1b08fc3fa6a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_16.png": {
+      "time": 1713274988925.6753,
+      "uuid": "8b45501a-2c5a-48c7-8d07-ebc10e4b98be"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_17.png": {
+      "time": 1713274988926.6738,
+      "uuid": "fb2a3516-a62f-4b37-a008-17c840c72c13"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_18.png": {
+      "time": 1713274988927.6753,
+      "uuid": "0930a4a6-dc9c-42de-9ba2-67579dc8465b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_19.png": {
+      "time": 1713274988928.6743,
+      "uuid": "7d9478ea-b3bd-458c-8513-7aac29ef5cd4"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_20.png": {
+      "time": 1713274988929.674,
+      "uuid": "9f4f0758-5313-4490-995f-8b7bd1414193"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_00.png": {
+      "time": 1713274988931.6743,
+      "uuid": "417aedab-bef8-4eff-aad7-1c7d6c7ec2b9"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_01.png": {
+      "time": 1713274988932.675,
+      "uuid": "3728a03d-bf9b-4f3f-898c-c5398ec02f7c"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_02.png": {
+      "time": 1713274988934.1406,
+      "uuid": "6d69cae7-ad9f-42f9-aab1-8c4bbe2d475e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_03.png": {
+      "time": 1713274988935.2036,
+      "uuid": "9c3f4e59-834f-42a5-a33c-930b80fada05"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_04.png": {
+      "time": 1713274988936.2036,
+      "uuid": "d427ba88-8b3b-454f-9ec1-a2ebc21ad151"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_05.png": {
+      "time": 1713274988937.212,
+      "uuid": "c9830578-4117-490c-ab20-2f6a5ec92742"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_06.png": {
+      "time": 1713274988938.2039,
+      "uuid": "a3960f22-a7b8-44ee-bc1f-f29da56411a8"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_07.png": {
+      "time": 1713274988939.204,
+      "uuid": "10ef8408-5ffc-4b23-9160-2e15eeda1214"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_08.png": {
+      "time": 1713274988941.2046,
+      "uuid": "8c5ea15a-d00a-4009-ac46-251b9f7d56ba"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_09.png": {
+      "time": 1713274988942.2039,
+      "uuid": "e6832c4e-4851-4da9-bf03-448a126cede9"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_10.png": {
+      "time": 1713274988944.2031,
+      "uuid": "55acca9f-b11c-43e4-af7e-5343ba2eb448"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_11.png": {
+      "time": 1713274988945.2048,
+      "uuid": "673ac4f6-1d59-44e9-9f37-9dbfc0dddd0e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_12.png": {
+      "time": 1713274988947.2046,
+      "uuid": "baa0c76d-5fb2-4846-89d4-ecb7ebb5deba"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_13.png": {
+      "time": 1713274988949.2048,
+      "uuid": "beac8f13-de4c-4af5-acb4-4b87d6544de7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_14.png": {
+      "time": 1713274988951.2046,
+      "uuid": "f23b1f80-e414-420d-a80f-c8317a4b93dd"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_15.png": {
+      "time": 1713274988952.2046,
+      "uuid": "45e91d4b-9ea8-4d88-b81c-de3dce643a3a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_16.png": {
+      "time": 1713274988954.5544,
+      "uuid": "fb629be8-954e-456a-be13-de73a203947e"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_17.png": {
+      "time": 1713274988955.5544,
+      "uuid": "5f70184d-1d32-4270-b8c6-a6a35cf17bdf"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_18.png": {
+      "time": 1713274988957.558,
+      "uuid": "387d0b3c-09d9-4753-bd9d-bdce23411758"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_19.png": {
+      "time": 1713274988960.5972,
+      "uuid": "b2f30339-79f3-42ac-8192-9fe3b2a0e39b"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_20.png": {
+      "time": 1713274988962.6057,
+      "uuid": "635c5ef9-3b6c-4cdf-9cff-8d8ab8f5f54a"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_21.png": {
+      "time": 1713274988963.6045,
+      "uuid": "92d385da-8a6a-4e35-8bbf-e3ce4d107cc7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_22.png": {
+      "time": 1713274988965.6052,
+      "uuid": "9240bf66-4785-45ec-9082-462b88318a42"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_23.png": {
+      "time": 1713274988968.0398,
+      "uuid": "e193f707-5dff-4958-8a55-3c6f010d6028"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_24.png": {
+      "time": 1713274988970.0425,
+      "uuid": "a80d100e-657d-4f76-8397-ff0a52961307"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_25.png": {
+      "time": 1713274988972.0422,
+      "uuid": "1316a77e-2c44-4814-834c-60b90711d048"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_26.png": {
+      "time": 1713274988973.5278,
+      "uuid": "cdc3ea61-5127-4f1c-8318-ce7842ef0070"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_27.png": {
+      "time": 1713274988975.7446,
+      "uuid": "93dac988-8888-48e1-abfe-6abedcf2f5bf"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_28.png": {
+      "time": 1713274988976.7466,
+      "uuid": "07b65f17-df2c-4cd1-889f-f5b1774082b5"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_29.png": {
+      "time": 1713274988977.7463,
+      "uuid": "520b8784-c132-4042-9a83-b71dd7d9db87"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_30.png": {
+      "time": 1713274988978.7434,
+      "uuid": "7aa60ede-f301-4efd-aaa8-15cda9cbbf66"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_31.png": {
+      "time": 1713274988979.7437,
+      "uuid": "63655711-8227-40b0-8598-fe1a04ee0da7"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_32.png": {
+      "time": 1713274988980.7449,
+      "uuid": "da38395c-dae8-4f3d-a268-3e9624cdefdb"
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\avatar.png.meta": {
+      "time": 1713274989081.889
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR1.png.meta": {
+      "time": 1713274989061.8843
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\9d2df9416c6d6c3f61c461e1423462cf.jpg.meta": {
+      "time": 1713274989059.8767
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\dragonhurt.png.meta": {
+      "time": 1713274989058.691
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR10.png.meta": {
+      "time": 1713274989062.8843
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR11.png.meta": {
+      "time": 1713274989063.8848
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR12.png.meta": {
+      "time": 1713274989064.8838
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR13.png.meta": {
+      "time": 1713274989065.8855
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR15.png.meta": {
+      "time": 1713274989067.8835
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR14.png.meta": {
+      "time": 1713274989066.884
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR16.png.meta": {
+      "time": 1713274989068.8833
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR2.png.meta": {
+      "time": 1713274989069.8843
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR3.png.meta": {
+      "time": 1713274989071.377
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR4.png.meta": {
+      "time": 1713274989072.386
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR5.png.meta": {
+      "time": 1713274989073.3848
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR6.png.meta": {
+      "time": 1713274989074.3835
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR7.png.meta": {
+      "time": 1713274989076.3828
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR9.png.meta": {
+      "time": 1713274989077.3843
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\AVATAR8.png.meta": {
+      "time": 1713274989077.3843
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\avatarSquare.png.meta": {
+      "time": 1713274989081.889
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\dragonhurt.plist.meta": {
+      "time": 1713274989054.8477
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\backCard.png.meta": {
+      "time": 1713274989083.3706
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip1.png.meta": {
+      "time": 1713274989100.6133
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\bg.png.meta": {
+      "time": 1713274989099.6145
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip2.png.meta": {
+      "time": 1713274989101.615
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\background.png.meta": {
+      "time": 1713274989088.1272
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\background01.png.meta": {
+      "time": 1713274989096.6155
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip3.png.meta": {
+      "time": 1713274989102.6143
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip4.png.meta": {
+      "time": 1713274989103.6218
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip5.png.meta": {
+      "time": 1713274989104.6196
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\chip6.png.meta": {
+      "time": 1713274989104.6196
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\closeBtn.png.meta": {
+      "time": 1713274989105.9775
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\cloud-left.png.meta": {
+      "time": 1713274989106.9856
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\coinIcon.png.meta": {
+      "time": 1713274989109.4775
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\cloud-right.png.meta": {
+      "time": 1713274989106.9856
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\Download White Circle PNG.jpeg.meta": {
+      "time": 1713274989078.883
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\dragonCard.png.meta": {
+      "time": 1713274989110.4783
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\dragonIcon.png.meta": {
+      "time": 1713274989110.4783
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\frameAvatar.png.meta": {
+      "time": 1713274989148.1467
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\icon-player.png.meta": {
+      "time": 1713274989150.1443
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\goldenChip.png.meta": {
+      "time": 1713274989149.1487
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\dragonSplash.png.meta": {
+      "time": 1713274989113.8047
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\logo.png.meta": {
+      "time": 1713274989151.1438
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\processBar.png.meta": {
+      "time": 1713274989153.147
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\logoSplash.png.meta": {
+      "time": 1713274989153.147
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\processFrame.png.meta": {
+      "time": 1713274989154.4778
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s10.png.meta": {
+      "time": 1713274989155.4875
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s2.png.meta": {
+      "time": 1713274989156.4878
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s3.png.meta": {
+      "time": 1713274989157.486
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s4.png.meta": {
+      "time": 1713274989158.486
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s5.png.meta": {
+      "time": 1713274989159.4856
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s6.png.meta": {
+      "time": 1713274989160.4866
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s7.png.meta": {
+      "time": 1713274989161.4998
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s8.png.meta": {
+      "time": 1713274989162.508
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\s9.png.meta": {
+      "time": 1713274989163.5076
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sA.png.meta": {
+      "time": 1713274989164.5073
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\scroll.png.meta": {
+      "time": 1713274989169.9324
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sJ.png.meta": {
+      "time": 1713274989165.5068
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sK.png.meta": {
+      "time": 1713274989165.5068
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sQ.png.meta": {
+      "time": 1713274989167.9314
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\startBet.png.meta": {
+      "time": 1713274989173.2227
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\stopBet.png.meta": {
+      "time": 1713274989174.2212
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\table 43.png.meta": {
+      "time": 1713274989175.6104
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\table 52.png.meta": {
+      "time": 1713274989176.6165
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\table 56.png.meta": {
+      "time": 1713274989178.6177
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\table 54.png.meta": {
+      "time": 1713274989178.6177
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\tieCard.png.meta": {
+      "time": 1713274989179.618
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\tieIcon.png.meta": {
+      "time": 1713274989181.6174
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\tigerCard.png.meta": {
+      "time": 1713274989182.6162
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\tigerIcon.png.meta": {
+      "time": 1713274989182.6162
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\tigerSplash.png.meta": {
+      "time": 1713274989184.6187
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Prefabs\\DragonWin.prefab.meta": {
+      "time": 1713274989190.0122
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Prefabs\\Tie.prefab.meta": {
+      "time": 1713274989191.0098
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Prefabs\\TigerWin.prefab.meta": {
+      "time": 1713274989192.0088
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scene\\Game.scene.meta": {
+      "time": 1713274989195.0112
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scene\\scene-2d.scene.meta": {
+      "time": 1713274989196.01
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\Untitled-1.png.meta": {
+      "time": 1713274989080.889
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\BetValueAnim\\AnimPay.anim.meta": {
+      "time": 1713274988724.0613
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\white-circle-png-new-moon-phase-drawi-11563654400bdrw3yigxk.png.meta": {
+      "time": 1713274989187.9912
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Card\\Cardshuff.anim.meta": {
+      "time": 1713274988728.5718
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Cloud\\CloudLeft.anim.meta": {
+      "time": 1713274988729.5723
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Cloud\\CloudRight.anim.meta": {
+      "time": 1713274988730.5723
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonHurt.anim.meta": {
+      "time": 1713274988839.559
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Startbet\\EndBet.anim.meta": {
+      "time": 1713274988893.1907
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Startbet\\Startbet.anim.meta": {
+      "time": 1713274988894.2024
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Card\\An.png.meta": {
+      "time": 1713274988727.5723
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Neusharp-Bold.ttf.meta": {
+      "time": 1713274989115.8054
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Black.ttf.meta": {
+      "time": 1713274989118.306
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-BlackItalic.ttf.meta": {
+      "time": 1713274989121.6008
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Bold.ttf.meta": {
+      "time": 1713274989124.6028
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-BoldItalic.ttf.meta": {
+      "time": 1713274989126.6511
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Italic.ttf.meta": {
+      "time": 1713274989128.6582
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Card\\An.plist.meta": {
+      "time": 1713274988725.584
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-LightItalic.ttf.meta": {
+      "time": 1713274989133.7366
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Light.ttf.meta": {
+      "time": 1713274989131.7314
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\tigerIde2.png.meta": {
+      "time": 1713274989053.8489
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Medium.ttf.meta": {
+      "time": 1713274989136.733
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Thin.ttf.meta": {
+      "time": 1713274989145.1448
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-MediumItalic.ttf.meta": {
+      "time": 1713274989139.1367
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-Regular.ttf.meta": {
+      "time": 1713274989142.146
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\DragonAttack.anim.meta": {
+      "time": 1713274988733.572
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\fonts\\Roboto-ThinItalic.ttf.meta": {
+      "time": 1713274989147.1487
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Image\\sounds\\intro.mp3.meta": {
+      "time": 1713274989170.932
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_00.png.meta": {
+      "time": 1713274988783.5225
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\dragpnAttack.png.meta": {
+      "time": 1713274988781.5051
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_01.png.meta": {
+      "time": 1713274988786.5073
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_02.png.meta": {
+      "time": 1713274988787.5063
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_03.png.meta": {
+      "time": 1713274988789.507
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\tigerIde2.plist.meta": {
+      "time": 1713274989049.8494
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_05.png.meta": {
+      "time": 1713274988792.0178
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_04.png.meta": {
+      "time": 1713274988791.02
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_06.png.meta": {
+      "time": 1713274988793.0205
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_07.png.meta": {
+      "time": 1713274988794.021
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_09.png.meta": {
+      "time": 1713274988797.0203
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_08.png.meta": {
+      "time": 1713274988796.0195
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_10.png.meta": {
+      "time": 1713274988799.019
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_11.png.meta": {
+      "time": 1713274988801.0188
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_12.png.meta": {
+      "time": 1713274988802.0178
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_13.png.meta": {
+      "time": 1713274988803.0227
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_14.png.meta": {
+      "time": 1713274988804.0234
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\dragpnAttack.plist.meta": {
+      "time": 1713274988777.307
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_15.png.meta": {
+      "time": 1713274988806.0232
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_17.png.meta": {
+      "time": 1713274988808.0413
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_16.png.meta": {
+      "time": 1713274988807.023
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_18.png.meta": {
+      "time": 1713274988810.0703
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_19.png.meta": {
+      "time": 1713274988811.0713
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_21.png.meta": {
+      "time": 1713274988814.067
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_22.png.meta": {
+      "time": 1713274988816.0676
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_23.png.meta": {
+      "time": 1713274988817.5747
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_20.png.meta": {
+      "time": 1713274988813.0674
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_24.png.meta": {
+      "time": 1713274988818.5823
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_26.png.meta": {
+      "time": 1713274988821.5818
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_25.png.meta": {
+      "time": 1713274988819.5815
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_27.png.meta": {
+      "time": 1713274988822.5818
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_28.png.meta": {
+      "time": 1713274988823.9478
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_29.png.meta": {
+      "time": 1713274988824.9546
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_30.png.meta": {
+      "time": 1713274988826.955
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_31.png.meta": {
+      "time": 1713274988828.9563
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_33.png.meta": {
+      "time": 1713274988832.955
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_32.png.meta": {
+      "time": 1713274988830.9556
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Hurt\\DragonHurt.anim.meta": {
+      "time": 1713274988840.7952
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_34.png.meta": {
+      "time": 1713274988834.9558
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_36.png.meta": {
+      "time": 1713274988837.7239
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_35.png.meta": {
+      "time": 1713274988835.9563
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\DragonBlast\\Dr_B_37.png.meta": {
+      "time": 1713274988838.2302
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Ide\\DragonIde.anim.meta": {
+      "time": 1713274988856.2598
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Ide\\DragonIde.png.meta": {
+      "time": 1713274988861.2666
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Hurt\\DragonHurt.png.meta": {
+      "time": 1713274988853.6565
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonWinIcon.anim.meta": {
+      "time": 1713274988886.5017
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\TigerAttack.anim.meta": {
+      "time": 1713274988981.7444
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\dragonWin.png.meta": {
+      "time": 1713274988891.7231
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\tigerAttack2.png.meta": {
+      "time": 1713274988985.7437
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH00.png.meta": {
+      "time": 1713274988987.7458
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Ide\\DragonIde.plist.meta": {
+      "time": 1713274988857.2852
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH01.png.meta": {
+      "time": 1713274988988.7456
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH02.png.meta": {
+      "time": 1713274988989.7454
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\tigerAttack2.plist.meta": {
+      "time": 1713274988982.745
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH03.png.meta": {
+      "time": 1713274988990.745
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH04.png.meta": {
+      "time": 1713274988993.1704
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\dragonWin.plist.meta": {
+      "time": 1713274988887.7117
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH05.png.meta": {
+      "time": 1713274988994.1707
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH07.png.meta": {
+      "time": 1713274988997.5679
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH06.png.meta": {
+      "time": 1713274988995.171
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH08.png.meta": {
+      "time": 1713274988998.5774
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH09.png.meta": {
+      "time": 1713274988999.5742
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH10.png.meta": {
+      "time": 1713274989001.5764
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH11.png.meta": {
+      "time": 1713274989002.5962
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH12.png.meta": {
+      "time": 1713274989004.609
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH13.png.meta": {
+      "time": 1713274989006.6084
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH16.png.meta": {
+      "time": 1713274989009.693
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH14.png.meta": {
+      "time": 1713274989007.6853
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH17.png.meta": {
+      "time": 1713274989012.1719
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH18.png.meta": {
+      "time": 1713274989013.1719
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH19.png.meta": {
+      "time": 1713274989014.1714
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TigerHurt.anim.meta": {
+      "time": 1713274989016.6804
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde\\TigerIde.anim.meta": {
+      "time": 1713274989018.187
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH15.png.meta": {
+      "time": 1713274989008.6953
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerHurt\\TH20.png.meta": {
+      "time": 1713274989015.6719
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde\\TigerIde.png.meta": {
+      "time": 1713274989022.8552
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIntro\\TigerIntro.anim.meta": {
+      "time": 1713274989027.8809
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde\\TigerIdeFix.png.meta": {
+      "time": 1713274989026.8794
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Hurt\\DragonHurt.plist.meta": {
+      "time": 1713274988843.3984
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerWin\\TigerWin.anim.meta": {
+      "time": 1713274989035.8794
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIntro\\TigerIntro.png.meta": {
+      "time": 1713274989034.8801
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerWin\\tigerWin.png.meta": {
+      "time": 1713274989047.8694
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Boom.anim.meta": {
+      "time": 1713274988735.5715
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo00.png.meta": {
+      "time": 1713274988736.5708
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde\\TigerIde.plist.meta": {
+      "time": 1713274989019.7017
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo01.png.meta": {
+      "time": 1713274988737.5725
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIde\\TigerIdeFix.plist.meta": {
+      "time": 1713274989023.8633
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo02.png.meta": {
+      "time": 1713274988738.5723
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo03.png.meta": {
+      "time": 1713274988739.5713
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerIntro\\TigerIntro.plist.meta": {
+      "time": 1713274989029.8806
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo04.png.meta": {
+      "time": 1713274988741.5725
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo06.png.meta": {
+      "time": 1713274988743.5735
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerWin\\tigerWin.plist.meta": {
+      "time": 1713274989036.879
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo05.png.meta": {
+      "time": 1713274988742.578
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo07.png.meta": {
+      "time": 1713274988745.9268
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo09.png.meta": {
+      "time": 1713274988747.9236
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo11.png.meta": {
+      "time": 1713274988749.923
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo08.png.meta": {
+      "time": 1713274988746.923
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo10.png.meta": {
+      "time": 1713274988748.924
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo12.png.meta": {
+      "time": 1713274988751.408
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo13.png.meta": {
+      "time": 1713274988752.4177
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo14.png.meta": {
+      "time": 1713274988753.4521
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\Explosion\\Explo15.png.meta": {
+      "time": 1713274988753.4521
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire01.png.meta": {
+      "time": 1713274988757.8157
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire03.png.meta": {
+      "time": 1713274988759.8176
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire02.png.meta": {
+      "time": 1713274988758.8154
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire00.png.meta": {
+      "time": 1713274988755.8088
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire04.png.meta": {
+      "time": 1713274988760.8152
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire05.png.meta": {
+      "time": 1713274988761.8188
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire07.png.meta": {
+      "time": 1713274988764.8164
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire08.png.meta": {
+      "time": 1713274988765.816
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire06.png.meta": {
+      "time": 1713274988762.818
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire09.png.meta": {
+      "time": 1713274988767.817
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire10.png.meta": {
+      "time": 1713274988768.8154
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire12.png.meta": {
+      "time": 1713274988769.8154
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire11.png.meta": {
+      "time": 1713274988769.8154
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire13.png.meta": {
+      "time": 1713274988770.8157
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire14.png.meta": {
+      "time": 1713274988771.8157
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire15.png.meta": {
+      "time": 1713274988772.8176
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire16.png.meta": {
+      "time": 1713274988773.817
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire17.png.meta": {
+      "time": 1713274988773.817
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire18.png.meta": {
+      "time": 1713274988775.2964
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro\\DragonIntro.anim.meta": {
+      "time": 1713274988863.13
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Attack\\SpitFire\\SpitFire19.png.meta": {
+      "time": 1713274988776.304
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro\\DragonIntro.png.meta": {
+      "time": 1713274988876.3623
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro\\dragonWin-0.png.meta": {
+      "time": 1713274988885.5012
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_00.png.meta": {
+      "time": 1713274988898.1992
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_01.png.meta": {
+      "time": 1713274988900.2036
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_02.png.meta": {
+      "time": 1713274988901.1997
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_03.png.meta": {
+      "time": 1713274988903.2078
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_04.png.meta": {
+      "time": 1713274988905.5725
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_05.png.meta": {
+      "time": 1713274988906.5735
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_06.png.meta": {
+      "time": 1713274988908.5735
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_07.png.meta": {
+      "time": 1713274988909.573
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_08.png.meta": {
+      "time": 1713274988912.0107
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_09.png.meta": {
+      "time": 1713274988914.013
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_10.png.meta": {
+      "time": 1713274988916.0117
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro\\dragonWin-0.plist.meta": {
+      "time": 1713274988877.3613
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_11.png.meta": {
+      "time": 1713274988917.519
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_12.png.meta": {
+      "time": 1713274988919.756
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_13.png.meta": {
+      "time": 1713274988921.662
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Dragon\\Win\\DragonIntro\\DragonIntro.plist.meta": {
+      "time": 1713274988865.1387
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_14.png.meta": {
+      "time": 1713274988923.6736
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_15.png.meta": {
+      "time": 1713274988924.6753
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_16.png.meta": {
+      "time": 1713274988925.6753
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_17.png.meta": {
+      "time": 1713274988926.6738
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_20.png.meta": {
+      "time": 1713274988929.674
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_18.png.meta": {
+      "time": 1713274988927.6753
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_00.png.meta": {
+      "time": 1713274988931.6743
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\1 Dig\\T_dig_19.png.meta": {
+      "time": 1713274988928.6743
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_01.png.meta": {
+      "time": 1713274988932.675
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_02.png.meta": {
+      "time": 1713274988934.1406
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_03.png.meta": {
+      "time": 1713274988935.2036
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_04.png.meta": {
+      "time": 1713274988936.2036
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_05.png.meta": {
+      "time": 1713274988938.2039
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_06.png.meta": {
+      "time": 1713274988939.204
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_07.png.meta": {
+      "time": 1713274988940.204
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_08.png.meta": {
+      "time": 1713274988941.2046
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_10.png.meta": {
+      "time": 1713274988945.2048
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_09.png.meta": {
+      "time": 1713274988943.2036
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_11.png.meta": {
+      "time": 1713274988946.2048
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_12.png.meta": {
+      "time": 1713274988948.2056
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_13.png.meta": {
+      "time": 1713274988949.2048
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_14.png.meta": {
+      "time": 1713274988951.2046
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_15.png.meta": {
+      "time": 1713274988953.5476
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_17.png.meta": {
+      "time": 1713274988955.5544
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_16.png.meta": {
+      "time": 1713274988954.5544
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_18.png.meta": {
+      "time": 1713274988958.5537
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_19.png.meta": {
+      "time": 1713274988960.5972
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_20.png.meta": {
+      "time": 1713274988962.6057
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_23.png.meta": {
+      "time": 1713274988968.0398
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_22.png.meta": {
+      "time": 1713274988965.6052
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_21.png.meta": {
+      "time": 1713274988964.6057
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_24.png.meta": {
+      "time": 1713274988970.0425
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_25.png.meta": {
+      "time": 1713274988972.0422
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_27.png.meta": {
+      "time": 1713274988976.7466
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_26.png.meta": {
+      "time": 1713274988974.7346
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_28.png.meta": {
+      "time": 1713274988977.7463
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_29.png.meta": {
+      "time": 1713274988978.7434
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_30.png.meta": {
+      "time": 1713274988978.7434
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_32.png.meta": {
+      "time": 1713274988980.7449
+    },
+    "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_31.png.meta": {
+      "time": 1713274988979.7437
     }
   },
   "missing": {

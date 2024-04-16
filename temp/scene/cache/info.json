@@ -1,11 +1,11 @@
 {
     "systemInfo": {
-        "arch": "arm64",
-        "cpu": "Apple M1",
-        "version": "Darwin Kernel Version 23.2.0: Wed Nov 15 21:53:34 PST 2023; root:xnu-10002.61.3~2/RELEASE_ARM64_T8103"
+        "arch": "x64",
+        "cpu": "11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz",
+        "version": "Windows 10 Home Single Language"
     },
     "sceneListMap": {
-        "6223537d-4143-493b-8d2a-2511d740155b": "/Users/waostudio/Downloads/Telegram Desktop/TigerDragon4/assets/Scene/Game.scene"
+        "6223537d-4143-493b-8d2a-2511d740155b": "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Scene\\Game.scene"
     },
-    "deviceMd5": "f8a15c342a60330548d170d60a9dc985"
+    "deviceMd5": "83b05828fb7e02e882cc19abdbae1100"
 }

@@ -2,12 +2,12 @@
   "imports": {
     "cce:/internal/x/cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js",
-    "file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js",
-    "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/Chip.ts": "./chunks/e6/e643216d4232c9decbf775a725aa9628aad0dead.js",
-    "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/GameController.ts": "./chunks/38/383ea7ac0a9edfaf4008e17a9c4b1b03e97f569d.js",
-    "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/NetworkConnect.ts": "./chunks/ba/ba291dc74b6ab92ceba3170db94502c026170a2a.js",
-    "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/PlayerList.ts": "./chunks/63/6396b73162e1afb42ba5ce5d6e854e96131ffb4e.js",
-    "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js": "./chunks/1a/1ae6b3a2c8c8925c7694fbc14a9f5f7f0f5c1012.js"
+    "file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/dd/dd8ffe4b66ab421921fe26a7524871e3101b074e.js",
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/Chip.ts": "./chunks/84/84cb8fcec881fdebb2c9e212a8b1c1931e821588.js",
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/GameController.ts": "./chunks/90/901883fead7d2fa3f3cd2d798247914f991d758d.js",
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/NetworkConnect.ts": "./chunks/44/44e2841521bf135ed607c0d20936a9c7a7cc148a.js",
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/PlayerList.ts": "./chunks/d8/d8f5b08ab740b3ef519662f7a0e23283ab8ee642.js",
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js": "./chunks/a2/a25898751dc7ef9d370680af90a742f42db8e37c.js"
   },
   "scopes": {
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -43,41 +43,41 @@
       "__unresolved_9": "cce:/internal/x/cc-fu/ui"
     },
     "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js": {
-      "__unresolved_0": "./chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js",
-      "__unresolved_1": "./chunks/e6/e643216d4232c9decbf775a725aa9628aad0dead.js",
-      "__unresolved_2": "./chunks/38/383ea7ac0a9edfaf4008e17a9c4b1b03e97f569d.js",
-      "__unresolved_3": "./chunks/ba/ba291dc74b6ab92ceba3170db94502c026170a2a.js",
-      "__unresolved_4": "./chunks/63/6396b73162e1afb42ba5ce5d6e854e96131ffb4e.js",
-      "__unresolved_5": "./chunks/1a/1ae6b3a2c8c8925c7694fbc14a9f5f7f0f5c1012.js"
+      "__unresolved_0": "./chunks/dd/dd8ffe4b66ab421921fe26a7524871e3101b074e.js",
+      "__unresolved_1": "./chunks/84/84cb8fcec881fdebb2c9e212a8b1c1931e821588.js",
+      "__unresolved_2": "./chunks/90/901883fead7d2fa3f3cd2d798247914f991d758d.js",
+      "__unresolved_3": "./chunks/44/44e2841521bf135ed607c0d20936a9c7a7cc148a.js",
+      "__unresolved_4": "./chunks/d8/d8f5b08ab740b3ef519662f7a0e23283ab8ee642.js",
+      "__unresolved_5": "./chunks/a2/a25898751dc7ef9d370680af90a742f42db8e37c.js"
     },
-    "./chunks/1a/1ae6b3a2c8c8925c7694fbc14a9f5f7f0f5c1012.js": {
+    "./chunks/a2/a25898751dc7ef9d370680af90a742f42db8e37c.js": {
       "__unresolved_0": "./chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js",
-      "__unresolved_1": "./chunks/98/9873e48125abd2324f98b63a200e323f469c5d05.js",
+      "__unresolved_1": "./chunks/5d/5d69f934dd67a715b9c35200b0d7586012128518.js",
       "__unresolved_2": "./chunks/a0/a0d063530de23ddade53e1a935bf64c81277c061.js",
-      "__unresolved_3": "./chunks/98/9873e48125abd2324f98b63a200e323f469c5d05.js",
-      "__unresolved_4": "./chunks/98/9873e48125abd2324f98b63a200e323f469c5d05.js"
+      "__unresolved_3": "./chunks/5d/5d69f934dd67a715b9c35200b0d7586012128518.js",
+      "__unresolved_4": "./chunks/5d/5d69f934dd67a715b9c35200b0d7586012128518.js"
     },
-    "./chunks/98/9873e48125abd2324f98b63a200e323f469c5d05.js": {
+    "./chunks/5d/5d69f934dd67a715b9c35200b0d7586012128518.js": {
       "__unresolved_0": "./chunks/a0/a0d063530de23ddade53e1a935bf64c81277c061.js"
     },
-    "./chunks/63/6396b73162e1afb42ba5ce5d6e854e96131ffb4e.js": {
+    "./chunks/d8/d8f5b08ab740b3ef519662f7a0e23283ab8ee642.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/ba/ba291dc74b6ab92ceba3170db94502c026170a2a.js": {
+    "./chunks/44/44e2841521bf135ed607c0d20936a9c7a7cc148a.js": {
       "__unresolved_0": "./chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js",
-      "__unresolved_1": "./chunks/1a/1ae6b3a2c8c8925c7694fbc14a9f5f7f0f5c1012.js",
+      "__unresolved_1": "./chunks/a2/a25898751dc7ef9d370680af90a742f42db8e37c.js",
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/38/383ea7ac0a9edfaf4008e17a9c4b1b03e97f569d.js": {
+    "./chunks/90/901883fead7d2fa3f3cd2d798247914f991d758d.js": {
       "__unresolved_0": "./chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js",
-      "__unresolved_1": "./chunks/e6/e643216d4232c9decbf775a725aa9628aad0dead.js",
-      "__unresolved_2": "./chunks/ba/ba291dc74b6ab92ceba3170db94502c026170a2a.js",
+      "__unresolved_1": "./chunks/84/84cb8fcec881fdebb2c9e212a8b1c1931e821588.js",
+      "__unresolved_2": "./chunks/44/44e2841521bf135ed607c0d20936a9c7a7cc148a.js",
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/e6/e643216d4232c9decbf775a725aa9628aad0dead.js": {
+    "./chunks/84/84cb8fcec881fdebb2c9e212a8b1c1931e821588.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/47/47a1530b86f8dba752d13f037cd555503db82c41.js": {
+    "./chunks/dd/dd8ffe4b66ab421921fe26a7524871e3101b074e.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     }
   }

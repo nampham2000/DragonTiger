@@ -5,7 +5,7 @@ import Colyseus from "db://colyseus-sdk/colyseus.js";
 @ccclass("NetworkConnect")
 export class NetworkConnect extends Component {
   @property({ type: String })
-  hostname = "7bb3-115-79-59-222.ngrok-free.app";
+  hostname = "";
 
   @property({ type: Number })
   port = 80;
@@ -41,19 +41,21 @@ export class NetworkConnect extends Component {
 
   async connect() {
     try {
+      
       const rooms = await this.client.getAvailableRooms("room1");
+      console.log(rooms.length);
 
-      if (rooms.length === 0) {
+      // if (rooms.length === 0) {
         this.room = await this.client.create("room1");
         console.log("Created new room with sessionId:", this.room.sessionId);
-      } else {
-        // Nếu có phòng có sẵn, tham gia vào phòng đầu tiên trong danh sách
-        this.room = await this.client.joinById(rooms[0].roomId);
-        console.log(
-          "Joined existing room with sessionId:",
-          this.room.sessionId
-        );
-      }
+      // } else {
+      //   // Nếu có phòng có sẵn, tham gia vào phòng đầu tiên trong danh sách
+      //   this.room = await this.client.joinById(rooms[0].roomId);
+      //   console.log(
+      //     "Joined existing room with sessionId:",
+      //     this.room.sessionId
+      //   );
+      // }
 
       console.log("Joined successfully!");
       console.log("User's sessionId:", this.room.sessionId);
@@ -84,9 +86,12 @@ export class NetworkConnect extends Component {
       this.room.onStateChange((state) => {
         console.log("Room state changed:", state);
         console.log("onStateChange: ", state);
+        console.log(state.roundState);
+        
         const players = [...state.players.values()];
         this.updatePlayerList(players);
         console.log(players);
+        this.TotalUser=players.length;
 
         this.gameState = state.roundState;
       });
@@ -100,16 +105,26 @@ export class NetworkConnect extends Component {
   }
 
   updatePlayerList(playerList: any[]) {
+    let displayIndex = 0; // Biến đếm số lượng người chơi đã được thêm vào danh sách hiển thị
     const numElements = playerList.length;
+
+    // Ẩn tất cả các node trong danh sách
     this.ListL.forEach((node) => {
-      node.active = false;
+        node.active = false;
     });
-    for (let i = 0; i < numElements && i < this.ListL.length; i++) {
-        if(this.UserBet)
-        this.ListL[i].active = true;
-        this.ListLabel[i].string = playerList[i].sessionId;
+    for (let i = 0; i < numElements && displayIndex < this.ListL.length; i++) {
+        if (playerList[i].sessionId !== this.room.sessionId) {
+            this.ListLabel[displayIndex].string = playerList[i].sessionId;
+            this.ListL[displayIndex].active = true;
+            displayIndex++;
+        }
     }
-  }
+    for (let i = displayIndex; i < this.ListL.length; i++) {
+        this.ListL[i].active = false;
+    }
+}
+
+
 
   // createSpriteNode(posX, PosY, PosNode: Node) {
   //   // Tạo một Node mới

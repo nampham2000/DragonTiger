@@ -258,6 +258,7 @@ export class GameController extends Component {
   private GameStateIdle: boolean = false;
   private GameStateReuslt: boolean = false;
   private GameStateFight: boolean = false;
+  private GameStatePayOut:boolean=false;
 
   start() {
     this.clonePosCardL = this.CardNodeL.position.clone();
@@ -327,7 +328,9 @@ export class GameController extends Component {
       this.shownResult();
       this.GameStateReuslt = true;
     }
-    if (this.NetworkConnect.gameState === "payout") {
+    if (this.NetworkConnect.gameState === "payout"&&this.GameStatePayOut===false) {
+      this.PayoutAnim();
+      this.GameStatePayOut=true;
     }
     if (this.cloneBalance > 0) {
       this.listCancelBet[0].node.active = true;
@@ -758,7 +761,7 @@ export class GameController extends Component {
       // Tween Node đến vị trí mong muốn
       tween(spriteNode)
         .delay(i * 0.1) // thiết lập thời gian trễ dựa trên index của node
-        .to(0.3, { position: new Vec3(posX, posY) })
+        .to(1, { position: new Vec3(posX, posY) })
         .call(() => {
           spriteNode.active = false;
         })
@@ -986,71 +989,89 @@ export class GameController extends Component {
         .to(duration, { position: targetPosition })
         .call(() => {
           child.removeFromParent();
-          if (this.NetworkConnect.TotalUser > 0) {
-            console.log("aaa");
-
-            this.createSpriteNodePay(
-              -1450,
-              1,
-              this.PayUser[0],
-              this.PayUserSprite
-            );
-          }
-          if (this.NetworkConnect.TotalUser > 1) {
-            console.log("aabbba");
-
-            this.createSpriteNodePay(
-              -1450,
-              -100,
-              this.PayUser[1],
-              this.PayUserSprite
-            );
-          }
-          if (this.NetworkConnect.TotalUser > 2) {
-            console.log("cc");
-
-            this.createSpriteNodePay(
-              -1450,
-              -200,
-              this.PayUser[2],
-              this.PayUserSprite
-            );
-          }
-          // this.createSpriteNodePay(
-          //   -1450,
-          //   -300,
-          //   this.PayUser[3],
-          //   this.PayUserSprite
-          // );
-          // this.createSpriteNodePay(
-          //   -1450,
-          //   -400,
-          //   this.PayUser[4],
-          //   this.PayUserSprite
-          // );
-          // this.createSpriteNodePay(
-          //   -1450,
-          //   -500,
-          //   this.PayUser[5],
-          //   this.PayUserSprite
-          // );
-
-          // this.createSpriteNodePay(
-          //   0,
-          //   -500,
-          //   this.PayUser[6],
-          //   this.PayUserSprite
-          // );
         })
 
         .start();
     });
   }
 
+  private PayoutAnim(){
+    if (this.NetworkConnect.TotalUser > 0) {
+      console.log("tra cho minh");
+    }
+    
+    if (this.NetworkConnect.TotalUser > 1) {
+      console.log("aaa");
+
+      this.createSpriteNodePay(
+        -1450,
+        1,
+        this.PayUser[0],
+        this.PayUserSprite
+      );
+    }
+    if (this.NetworkConnect.TotalUser > 2) {
+      console.log("aabbba");
+
+      this.createSpriteNodePay(
+        -1450,
+        -100,
+        this.PayUser[1],
+        this.PayUserSprite
+      );
+    }
+    if (this.NetworkConnect.TotalUser > 3) {
+      console.log("cc");
+
+      this.createSpriteNodePay(
+        -1450,
+        -200,
+        this.PayUser[2],
+        this.PayUserSprite
+      );
+    }
+    if (this.NetworkConnect.TotalUser > 4) {
+      this.createSpriteNodePay(
+      -1450,
+      -300,
+      this.PayUser[3],
+      this.PayUserSprite
+    );
+    }
+
+    if (this.NetworkConnect.TotalUser > 5) {
+            this.createSpriteNodePay(
+      -1450,
+      -400,
+      this.PayUser[4],
+      this.PayUserSprite
+    );
+    }
+    
+    if (this.NetworkConnect.TotalUser > 6) {
+         this.createSpriteNodePay(
+      -1450,
+      -500,
+      this.PayUser[5],
+      this.PayUserSprite
+    );
+    }
+
+   
+
+    // this.createSpriteNodePay(
+    //   0,
+    //   -500,
+    //   this.PayUser[6],
+    //   this.PayUserSprite
+    // );
+  }
+
   private Idle() {
     this.shuffelCard();
     this.DragonNode.play("DragonIde");
     this.TigerNode.play("TigerIde");
+    this.GameStatePayOut=false;
     // this.GameStateStart = false;
   }
 
@@ -1085,11 +1106,7 @@ export class GameController extends Component {
   }
 
   private fight() {
-    console.log("TigerRRES", this.NetworkConnect.resultTiger);
-    console.log("DragonRRES", this.NetworkConnect.resultDragon);
     if (this.NetworkConnect.resultTiger > this.NetworkConnect.resultDragon) {
-      console.log("TigerRRES1", this.NetworkConnect.resultTiger);
-      console.log("DragonRRES1", this.NetworkConnect.resultDragon);
       this.balanceUser = this.balanceUser + this.UserBetTigerIcon * 2;
       this.BalancerLb.string = this.balanceUser.toString();
       this.WinNotice.play("TigerWin");

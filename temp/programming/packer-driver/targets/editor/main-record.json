@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 6570.660250008106,
+      "mTimestamp": 31280.594100000017,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -640,11 +640,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 26333.642291009426,
+      "mTimestamp": 13856587.4165,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
-          "value": "file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
+          "value": "file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -653,77 +653,77 @@
             },
             "end": {
               "line": 5,
-              "column": 183
+              "column": 167
             }
           }
         },
         {
-          "value": "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/Chip.ts",
+          "value": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/Chip.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
               "line": 5,
-              "column": 199
+              "column": 183
             },
             "end": {
               "line": 5,
-              "column": 289
+              "column": 255
             }
           }
         },
         {
-          "value": "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/GameController.ts",
+          "value": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/GameController.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
               "line": 5,
-              "column": 305
+              "column": 271
             },
             "end": {
               "line": 5,
-              "column": 405
+              "column": 353
             }
           }
         },
         {
-          "value": "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/NetworkConnect.ts",
+          "value": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/NetworkConnect.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
               "line": 5,
-              "column": 421
+              "column": 369
             },
             "end": {
               "line": 5,
-              "column": 521
+              "column": 451
             }
           }
         },
         {
-          "value": "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/PlayerList.ts",
+          "value": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/PlayerList.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
               "line": 5,
-              "column": 537
+              "column": 467
             },
             "end": {
               "line": 5,
-              "column": 633
+              "column": 545
             }
           }
         },
         {
-          "value": "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js",
+          "value": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
               "line": 5,
-              "column": 649
+              "column": 561
             },
             "end": {
               "line": 5,
-              "column": 776
+              "column": 670
             }
           }
         }
@@ -733,42 +733,42 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+            "url": "file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/Chip.ts"
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/Chip.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/GameController.ts"
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/GameController.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/NetworkConnect.ts"
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/NetworkConnect.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/assets/Scripts/PlayerList.ts"
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/PlayerList.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/waostudio/Downloads/Telegram%20Desktop/TigerDragon4/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.mjs?cjs=&original=.js"
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.mjs?cjs=&original=.js"
           },
           "messages": []
         }
@@ -984,7 +984,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1713265958270,
+      "mTimestamp": 1713280277510,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
@@ -1212,7 +1212,7 @@
       ]
     },
     "cce:/internal/ml/cjs-loader.mjs": {
-      "mTimestamp": 1713265958270,
+      "mTimestamp": 1713280277510,
       "chunkId": "a0d063530de23ddade53e1a935bf64c81277c061",
       "imports": [],
       "type": "esm",
@@ -1224,6 +1224,488 @@
         "uuid": "055dedd8-8187-48d0-8ea4-eb0eee651d41"
       },
       "chunkId": "6396b73162e1afb42ba5ce5d6e854e96131ffb4e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": {
+      "mTimestamp": {
+        "mtime": 1710247160569.5957,
+        "uuid": "b2bd1fa7-8d7c-49c5-a158-df29a6d3a594"
+      },
+      "chunkId": "dd8ffe4b66ab421921fe26a7524871e3101b074e",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 220
+            },
+            "end": {
+              "line": 1,
+              "column": 224
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/Chip.ts": {
+      "mTimestamp": {
+        "mtime": 1713274989197.0137,
+        "uuid": "cd8d8b1c-5af2-46c8-ab1a-7bccd45446f0"
+      },
+      "chunkId": "84cb8fcec881fdebb2c9e212a8b1c1931e821588",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 72
+            },
+            "end": {
+              "line": 1,
+              "column": 76
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/GameController.ts": {
+      "mTimestamp": {
+        "mtime": 1713294132764.0625,
+        "uuid": "d8ab5610-dd96-4f78-9795-6218739fe6f3"
+      },
+      "chunkId": "901883fead7d2fa3f3cd2d798247914f991d758d",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 19,
+              "column": 7
+            },
+            "end": {
+              "line": 19,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "./Chip",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 21
+            },
+            "end": {
+              "line": 20,
+              "column": 29
+            }
+          }
+        },
+        {
+          "value": "./NetworkConnect",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 31
+            },
+            "end": {
+              "line": 21,
+              "column": 49
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/Chip.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/NetworkConnect.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/NetworkConnect.ts": {
+      "mTimestamp": {
+        "mtime": 1713292810205.4917,
+        "uuid": "f92887c2-9ea3-4ec7-b5ff-e017e453225f"
+      },
+      "chunkId": "44e2841521bf135ed607c0d20936a9c7a7cc148a",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 72
+            },
+            "end": {
+              "line": 1,
+              "column": 76
+            }
+          }
+        },
+        {
+          "value": "db://colyseus-sdk/colyseus.js",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 21
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.mjs?cjs=&original=.js"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.mjs?cjs=&original=.js": {
+      "mTimestamp": 1713274989207.037,
+      "chunkId": "a25898751dc7ef9d370680af90a742f42db8e37c",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "./colyseus.js",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 36
+            },
+            "end": {
+              "line": 2,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/ml/cjs-loader.mjs",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 19
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "./colyseus.js",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 29
+            }
+          }
+        },
+        {
+          "value": "./colyseus.js",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 29
+            },
+            "end": {
+              "line": 9,
+              "column": 44
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/ml/cjs-loader.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js": {
+      "mTimestamp": {
+        "mtime": 1713274989207.037,
+        "uuid": "b554cfc3-98f3-4c04-ac8b-fd4ca2621ffb"
+      },
+      "chunkId": "5d69f934dd67a715b9c35200b0d7586012128518",
+      "imports": [
+        {
+          "value": "cce:/internal/ml/cjs-loader.mjs",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 23
+            },
+            "end": {
+              "line": 1,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "commonjs",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/ml/cjs-loader.mjs"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/PlayerList.ts": {
+      "mTimestamp": {
+        "mtime": 1713274989201.0117,
+        "uuid": "055dedd8-8187-48d0-8ea4-eb0eee651d41"
+      },
+      "chunkId": "d8f5b08ab740b3ef519662f7a0e23283ab8ee642",
       "imports": [
         {
           "value": "cc"
