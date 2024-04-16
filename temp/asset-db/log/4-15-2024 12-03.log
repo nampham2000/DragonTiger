@@ -8357,3 +8357,26 @@
 4-15-2024 18:30:03-debug: Run asset db hook engine-extends:afterRefresh ...
 4-15-2024 18:30:03-debug: Run asset db hook engine-extends:afterRefresh success!
 4-15-2024 18:30:03-debug: asset-db:refresh-all-database (82ms)
+4-15-2024 18:30:59-debug: refresh db internal success
+4-15-2024 18:30:59-debug: refresh db assets success
+4-15-2024 18:30:59-debug: refresh db colyseus-sdk success
+4-15-2024 18:30:59-debug: Run asset db hook engine-extends:afterRefresh ...
+4-15-2024 18:30:59-debug: Run asset db hook engine-extends:afterRefresh success!
+4-15-2024 18:30:59-debug: asset-db:refresh-all-database (69ms)
+4-15-2024 18:30:59-debug: asset-db:worker-effect-data-processing (4ms)
+4-15-2024 18:30:59-debug: asset-db-hook-engine-extends-afterRefresh (4ms)
+4-15-2024 18:32:30-debug: refresh db internal success
+4-15-2024 18:32:30-debug: refresh db assets success
+4-15-2024 18:32:30-debug: refresh db colyseus-sdk success
+4-15-2024 18:32:30-debug: Run asset db hook engine-extends:afterRefresh ...
+4-15-2024 18:32:30-debug: Run asset db hook engine-extends:afterRefresh success!
+4-15-2024 18:32:30-debug: asset-db:refresh-all-database (96ms)
+4-15-2024 18:32:30-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+4-15-2024 18:34:17-debug: refresh db internal success
+4-15-2024 18:34:17-debug: refresh db assets success
+4-15-2024 18:34:17-debug: refresh db colyseus-sdk success
+4-15-2024 18:34:17-debug: Run asset db hook engine-extends:afterRefresh ...
+4-15-2024 18:34:17-debug: Run asset db hook engine-extends:afterRefresh success!
+4-15-2024 18:34:17-debug: asset-db:refresh-all-database (67ms)
+4-15-2024 18:34:17-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+4-15-2024 18:34:17-debug: asset-db:worker-effect-data-processing (1ms)

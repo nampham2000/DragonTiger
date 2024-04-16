@@ -1,7 +1,7 @@
 System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _context) {
   "use strict";
 
-  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, Label, Node, Colyseus, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _crd, ccclass, property, NetworkConnect;
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, Label, Node, Colyseus, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _crd, ccclass, property, NetworkConnect;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -32,7 +32,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
       _cclegacy._RF.push({}, "f9288fCnqNOx7X/4BfkUyJf", "NetworkConnect", undefined);
 
-      __checkObsolete__(['_decorator', 'Component', 'Label', 'Node']);
+      __checkObsolete__(['_decorator', 'Component', 'Label', 'Node', 'Sprite', 'tween', 'Vec3']);
 
       ({
         ccclass,
@@ -49,7 +49,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
         type: Node
       }), _dec6 = property({
         type: Label
-      }), _dec(_class = (_class2 = class NetworkConnect extends Component {
+      }), _dec7 = property(Label), _dec(_class = (_class2 = class NetworkConnect extends Component {
         constructor(...args) {
           super(...args);
 
@@ -63,8 +63,16 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
           _initializerDefineProperty(this, "ListLabel", _descriptor5, this);
 
+          _initializerDefineProperty(this, "TimerDown", _descriptor6, this);
+
           this.client = void 0;
           this.room = void 0;
+          this.gameState = void 0;
+          this.resultDragon = void 0;
+          this.resultTiger = void 0;
+          this.TotalUser = void 0;
+          this.UserBet = void 0;
+          this.NotmeBet = void 0;
         }
 
         start() {
@@ -88,14 +96,33 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
             }
 
             console.log("Joined successfully!");
-            console.log("User's sessionId:", this.room.sessionId);
-            this.room.onMessage("playerList", message => {
-              this.updatePlayerList(message);
+            console.log("User's sessionId:", this.room.sessionId); // this.room.onMessage("playerList", (message) => {
+            //   console.log(message);
+            //   this.updatePlayerList(message);
+            // });
+
+            this.room.onMessage("timer", message => {
+              this.TimerDown.string = message;
+            });
+            this.room.onMessage("result", message => {
+              this.resultDragon = message.dragonCard.value;
+              this.resultTiger = message.tigerCard.value;
+            });
+            this.room.onMessage("userBet", message => {
+              if (message.playerID !== this.room.sessionId) {
+                console.log("Thang kia bet");
+                this.UserBet = message.playerID;
+              } else {
+                console.log("false");
+              }
             });
             this.room.onStateChange(state => {
               console.log("Room state changed:", state);
               console.log("onStateChange: ", state);
-              console.log("Players", [...state.players.values()]);
+              const players = [...state.players.values()];
+              this.updatePlayerList(players);
+              console.log(players);
+              this.gameState = state.roundState;
             });
             this.room.onLeave(code => {
               console.log("Left room with code:", code);
@@ -112,10 +139,26 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
           });
 
           for (let i = 0; i < numElements && i < this.ListL.length; i++) {
-            this.ListL[i].active = true;
+            if (this.UserBet) this.ListL[i].active = true;
             this.ListLabel[i].string = playerList[i].sessionId;
           }
-        }
+        } // createSpriteNode(posX, PosY, PosNode: Node) {
+        //   // Tạo một Node mới
+        //   const spriteNode = new Node("SpriteNode");
+        //   spriteNode.scale = new Vec3(0.5, 0.5);
+        //   // Thêm một component Sprite vào Node
+        //   const spriteComponent = spriteNode.addComponent(Sprite);
+        //   // Gán SpriteFrame cho component Sprite
+        //   spriteComponent.spriteFrame =
+        //     this.chipNode.buttonPub.node.getComponent(Sprite).spriteFrame;
+        //   // spriteNode.position=new Vec3(this.chipNode.buttonPub.node.position)
+        //   // Thêm Node vào Scene hiện tại (ví dụ: Node cha của tất cả Sprite)
+        //   PosNode.addChild(spriteNode);
+        //   tween(spriteNode)
+        //     .to(0.3, { position: new Vec3(posX, PosY) })
+        //     .start();
+        // }
+
 
       }, (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "hostname", [_dec2], {
         configurable: true,
@@ -152,64 +195,12 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
         initializer: function () {
           return [];
         }
-      })), _class2)) || _class)); // import { _decorator, Component, Label, Node } from "cc";
-      // const { ccclass, property } = _decorator;
-      // import Colyseus from "db://colyseus-sdk/colyseus.js";
-      // @ccclass("NetworkConnect")
-      // export class NetworkConnect extends Component {
-      //   @property({ type: String })
-      //   hostname = "7bb3-115-79-59-222.ngrok-free.app";
-      //   @property({ type: Number })
-      //   port = 80;
-      //   @property({ type: Boolean })
-      //   useSSL = true;
-      //   @property({ type: Node })
-      //   private ListL: Node[] = [];
-      //   @property({ type: Label })
-      //   private ListLabel: Label[] = [];
-      //   client!: Colyseus.Client;
-      //   room!: Colyseus.Room;
-      //   start() {
-      //     this.client = new Colyseus.Client(
-      //       `${this.useSSL ? "wss" : "ws"}://${this.hostname}:${this.port}`
-      //     );
-      //     this.connect();
-      //   }
-      //   async connect() {
-      //     try {
-      //       this.room = await this.client.joinById("Room1");
-      //       console.log("Joined successfully!");
-      //       console.log("User's sessionId:", this.room.sessionId);
-      //       this.startCountdown();
-      //       this.setupEventListeners();
-      //     } catch (e) {
-      //       console.error("Error:", e);
-      //     }
-      //   }
-      //   startCountdown() {
-      //     const countdownInterval = setInterval(() => {
-      //       if (this.room.state.countdown > 0) {
-      //         this.room.state.countdown--;
-      //         console.log("Countdown:", this.room.state.countdown);
-      //         this.room.send("countdown", this.room.state.countdown);
-      //       } else {
-      //         clearInterval(countdownInterval);
-      //       }
-      //     }, 1000);
-      //   }
-      //   setupEventListeners() {
-      //     this.room.onMessage("countdown", (countdown: number) => {
-      //       // Cập nhật giao diện người chơi với giá trị mới của biến đếm ngược
-      //     });
-      //     this.room.onStateChange((state) => {
-      //       console.log("Room state changed:", state);
-      //     });
-      //     this.room.onLeave((code) => {
-      //       console.log("Left room with code:", code);
-      //     });
-      //   }
-      // }
-
+      }), _descriptor6 = _applyDecoratedDescriptor(_class2.prototype, "TimerDown", [_dec7], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: null
+      })), _class2)) || _class));
 
       _cclegacy._RF.pop();
 

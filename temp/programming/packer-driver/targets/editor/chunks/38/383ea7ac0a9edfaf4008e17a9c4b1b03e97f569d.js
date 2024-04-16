@@ -1,7 +1,7 @@
 System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], function (_export, _context) {
   "use strict";
 
-  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, Label, Node, tween, Vec3, Animation, SpriteFrame, Sprite, math, Graphics, Color, instantiate, Prefab, Button, Chip, NetworkConnect, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _dec8, _dec9, _dec10, _dec11, _dec12, _dec13, _dec14, _dec15, _dec16, _dec17, _dec18, _dec19, _dec20, _dec21, _dec22, _dec23, _dec24, _dec25, _dec26, _dec27, _dec28, _dec29, _dec30, _dec31, _dec32, _dec33, _dec34, _dec35, _dec36, _dec37, _dec38, _dec39, _dec40, _dec41, _dec42, _dec43, _dec44, _dec45, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _descriptor7, _descriptor8, _descriptor9, _descriptor10, _descriptor11, _descriptor12, _descriptor13, _descriptor14, _descriptor15, _descriptor16, _descriptor17, _descriptor18, _descriptor19, _descriptor20, _descriptor21, _descriptor22, _descriptor23, _descriptor24, _descriptor25, _descriptor26, _descriptor27, _descriptor28, _descriptor29, _descriptor30, _descriptor31, _descriptor32, _descriptor33, _descriptor34, _descriptor35, _descriptor36, _descriptor37, _descriptor38, _descriptor39, _descriptor40, _descriptor41, _descriptor42, _descriptor43, _descriptor44, _crd, ccclass, property, GameController;
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, Label, Node, tween, Vec3, Animation, SpriteFrame, Sprite, Graphics, Color, instantiate, Prefab, Button, Chip, NetworkConnect, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _dec8, _dec9, _dec10, _dec11, _dec12, _dec13, _dec14, _dec15, _dec16, _dec17, _dec18, _dec19, _dec20, _dec21, _dec22, _dec23, _dec24, _dec25, _dec26, _dec27, _dec28, _dec29, _dec30, _dec31, _dec32, _dec33, _dec34, _dec35, _dec36, _dec37, _dec38, _dec39, _dec40, _dec41, _dec42, _dec43, _dec44, _dec45, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _descriptor7, _descriptor8, _descriptor9, _descriptor10, _descriptor11, _descriptor12, _descriptor13, _descriptor14, _descriptor15, _descriptor16, _descriptor17, _descriptor18, _descriptor19, _descriptor20, _descriptor21, _descriptor22, _descriptor23, _descriptor24, _descriptor25, _descriptor26, _descriptor27, _descriptor28, _descriptor29, _descriptor30, _descriptor31, _descriptor32, _descriptor33, _descriptor34, _descriptor35, _descriptor36, _descriptor37, _descriptor38, _descriptor39, _descriptor40, _descriptor41, _descriptor42, _descriptor43, _descriptor44, _crd, ccclass, property, GameController;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -33,7 +33,6 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
       Animation = _cc.Animation;
       SpriteFrame = _cc.SpriteFrame;
       Sprite = _cc.Sprite;
-      math = _cc.math;
       Graphics = _cc.Graphics;
       Color = _cc.Color;
       instantiate = _cc.instantiate;
@@ -65,11 +64,11 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
       }), _dec5 = property({
         type: Label
       }), _dec6 = property({
+        type: Label
+      }), _dec7 = property({
         type: _crd && Chip === void 0 ? (_reportPossibleCrUseOfChip({
           error: Error()
         }), Chip) : Chip
-      }), _dec7 = property({
-        type: Node
       }), _dec8 = property({
         type: Node
       }), _dec9 = property({
@@ -103,7 +102,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
       }), _dec23 = property({
         type: Node
       }), _dec24 = property({
-        type: Animation
+        type: Node
       }), _dec25 = property({
         type: Animation
       }), _dec26 = property({
@@ -117,10 +116,12 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
       }), _dec30 = property({
         type: Animation
       }), _dec31 = property({
-        type: SpriteFrame
+        type: Animation
       }), _dec32 = property({
         type: SpriteFrame
-      }), _dec33 = property(Node), _dec34 = property(Node), _dec35 = property(Prefab), _dec36 = property(Prefab), _dec37 = property(Prefab), _dec38 = property(Label), _dec39 = property({
+      }), _dec33 = property({
+        type: SpriteFrame
+      }), _dec34 = property(Node), _dec35 = property(Node), _dec36 = property(Prefab), _dec37 = property(Prefab), _dec38 = property(Prefab), _dec39 = property({
         type: Node
       }), _dec40 = property({
         type: Node
@@ -144,74 +145,76 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
 
           _initializerDefineProperty(this, "betTieLb", _descriptor3, this);
 
-          _initializerDefineProperty(this, "BalancerLb", _descriptor4, this);
+          _initializerDefineProperty(this, "UserName", _descriptor4, this);
 
-          _initializerDefineProperty(this, "chipNode", _descriptor5, this);
+          _initializerDefineProperty(this, "BalancerLb", _descriptor5, this);
 
-          _initializerDefineProperty(this, "CardNodeL", _descriptor6, this);
+          _initializerDefineProperty(this, "chipNode", _descriptor6, this);
 
-          _initializerDefineProperty(this, "CardNodeR", _descriptor7, this);
+          _initializerDefineProperty(this, "CardNodeL", _descriptor7, this);
 
-          _initializerDefineProperty(this, "AvatarNode", _descriptor8, this);
+          _initializerDefineProperty(this, "CardNodeR", _descriptor8, this);
 
-          _initializerDefineProperty(this, "AvatarNode1", _descriptor9, this);
+          _initializerDefineProperty(this, "AvatarNode", _descriptor9, this);
 
-          _initializerDefineProperty(this, "AvatarNode2", _descriptor10, this);
+          _initializerDefineProperty(this, "AvatarNode1", _descriptor10, this);
 
-          _initializerDefineProperty(this, "AvatarNode3", _descriptor11, this);
+          _initializerDefineProperty(this, "AvatarNode2", _descriptor11, this);
 
-          _initializerDefineProperty(this, "AvatarL1", _descriptor12, this);
+          _initializerDefineProperty(this, "AvatarNode3", _descriptor12, this);
 
-          _initializerDefineProperty(this, "AvatarL2", _descriptor13, this);
+          _initializerDefineProperty(this, "AvatarL1", _descriptor13, this);
 
-          _initializerDefineProperty(this, "AvatarL3", _descriptor14, this);
+          _initializerDefineProperty(this, "AvatarL2", _descriptor14, this);
 
-          _initializerDefineProperty(this, "AvatarL4", _descriptor15, this);
+          _initializerDefineProperty(this, "AvatarL3", _descriptor15, this);
 
-          _initializerDefineProperty(this, "AvatarL5", _descriptor16, this);
+          _initializerDefineProperty(this, "AvatarL4", _descriptor16, this);
 
-          _initializerDefineProperty(this, "AvatarL6", _descriptor17, this);
+          _initializerDefineProperty(this, "AvatarL5", _descriptor17, this);
 
-          _initializerDefineProperty(this, "GridL", _descriptor18, this);
+          _initializerDefineProperty(this, "AvatarL6", _descriptor18, this);
 
-          _initializerDefineProperty(this, "GridR", _descriptor19, this);
+          _initializerDefineProperty(this, "GridL", _descriptor19, this);
 
-          _initializerDefineProperty(this, "ValueAnim", _descriptor20, this);
+          _initializerDefineProperty(this, "GridR", _descriptor20, this);
 
-          _initializerDefineProperty(this, "ValueAnim1", _descriptor21, this);
+          _initializerDefineProperty(this, "ValueAnim", _descriptor21, this);
 
-          _initializerDefineProperty(this, "ValueAnim2", _descriptor22, this);
+          _initializerDefineProperty(this, "ValueAnim1", _descriptor22, this);
 
-          _initializerDefineProperty(this, "CardNodeAnim", _descriptor23, this);
+          _initializerDefineProperty(this, "ValueAnim2", _descriptor23, this);
 
-          _initializerDefineProperty(this, "WinNotice", _descriptor24, this);
+          _initializerDefineProperty(this, "CardNodeAnim", _descriptor24, this);
 
-          _initializerDefineProperty(this, "DragonWinintro", _descriptor25, this);
+          _initializerDefineProperty(this, "WinNotice", _descriptor25, this);
 
-          _initializerDefineProperty(this, "DragonNode", _descriptor26, this);
+          _initializerDefineProperty(this, "DragonWinintro", _descriptor26, this);
 
-          _initializerDefineProperty(this, "TigerNode", _descriptor27, this);
+          _initializerDefineProperty(this, "DragonNode", _descriptor27, this);
 
-          _initializerDefineProperty(this, "StartBet", _descriptor28, this);
+          _initializerDefineProperty(this, "TigerNode", _descriptor28, this);
 
-          _initializerDefineProperty(this, "ExplosionDra", _descriptor29, this);
+          _initializerDefineProperty(this, "StartBet", _descriptor29, this);
 
-          _initializerDefineProperty(this, "listCardRes", _descriptor30, this);
+          _initializerDefineProperty(this, "ExplosionDra", _descriptor30, this);
 
-          _initializerDefineProperty(this, "bankCard", _descriptor31, this);
+          _initializerDefineProperty(this, "listCardRes", _descriptor31, this);
 
-          _initializerDefineProperty(this, "pref", _descriptor32, this);
+          _initializerDefineProperty(this, "bankCard", _descriptor32, this);
 
-          _initializerDefineProperty(this, "prefL", _descriptor33, this);
+          _initializerDefineProperty(this, "pref", _descriptor33, this);
 
-          _initializerDefineProperty(this, "Over", _descriptor34, this);
+          _initializerDefineProperty(this, "prefL", _descriptor34, this);
 
-          _initializerDefineProperty(this, "Under", _descriptor35, this);
+          _initializerDefineProperty(this, "Over", _descriptor35, this);
 
-          _initializerDefineProperty(this, "Tie", _descriptor36, this);
+          _initializerDefineProperty(this, "Under", _descriptor36, this);
 
-          _initializerDefineProperty(this, "countDownLb", _descriptor37, this);
+          _initializerDefineProperty(this, "Tie", _descriptor37, this);
 
+          // @property(Label)
+          // private countDownLb: Label;
           _initializerDefineProperty(this, "ToatalAv", _descriptor38, this);
 
           _initializerDefineProperty(this, "ToatalUser", _descriptor39, this);
@@ -249,6 +252,10 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
           this.countdownTimerBet = 30;
           this.cloneBalance = 0;
           this.GameEnd = false;
+          this.GameStateStart = false;
+          this.GameStateIdle = false;
+          this.GameStateReuslt = false;
+          this.GameStateFight = false;
         }
 
         start() {
@@ -276,19 +283,45 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
         }
 
         update(deltaTime) {
-          this.countDownLb.string = this.countdownTimerBet.toString();
+          if (this.NetworkConnect.gameState === "idle" && this.GameStateIdle === false) {
+            this.UserName.string = this.NetworkConnect.room.sessionId;
+            this.Idle();
+            this.GameEnd = false;
+            this.GameStateIdle = true;
+            this.GameStateReuslt = false;
+            this.GameStateFight = false;
+          }
+
+          if (this.NetworkConnect.gameState === "startBetting" && this.GameStateStart === false) {
+            this.StartBetting();
+            this.GameStateStart = true;
+          }
+
+          if (this.NetworkConnect.gameState === "startBetting") {
+            this.PosBet();
+          }
+
+          if (this.NetworkConnect.gameState === "stopBetting") {
+            this.GameStateStart = false;
+            this.stopBetting();
+          }
+
+          if (this.NetworkConnect.gameState === "fight" && this.GameStateFight === false) {
+            this.fight();
+            this.GameStateFight = true;
+          }
+
+          if (this.NetworkConnect.gameState === "showResult" && this.GameStateReuslt === false) {
+            this.shownResult();
+            this.GameStateReuslt = true;
+          }
+
+          if (this.NetworkConnect.gameState === "payout") {}
 
           if (this.cloneBalance > 0) {
             this.listCancelBet[0].node.active = true;
           } else {
             this.listCancelBet[0].node.active = false;
-          }
-
-          if (this.NetworkConnect.room) {// this.NetworkConnect.room.onMessage("playerJoin", (message) => {
-            //   console.log("message received from server");
-            //   console.log("Mess", message);
-            //   this.AvatarL1.active = true;
-            // });
           }
         }
 
@@ -318,6 +351,11 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
             this.UserBetDragonIcon += this.chipNode.UserBet;
             this.ToatalUser[0].active = true;
             this.listCancelBet[3].node.active = true;
+            this.NetworkConnect.room.send("Bet", JSON.stringify({
+              betAmount: this.chipNode.UserBet,
+              betType: "Dragon"
+            }));
+            this.PosBet();
             this.createSpriteNode(-951, 193, this.ValueAnim1);
           }
         }
@@ -339,45 +377,58 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
             this.CardNodeL.active = false;
             this.CardNodeR.active = false;
             this.CardNodeAnim.node.active = true;
-            this.RestartBalnce();
-            setTimeout(() => {
-              this.CardNodeAnim.node.active = false;
-              this.CardNodeL.active = true;
-              this.CardNodeR.active = true;
-              this.CardNodeR.getComponent(Sprite).spriteFrame = this.bankCard;
-              this.CardNodeL.getComponent(Sprite).spriteFrame = this.bankCard;
-              tween(this.CardNodeL).to(0.4, {
-                position: this.clonePosCardL
-              }).call(() => {
-                this.GameEnd = false;
-                setTimeout(() => {
-                  tween(this.CardNodeL).to(0.4, {
-                    position: new Vec3(this.CardNodeL.position.x + 100, this.CardNodeL.position.y - 300)
-                  }).call(() => {
-                    this.displayImages();
-                  }).start();
-                }, 30000); //Waitime
-              }).start();
-              tween(this.CardNodeR).to(0.4, {
-                position: this.clonePosCardR
-              }).call(() => {
-                console.log("bat dau dem");
-                this.startCountdown(this.countdownTimerBet, 30);
-                this.StartBet.play("Startbet");
-                setTimeout(() => {
-                  tween(this.CardNodeR).to(0.4, {
-                    position: new Vec3(this.CardNodeR.position.x - 100, this.CardNodeR.position.y - 300)
-                  }).call(() => {
-                    this.displayImagesCardR();
-                    this.campareCard();
-                    this.createGrid();
-                    this.createGridNot();
-                  }).start();
-                  this.GameEnd = true;
-                  this.StartBet.play("EndBet");
-                }, 30000); //WaitTime
-              }).start();
-            }, 3000); //ShuffleTime
+            this.RestartBalnce(); // setTimeout(() => {
+            //   this.CardNodeAnim.node.active = false;
+            //   this.CardNodeL.active = true;
+            //   this.CardNodeR.active = true;
+            //   this.CardNodeR.getComponent(Sprite).spriteFrame = this.bankCard;
+            //   this.CardNodeL.getComponent(Sprite).spriteFrame = this.bankCard;
+            //   tween(this.CardNodeL)
+            //     .to(0.4, { position: this.clonePosCardL })
+            //     .call(() => {
+            //       this.GameEnd = false;
+            //       setTimeout(() => {
+            //         tween(this.CardNodeL)
+            //           .to(0.4, {
+            //             position: new Vec3(
+            //               this.CardNodeL.position.x + 100,
+            //               this.CardNodeL.position.y - 300
+            //             ),
+            //           })
+            //           .call(() => {
+            //             this.displayImages();
+            //           })
+            //           .start();
+            //       }, 30000); //Waitime
+            //     })
+            //     .start();
+            //   tween(this.CardNodeR)
+            //     .to(0.4, { position: this.clonePosCardR })
+            //     .call(() => {
+            //       console.log("bat dau dem");
+            //       this.startCountdown(this.countdownTimerBet, 30);
+            //       this.StartBet.play("Startbet");
+            //       setTimeout(() => {
+            //         tween(this.CardNodeR)
+            //           .to(0.4, {
+            //             position: new Vec3(
+            //               this.CardNodeR.position.x - 100,
+            //               this.CardNodeR.position.y - 300
+            //             ),
+            //           })
+            //           .call(() => {
+            //             this.displayImagesCardR();
+            //             this.campareCard();
+            //             this.createGrid();
+            //             this.createGridNot();
+            //           })
+            //           .start();
+            //         this.GameEnd = true;
+            //         this.StartBet.play("EndBet");
+            //       }, 30000); //WaitTime
+            //     })
+            //     .start();
+            // }, 3000); //ShuffleTime
           }).start();
           tween(this.CardNodeR).to(0.4, {
             position: new Vec3(1, 70)
@@ -385,8 +436,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
         }
 
         displayImages() {
-          this.randomValueCardL = math.randomRangeInt(1, 13);
-          console.log(this.randomValueCardL);
+          this.randomValueCardL = this.NetworkConnect.resultDragon; // console.log(this.randomValueCardL);
+
           const spriteFrame = this.listCardRes[this.randomValueCardL - 1];
           const sprite = this.CardNodeL.getComponent(Sprite);
 
@@ -398,8 +449,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
         }
 
         displayImagesCardR() {
-          this.randomValueCardR = math.randomRangeInt(1, 13);
-          console.log(this.randomValueCardR);
+          this.randomValueCardR = this.NetworkConnect.resultTiger; // console.log(this.randomValueCardR);
+
           const spriteFrame = this.listCardRes[this.randomValueCardR - 1];
           const sprite = this.CardNodeR.getComponent(Sprite);
 
@@ -596,8 +647,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
         drawRectanglel(Avatar) {
           const width = 220;
           const height = 100;
-          const graphics = Avatar.addComponent(Graphics); // graphics.rect(-width / 2, -height / 2, width, height);
-
+          const graphics = Avatar.addComponent(Graphics);
           const lightGray = new Color(116, 116, 116, 100);
           graphics.fillColor = lightGray;
           const glowColor = Color.BLACK;
@@ -866,15 +916,157 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
               position: targetPosition
             }).call(() => {
               child.removeFromParent();
-              this.createSpriteNodePay(-1450, 1, this.PayUser[0], this.PayUserSprite);
-              this.createSpriteNodePay(-1450, -100, this.PayUser[1], this.PayUserSprite);
-              this.createSpriteNodePay(-1450, -200, this.PayUser[2], this.PayUserSprite);
-              this.createSpriteNodePay(-1450, -300, this.PayUser[3], this.PayUserSprite);
-              this.createSpriteNodePay(-1450, -400, this.PayUser[4], this.PayUserSprite);
-              this.createSpriteNodePay(-1450, -500, this.PayUser[5], this.PayUserSprite);
-              this.createSpriteNodePay(0, -500, this.PayUser[6], this.PayUserSprite);
+
+              if (this.NetworkConnect.TotalUser > 0) {
+                console.log("aaa");
+                this.createSpriteNodePay(-1450, 1, this.PayUser[0], this.PayUserSprite);
+              }
+
+              if (this.NetworkConnect.TotalUser > 1) {
+                console.log("aabbba");
+                this.createSpriteNodePay(-1450, -100, this.PayUser[1], this.PayUserSprite);
+              }
+
+              if (this.NetworkConnect.TotalUser > 2) {
+                console.log("cc");
+                this.createSpriteNodePay(-1450, -200, this.PayUser[2], this.PayUserSprite);
+              } // this.createSpriteNodePay(
+              //   -1450,
+              //   -300,
+              //   this.PayUser[3],
+              //   this.PayUserSprite
+              // );
+              // this.createSpriteNodePay(
+              //   -1450,
+              //   -400,
+              //   this.PayUser[4],
+              //   this.PayUserSprite
+              // );
+              // this.createSpriteNodePay(
+              //   -1450,
+              //   -500,
+              //   this.PayUser[5],
+              //   this.PayUserSprite
+              // );
+              // this.createSpriteNodePay(
+              //   0,
+              //   -500,
+              //   this.PayUser[6],
+              //   this.PayUserSprite
+              // );
+
             }).start();
           });
+        }
+
+        Idle() {
+          this.shuffelCard();
+          this.DragonNode.play("DragonIde");
+          this.TigerNode.play("TigerIde"); // this.GameStateStart = false;
+        }
+
+        StartBetting() {
+          console.log("played");
+          this.GameStateIdle = false;
+          this.CardNodeAnim.node.active = false;
+          this.CardNodeL.active = true;
+          this.CardNodeR.active = true;
+          this.CardNodeR.getComponent(Sprite).spriteFrame = this.bankCard;
+          this.CardNodeL.getComponent(Sprite).spriteFrame = this.bankCard;
+          this.StartBet.play("Startbet");
+          tween(this.CardNodeL).to(0.4, {
+            position: this.clonePosCardL
+          }).call(() => {// this.GameEnd = false;
+          }).start();
+          tween(this.CardNodeR).to(0.4, {
+            position: this.clonePosCardR
+          }).call(() => {}).start(); // this.GameStateStart = true;
+        }
+
+        stopBetting() {
+          this.StartBet.play("EndBet");
+          this.GameEnd = true;
+        }
+
+        PosBet() {}
+
+        fight() {
+          console.log("TigerRRES", this.NetworkConnect.resultTiger);
+          console.log("DragonRRES", this.NetworkConnect.resultDragon);
+
+          if (this.NetworkConnect.resultTiger > this.NetworkConnect.resultDragon) {
+            console.log("TigerRRES1", this.NetworkConnect.resultTiger);
+            console.log("DragonRRES1", this.NetworkConnect.resultDragon);
+            this.balanceUser = this.balanceUser + this.UserBetTigerIcon * 2;
+            this.BalancerLb.string = this.balanceUser.toString();
+            this.WinNotice.play("TigerWin");
+            this.DragonWinintro.play("TigerIntro");
+            this.winIntroType = "TigerIntro";
+            this.DragonWinintro.on(Animation.EventType.FINISHED, () => {
+              if (this.winIntroType === "TigerIntro") {
+                this.TigerNode.play("TigerAttack"); // this.winIntroType = "TigerAttack";
+
+                this.TigerNode.on(Animation.EventType.FINISHED, () => {
+                  this.DragonNode.play("DragonHurt");
+                  this.DragonNode.on(Animation.EventType.FINISHED, () => {
+                    this.DragonNode.play("DragonIde");
+                    this.tweenChildrenToPosition(this.ValueAnim, new Vec3(30, 560), 0.5);
+                    this.tweenChildrenToPosition(this.ValueAnim1, new Vec3(30, 560), 0.5);
+                    this.tweenChildrenToPosition(this.ValueAnim2, new Vec3(30, 560), 0.5);
+                  });
+                  this.TigerNode.play("TigerIde");
+                  this.TigerNode.off(Animation.EventType.FINISHED);
+                });
+              }
+            });
+          }
+
+          if (this.NetworkConnect.resultDragon > this.NetworkConnect.resultTiger) {
+            console.log("TigerRRES2", this.NetworkConnect.resultTiger);
+            console.log("DragonRRES2", this.NetworkConnect.resultDragon);
+            this.balanceUser = this.balanceUser + this.UserBetDragonIcon * 2;
+            this.BalancerLb.string = this.balanceUser.toString();
+            this.WinNotice.play("DragonWinIcon");
+            this.DragonWinintro.play("DragonIntro"); // Sử dụng biến để xác định loại WinIntro
+
+            this.winIntroType = "DragonIntro";
+            this.DragonWinintro.on(Animation.EventType.FINISHED, () => {
+              // Kiểm tra loại WinIntro
+              if (this.winIntroType === "DragonIntro") {
+                this.DragonNode.play("DragonAttack");
+                this.DragonNode.on(Animation.EventType.FINISHED, () => {
+                  this.ExplosionDra.play();
+                  this.TigerNode.play("TigerHurt");
+                  this.TigerNode.on(Animation.EventType.FINISHED, () => {
+                    this.TigerNode.play("TigerIde");
+                    this.tweenChildrenToPosition(this.ValueAnim, new Vec3(30, 560), 0.5);
+                    this.tweenChildrenToPosition(this.ValueAnim1, new Vec3(30, 560), 0.5);
+                    this.tweenChildrenToPosition(this.ValueAnim2, new Vec3(30, 560), 0.5);
+                  });
+                  this.DragonNode.play("DragonIde");
+                  this.DragonNode.off(Animation.EventType.FINISHED);
+                });
+              }
+            });
+          }
+        }
+
+        shownResult() {
+          tween(this.CardNodeL).to(0.4, {
+            position: new Vec3(this.CardNodeL.position.x + 100, this.CardNodeL.position.y - 300)
+          }).call(() => {
+            this.displayImages();
+            this.tweenChildrenToPosition(this.ValueAnim, new Vec3(30, 560), 0.5);
+            this.tweenChildrenToPosition(this.ValueAnim1, new Vec3(30, 560), 0.5);
+            this.tweenChildrenToPosition(this.ValueAnim2, new Vec3(30, 560), 0.5);
+          }).start();
+          tween(this.CardNodeR).to(0.4, {
+            position: new Vec3(this.CardNodeR.position.x - 100, this.CardNodeR.position.y - 300)
+          }).call(() => {
+            this.displayImagesCardR(); // this.campareCard();
+            // this.createGrid();
+            // this.createGridNot();
+          }).start();
         }
 
       }, (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "betTigerLb", [_dec2], {
@@ -892,184 +1084,184 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2"], fu
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "BalancerLb", [_dec5], {
+      }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "UserName", [_dec5], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor5 = _applyDecoratedDescriptor(_class2.prototype, "chipNode", [_dec6], {
+      }), _descriptor5 = _applyDecoratedDescriptor(_class2.prototype, "BalancerLb", [_dec6], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor6 = _applyDecoratedDescriptor(_class2.prototype, "CardNodeL", [_dec7], {
+      }), _descriptor6 = _applyDecoratedDescriptor(_class2.prototype, "chipNode", [_dec7], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor7 = _applyDecoratedDescriptor(_class2.prototype, "CardNodeR", [_dec8], {
+      }), _descriptor7 = _applyDecoratedDescriptor(_class2.prototype, "CardNodeL", [_dec8], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor8 = _applyDecoratedDescriptor(_class2.prototype, "AvatarNode", [_dec9], {
+      }), _descriptor8 = _applyDecoratedDescriptor(_class2.prototype, "CardNodeR", [_dec9], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor9 = _applyDecoratedDescriptor(_class2.prototype, "AvatarNode1", [_dec10], {
+      }), _descriptor9 = _applyDecoratedDescriptor(_class2.prototype, "AvatarNode", [_dec10], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor10 = _applyDecoratedDescriptor(_class2.prototype, "AvatarNode2", [_dec11], {
+      }), _descriptor10 = _applyDecoratedDescriptor(_class2.prototype, "AvatarNode1", [_dec11], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor11 = _applyDecoratedDescriptor(_class2.prototype, "AvatarNode3", [_dec12], {
+      }), _descriptor11 = _applyDecoratedDescriptor(_class2.prototype, "AvatarNode2", [_dec12], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor12 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL1", [_dec13], {
+      }), _descriptor12 = _applyDecoratedDescriptor(_class2.prototype, "AvatarNode3", [_dec13], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor13 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL2", [_dec14], {
+      }), _descriptor13 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL1", [_dec14], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor14 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL3", [_dec15], {
+      }), _descriptor14 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL2", [_dec15], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor15 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL4", [_dec16], {
+      }), _descriptor15 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL3", [_dec16], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor16 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL5", [_dec17], {
+      }), _descriptor16 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL4", [_dec17], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor17 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL6", [_dec18], {
+      }), _descriptor17 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL5", [_dec18], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor18 = _applyDecoratedDescriptor(_class2.prototype, "GridL", [_dec19], {
+      }), _descriptor18 = _applyDecoratedDescriptor(_class2.prototype, "AvatarL6", [_dec19], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor19 = _applyDecoratedDescriptor(_class2.prototype, "GridR", [_dec20], {
+      }), _descriptor19 = _applyDecoratedDescriptor(_class2.prototype, "GridL", [_dec20], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor20 = _applyDecoratedDescriptor(_class2.prototype, "ValueAnim", [_dec21], {
+      }), _descriptor20 = _applyDecoratedDescriptor(_class2.prototype, "GridR", [_dec21], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor21 = _applyDecoratedDescriptor(_class2.prototype, "ValueAnim1", [_dec22], {
+      }), _descriptor21 = _applyDecoratedDescriptor(_class2.prototype, "ValueAnim", [_dec22], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor22 = _applyDecoratedDescriptor(_class2.prototype, "ValueAnim2", [_dec23], {
+      }), _descriptor22 = _applyDecoratedDescriptor(_class2.prototype, "ValueAnim1", [_dec23], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor23 = _applyDecoratedDescriptor(_class2.prototype, "CardNodeAnim", [_dec24], {
+      }), _descriptor23 = _applyDecoratedDescriptor(_class2.prototype, "ValueAnim2", [_dec24], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor24 = _applyDecoratedDescriptor(_class2.prototype, "WinNotice", [_dec25], {
+      }), _descriptor24 = _applyDecoratedDescriptor(_class2.prototype, "CardNodeAnim", [_dec25], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor25 = _applyDecoratedDescriptor(_class2.prototype, "DragonWinintro", [_dec26], {
+      }), _descriptor25 = _applyDecoratedDescriptor(_class2.prototype, "WinNotice", [_dec26], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor26 = _applyDecoratedDescriptor(_class2.prototype, "DragonNode", [_dec27], {
+      }), _descriptor26 = _applyDecoratedDescriptor(_class2.prototype, "DragonWinintro", [_dec27], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor27 = _applyDecoratedDescriptor(_class2.prototype, "TigerNode", [_dec28], {
+      }), _descriptor27 = _applyDecoratedDescriptor(_class2.prototype, "DragonNode", [_dec28], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor28 = _applyDecoratedDescriptor(_class2.prototype, "StartBet", [_dec29], {
+      }), _descriptor28 = _applyDecoratedDescriptor(_class2.prototype, "TigerNode", [_dec29], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor29 = _applyDecoratedDescriptor(_class2.prototype, "ExplosionDra", [_dec30], {
+      }), _descriptor29 = _applyDecoratedDescriptor(_class2.prototype, "StartBet", [_dec30], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor30 = _applyDecoratedDescriptor(_class2.prototype, "listCardRes", [_dec31], {
+      }), _descriptor30 = _applyDecoratedDescriptor(_class2.prototype, "ExplosionDra", [_dec31], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: null
+      }), _descriptor31 = _applyDecoratedDescriptor(_class2.prototype, "listCardRes", [_dec32], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return [];
         }
-      }), _descriptor31 = _applyDecoratedDescriptor(_class2.prototype, "bankCard", [_dec32], {
+      }), _descriptor32 = _applyDecoratedDescriptor(_class2.prototype, "bankCard", [_dec33], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor32 = _applyDecoratedDescriptor(_class2.prototype, "pref", [_dec33], {
+      }), _descriptor33 = _applyDecoratedDescriptor(_class2.prototype, "pref", [_dec34], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor33 = _applyDecoratedDescriptor(_class2.prototype, "prefL", [_dec34], {
+      }), _descriptor34 = _applyDecoratedDescriptor(_class2.prototype, "prefL", [_dec35], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: null
-      }), _descriptor34 = _applyDecoratedDescriptor(_class2.prototype, "Over", [_dec35], {
+      }), _descriptor35 = _applyDecoratedDescriptor(_class2.prototype, "Over", [_dec36], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return null;
         }
-      }), _descriptor35 = _applyDecoratedDescriptor(_class2.prototype, "Under", [_dec36], {
+      }), _descriptor36 = _applyDecoratedDescriptor(_class2.prototype, "Under", [_dec37], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return null;
         }
-      }), _descriptor36 = _applyDecoratedDescriptor(_class2.prototype, "Tie", [_dec37], {
+      }), _descriptor37 = _applyDecoratedDescriptor(_class2.prototype, "Tie", [_dec38], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function () {
           return null;
         }
-      }), _descriptor37 = _applyDecoratedDescriptor(_class2.prototype, "countDownLb", [_dec38], {
-        configurable: true,
-        enumerable: true,
-        writable: true,
-        initializer: null
       }), _descriptor38 = _applyDecoratedDescriptor(_class2.prototype, "ToatalAv", [_dec39], {
         configurable: true,
         enumerable: true,
