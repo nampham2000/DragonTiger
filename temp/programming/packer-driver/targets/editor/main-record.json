@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 31280.594100000017,
+      "mTimestamp": 6343.172167003155,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -640,11 +640,11 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 13856587.4165,
+      "mTimestamp": 31352383.882500023,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
-          "value": "file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
+          "value": "file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts",
           "resolved": "__unresolved_0",
           "loc": {
             "start": {
@@ -653,77 +653,91 @@
             },
             "end": {
               "line": 5,
-              "column": 167
+              "column": 183
             }
           }
         },
         {
-          "value": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/Chip.ts",
+          "value": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/AudioController.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
               "line": 5,
-              "column": 183
+              "column": 199
             },
             "end": {
               "line": 5,
-              "column": 255
+              "column": 271
             }
           }
         },
         {
-          "value": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/GameController.ts",
+          "value": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/Chip.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
               "line": 5,
-              "column": 271
+              "column": 287
             },
             "end": {
               "line": 5,
-              "column": 353
+              "column": 348
             }
           }
         },
         {
-          "value": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/NetworkConnect.ts",
+          "value": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/GameController.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
               "line": 5,
-              "column": 369
+              "column": 364
             },
             "end": {
               "line": 5,
-              "column": 451
+              "column": 435
             }
           }
         },
         {
-          "value": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/PlayerList.ts",
+          "value": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/NetworkConnect.ts",
           "resolved": "__unresolved_4",
           "loc": {
             "start": {
               "line": 5,
-              "column": 467
+              "column": 451
             },
             "end": {
               "line": 5,
-              "column": 545
+              "column": 522
             }
           }
         },
         {
-          "value": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js",
+          "value": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/PlayerList.ts",
           "resolved": "__unresolved_5",
           "loc": {
             "start": {
               "line": 5,
-              "column": 561
+              "column": 538
             },
             "end": {
               "line": 5,
-              "column": 670
+              "column": 605
+            }
+          }
+        },
+        {
+          "value": "file:///Users/waostudio/Desktop/Fix2/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js",
+          "resolved": "__unresolved_6",
+          "loc": {
+            "start": {
+              "line": 5,
+              "column": 621
+            },
+            "end": {
+              "line": 5,
+              "column": 719
             }
           }
         }
@@ -733,42 +747,49 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/ProgramData/cocos/editors/Creator/3.8.2/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
+            "url": "file:///Applications/Cocos/Creator/3.8.2/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/Chip.ts"
+            "url": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/AudioController.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/GameController.ts"
+            "url": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/Chip.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/NetworkConnect.ts"
+            "url": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/GameController.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/assets/Scripts/PlayerList.ts"
+            "url": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/NetworkConnect.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///C:/Users/Admin/OneDrive/Desktop/GameNew/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.mjs?cjs=&original=.js"
+            "url": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/PlayerList.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/Fix2/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.mjs?cjs=&original=.js"
           },
           "messages": []
         }
@@ -984,7 +1005,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1713280277510,
+      "mTimestamp": 1713320717255,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",
@@ -1212,7 +1233,7 @@
       ]
     },
     "cce:/internal/ml/cjs-loader.mjs": {
-      "mTimestamp": 1713280277510,
+      "mTimestamp": 1713320717255,
       "chunkId": "a0d063530de23ddade53e1a935bf64c81277c061",
       "imports": [],
       "type": "esm",
@@ -1723,6 +1744,614 @@
             "end": {
               "line": 1,
               "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/Chip.ts": {
+      "mTimestamp": {
+        "mtime": 1713340611881.5088,
+        "uuid": "cd8d8b1c-5af2-46c8-ab1a-7bccd45446f0"
+      },
+      "chunkId": "0d324bb04a073971c1b7211839eb13f436683c52",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 72
+            },
+            "end": {
+              "line": 1,
+              "column": 76
+            }
+          }
+        },
+        {
+          "value": "./AudioController",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 32
+            },
+            "end": {
+              "line": 2,
+              "column": 51
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/AudioController.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/GameController.ts": {
+      "mTimestamp": {
+        "mtime": 1713352066642.8774,
+        "uuid": "d8ab5610-dd96-4f78-9795-6218739fe6f3"
+      },
+      "chunkId": "1906c19080885cc4c14212098e5eaf679f51ffb0",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 20,
+              "column": 7
+            },
+            "end": {
+              "line": 20,
+              "column": 11
+            }
+          }
+        },
+        {
+          "value": "./Chip",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 21,
+              "column": 21
+            },
+            "end": {
+              "line": 21,
+              "column": 29
+            }
+          }
+        },
+        {
+          "value": "./NetworkConnect",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 22,
+              "column": 31
+            },
+            "end": {
+              "line": 22,
+              "column": 49
+            }
+          }
+        },
+        {
+          "value": "./AudioController",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 23,
+              "column": 32
+            },
+            "end": {
+              "line": 23,
+              "column": 51
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/Chip.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/NetworkConnect.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/AudioController.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/NetworkConnect.ts": {
+      "mTimestamp": {
+        "mtime": 1713352045716.5254,
+        "uuid": "f92887c2-9ea3-4ec7-b5ff-e017e453225f"
+      },
+      "chunkId": "43473e6ad9c5ca1eba3156208350b9f50bb2053a",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 72
+            },
+            "end": {
+              "line": 1,
+              "column": 76
+            }
+          }
+        },
+        {
+          "value": "db://colyseus-sdk/colyseus.js",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 21
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "./AudioController",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 4,
+              "column": 32
+            },
+            "end": {
+              "line": 4,
+              "column": 51
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/Fix2/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.mjs?cjs=&original=.js"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/AudioController.ts"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/waostudio/Desktop/Fix2/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.mjs?cjs=&original=.js": {
+      "mTimestamp": 1713155720024.2375,
+      "chunkId": "bffe82c2538f0b1c4a7087c97ff766d2b9f433a9",
+      "imports": [
+        {
+          "value": "cce:/internal/code-quality/cr.mjs",
+          "resolved": "__unresolved_0"
+        },
+        {
+          "value": "./colyseus.js",
+          "resolved": "__unresolved_1",
+          "loc": {
+            "start": {
+              "line": 2,
+              "column": 36
+            },
+            "end": {
+              "line": 2,
+              "column": 51
+            }
+          }
+        },
+        {
+          "value": "cce:/internal/ml/cjs-loader.mjs",
+          "resolved": "__unresolved_2",
+          "loc": {
+            "start": {
+              "line": 3,
+              "column": 19
+            },
+            "end": {
+              "line": 3,
+              "column": 52
+            }
+          }
+        },
+        {
+          "value": "./colyseus.js",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 8,
+              "column": 14
+            },
+            "end": {
+              "line": 8,
+              "column": 29
+            }
+          }
+        },
+        {
+          "value": "./colyseus.js",
+          "resolved": "__unresolved_4",
+          "loc": {
+            "start": {
+              "line": 9,
+              "column": 29
+            },
+            "end": {
+              "line": 9,
+              "column": 44
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/code-quality/cr.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/Fix2/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/ml/cjs-loader.mjs"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/Fix2/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///Users/waostudio/Desktop/Fix2/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/waostudio/Desktop/Fix2/extensions/Colyseus%20Multiplayer%20SDK/runtime/colyseus.js": {
+      "mTimestamp": {
+        "mtime": 1713155720024.2375,
+        "uuid": "b554cfc3-98f3-4c04-ac8b-fd4ca2621ffb"
+      },
+      "chunkId": "ab3d961f4907950bca8120f09242825bb9a7119b",
+      "imports": [
+        {
+          "value": "cce:/internal/ml/cjs-loader.mjs",
+          "resolved": "__unresolved_0",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 23
+            },
+            "end": {
+              "line": 1,
+              "column": 56
+            }
+          }
+        }
+      ],
+      "type": "commonjs",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/ml/cjs-loader.mjs"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/PlayerList.ts": {
+      "mTimestamp": {
+        "mtime": 1712658000000,
+        "uuid": "055dedd8-8187-48d0-8ea4-eb0eee651d41"
+      },
+      "chunkId": "9bb925155d239e6550c62680a483843b04f70041",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/AudioSource.ts": {
+      "mTimestamp": {
+        "mtime": 1713327980794.52,
+        "uuid": "61eaa6f3-3b34-4a93-b22b-1ad0497c0958"
+      },
+      "chunkId": "12aafb255213c554e82b294f221ee8272611ff60",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 44
+            },
+            "end": {
+              "line": 1,
+              "column": 48
+            }
+          }
+        }
+      ],
+      "type": "esm",
+      "resolutions": [
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "cce:/internal/x/cc"
+          },
+          "messages": []
+        }
+      ]
+    },
+    "file:///Users/waostudio/Desktop/Fix2/assets/Scripts/AudioController.ts": {
+      "mTimestamp": {
+        "mtime": 1713328034823.264,
+        "uuid": "a2ee9b91-af14-4033-9ea4-70ee838e0c0e"
+      },
+      "chunkId": "721e56c8a101cbbdcb3cbf7ba37a28de681a3b55",
+      "imports": [
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc"
+        },
+        {
+          "value": "cc",
+          "loc": {
+            "start": {
+              "line": 1,
+              "column": 68
+            },
+            "end": {
+              "line": 1,
+              "column": 72
             }
           }
         }

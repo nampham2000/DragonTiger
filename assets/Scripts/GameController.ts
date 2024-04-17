@@ -1,3 +1,4 @@
+import { NewComponent } from "./PlayerList";
 import {
   _decorator,
   Component,
@@ -19,6 +20,7 @@ import {
 } from "cc";
 import { Chip } from "./Chip";
 import { NetworkConnect } from "./NetworkConnect";
+import { AudioController } from "./AudioController";
 const { ccclass, property } = _decorator;
 
 @ccclass("GameController")
@@ -197,9 +199,7 @@ export class GameController extends Component {
   @property(Prefab)
   private Tie: Prefab = null;
 
-  // @property(Label)
   // private countDownLb: Label;
-
   @property({
     type: Node,
   })
@@ -231,6 +231,11 @@ export class GameController extends Component {
   @property(NetworkConnect)
   private NetworkConnect: NetworkConnect;
 
+  @property({
+    type: AudioController,
+  })
+  private AudioController: AudioController;
+
   private UserBetTigerIcon: number = 0;
   private UserBetDragonIcon: number = 0;
   private UserBetTieIcon: number = 0;
@@ -258,7 +263,8 @@ export class GameController extends Component {
   private GameStateIdle: boolean = false;
   private GameStateReuslt: boolean = false;
   private GameStateFight: boolean = false;
-  private GameStatePayOut:boolean=false;
+  private GameStatePayOut: boolean = false;
+  private GameStateStopBet: boolean = false;
 
   start() {
     this.clonePosCardL = this.CardNodeL.position.clone();
@@ -296,6 +302,7 @@ export class GameController extends Component {
       this.GameStateIdle = true;
       this.GameStateReuslt = false;
       this.GameStateFight = false;
+      this.GameStateStopBet = false;
     }
     if (
       this.NetworkConnect.gameState === "startBetting" &&
@@ -309,9 +316,13 @@ export class GameController extends Component {
       this.PosBet();
     }
 
-    if (this.NetworkConnect.gameState === "stopBetting") {
+    if (
+      this.NetworkConnect.gameState === "stopBetting" &&
+      this.GameStateStopBet === false
+    ) {
       this.GameStateStart = false;
       this.stopBetting();
+      this.GameStateStopBet = true;
     }
 
     if (
@@ -328,9 +339,12 @@ export class GameController extends Component {
       this.shownResult();
       this.GameStateReuslt = true;
     }
-    if (this.NetworkConnect.gameState === "payout"&&this.GameStatePayOut===false) {
+    if (
+      this.NetworkConnect.gameState === "payout" &&
+      this.GameStatePayOut === false
+    ) {
       this.PayoutAnim();
-      this.GameStatePayOut=true;
+      this.GameStatePayOut = true;
     }
     if (this.cloneBalance > 0) {
       this.listCancelBet[0].node.active = true;
@@ -361,6 +375,7 @@ export class GameController extends Component {
       this.listCancelBet[1].node.active = true;
 
       this.createSpriteNode(-406, 200, this.ValueAnim);
+      this.AudioController.onAudio(8);
     }
   }
 
@@ -380,6 +395,7 @@ export class GameController extends Component {
       );
       this.PosBet();
       this.createSpriteNode(-951, 193, this.ValueAnim1);
+      this.AudioController.onAudio(8);
     }
   }
 
@@ -390,6 +406,7 @@ export class GameController extends Component {
       this.UserBetTieIcon += this.chipNode.UserBet;
       this.ToatalUser[1].active = true;
       this.createSpriteNode(-670, 221, this.ValueAnim2);
+      this.AudioController.onAudio(8);
     }
   }
 
@@ -400,59 +417,8 @@ export class GameController extends Component {
         this.CardNodeL.active = false;
         this.CardNodeR.active = false;
         this.CardNodeAnim.node.active = true;
+        this.AudioController.onAudio(0);
         this.RestartBalnce();
-        // setTimeout(() => {
-        //   this.CardNodeAnim.node.active = false;
-        //   this.CardNodeL.active = true;
-        //   this.CardNodeR.active = true;
-        //   this.CardNodeR.getComponent(Sprite).spriteFrame = this.bankCard;
-        //   this.CardNodeL.getComponent(Sprite).spriteFrame = this.bankCard;
-        //   tween(this.CardNodeL)
-        //     .to(0.4, { position: this.clonePosCardL })
-        //     .call(() => {
-        //       this.GameEnd = false;
-        //       setTimeout(() => {
-        //         tween(this.CardNodeL)
-        //           .to(0.4, {
-        //             position: new Vec3(
-        //               this.CardNodeL.position.x + 100,
-        //               this.CardNodeL.position.y - 300
-        //             ),
-        //           })
-        //           .call(() => {
-        //             this.displayImages();
-        //           })
-        //           .start();
-        //       }, 30000); //Waitime
-        //     })
-        //     .start();
-        //   tween(this.CardNodeR)
-        //     .to(0.4, { position: this.clonePosCardR })
-        //     .call(() => {
-        //       console.log("bat dau dem");
-        //       this.startCountdown(this.countdownTimerBet, 30);
-        //       this.StartBet.play("Startbet");
-        //       setTimeout(() => {
-        //         tween(this.CardNodeR)
-        //           .to(0.4, {
-        //             position: new Vec3(
-        //               this.CardNodeR.position.x - 100,
-        //               this.CardNodeR.position.y - 300
-        //             ),
-        //           })
-        //           .call(() => {
-        //             this.displayImagesCardR();
-        //             this.campareCard();
-        //             this.createGrid();
-        //             this.createGridNot();
-        //           })
-        //           .start();
-        //         this.GameEnd = true;
-        //         this.StartBet.play("EndBet");
-        //       }, 30000); //WaitTime
-        //     })
-        //     .start();
-        // }, 3000); //ShuffleTime
       })
       .start();
 
@@ -462,125 +428,27 @@ export class GameController extends Component {
   }
 
   private displayImages() {
-    this.randomValueCardL = this.NetworkConnect.resultDragon;
-    // console.log(this.randomValueCardL);
-
-    const spriteFrame = this.listCardRes[this.randomValueCardL - 1];
-    const sprite = this.CardNodeL.getComponent(Sprite);
-    if (sprite && spriteFrame) {
-      sprite.spriteFrame = spriteFrame;
-    } else {
-      console.error("Sprite or SpriteFrame is missing!");
-    }
+    this.NetworkConnect.room.onMessage("result", (message) => {
+      const spriteFrame = this.listCardRes[message.dragonCard.value - 1];
+      const sprite = this.CardNodeL.getComponent(Sprite);
+      if (sprite && spriteFrame) {
+        sprite.spriteFrame = spriteFrame;
+      } else {
+        console.error("Sprite or SpriteFrame is missing!");
+      }
+    });
   }
 
   private displayImagesCardR() {
-    this.randomValueCardR = this.NetworkConnect.resultTiger;
-    // console.log(this.randomValueCardR);
-    const spriteFrame = this.listCardRes[this.randomValueCardR - 1];
-    const sprite = this.CardNodeR.getComponent(Sprite);
-    if (sprite && spriteFrame) {
-      sprite.spriteFrame = spriteFrame;
-    } else {
-      console.error("Sprite or SpriteFrame is missing!");
-    }
-  }
-
-  private campareCard() {
-    if (this.randomValueCardR > this.randomValueCardL) {
-      this.balanceUser = this.balanceUser + this.UserBetTigerIcon * 2;
-      this.BalancerLb.string = this.balanceUser.toString();
-      this.WinNotice.play("TigerWin");
-      this.DragonWinintro.play("TigerIntro");
-      this.winIntroType = "TigerIntro";
-      this.DragonWinintro.on(Animation.EventType.FINISHED, () => {
-        if (this.winIntroType === "TigerIntro") {
-          this.TigerNode.play("TigerAttack");
-          // this.winIntroType = "TigerAttack";
-          this.TigerNode.on(Animation.EventType.FINISHED, () => {
-            this.DragonNode.play("DragonHurt");
-            this.DragonNode.on(Animation.EventType.FINISHED, () => {
-              this.DragonNode.play("DragonIde");
-              this.tweenChildrenToPosition(
-                this.ValueAnim,
-                new Vec3(30, 560),
-                0.5
-              );
-              this.tweenChildrenToPosition(
-                this.ValueAnim1,
-                new Vec3(30, 560),
-                0.5
-              );
-              this.tweenChildrenToPosition(
-                this.ValueAnim2,
-                new Vec3(30, 560),
-                0.5
-              );
-            });
-
-            this.TigerNode.play("TigerIde");
-
-            // this.DragonNode.play("DragonIde");
-            setTimeout(() => {
-              this.shuffelCard();
-            }, 4000);
-            this.TigerNode.off(Animation.EventType.FINISHED);
-          });
-        }
-      });
-    }
-    if (this.randomValueCardR < this.randomValueCardL) {
-      this.balanceUser = this.balanceUser + this.UserBetDragonIcon * 2;
-      this.BalancerLb.string = this.balanceUser.toString();
-      this.WinNotice.play("DragonWinIcon");
-      this.DragonWinintro.play("DragonIntro");
-      // Sử dụng biến để xác định loại WinIntro
-      this.winIntroType = "DragonIntro";
-      this.DragonWinintro.on(Animation.EventType.FINISHED, () => {
-        // Kiểm tra loại WinIntro
-        if (this.winIntroType === "DragonIntro") {
-          this.DragonNode.play("DragonAttack");
-          this.DragonNode.on(Animation.EventType.FINISHED, () => {
-            this.ExplosionDra.play();
-            this.TigerNode.play("TigerHurt");
-            this.TigerNode.on(Animation.EventType.FINISHED, () => {
-              this.TigerNode.play("TigerIde");
-              this.tweenChildrenToPosition(
-                this.ValueAnim,
-                new Vec3(30, 560),
-                0.5
-              );
-              this.tweenChildrenToPosition(
-                this.ValueAnim1,
-                new Vec3(30, 560),
-                0.5
-              );
-              this.tweenChildrenToPosition(
-                this.ValueAnim2,
-                new Vec3(30, 560),
-                0.5
-              );
-            });
-            this.DragonNode.play("DragonIde");
-
-            setTimeout(() => {
-              this.shuffelCard();
-            }, 4000);
-            this.DragonNode.off(Animation.EventType.FINISHED);
-          });
-        }
-      });
-    }
-    if (this.randomValueCardR === this.randomValueCardL) {
-      this.balanceUser = this.balanceUser + this.UserBetTieIcon * 18;
-      this.BalancerLb.string = this.balanceUser.toString();
-      this.tweenChildrenToPosition(this.ValueAnim, new Vec3(30, 560), 0.5);
-      this.tweenChildrenToPosition(this.ValueAnim1, new Vec3(30, 560), 0.5);
-      this.tweenChildrenToPosition(this.ValueAnim2, new Vec3(30, 560), 0.5);
-      setTimeout(() => {
-        this.shuffelCard();
-      }, 4000);
-    }
+    this.NetworkConnect.room.onMessage("result", (message) => {
+      const spriteFrame = this.listCardRes[message.tigerCard.value - 1];
+      const sprite = this.CardNodeR.getComponent(Sprite);
+      if (sprite && spriteFrame) {
+        sprite.spriteFrame = spriteFrame;
+      } else {
+        console.error("Sprite or SpriteFrame is missing!");
+      }
+    });
   }
 
   drawRectangle() {
@@ -920,6 +788,7 @@ export class GameController extends Component {
       this.ValueAnim1.removeAllChildren();
       this.ValueAnim2.removeAllChildren();
     }
+    this.AudioController.onAudio(7);
   }
 
   private RestartBalnce() {
@@ -954,6 +823,7 @@ export class GameController extends Component {
       this.betTigerLb.string = this.UserBetTigerIcon.toString();
       this.ValueAnim.removeAllChildren();
     }
+    this.AudioController.onAudio(7);
   }
 
   private CancelBetDragon() {
@@ -967,6 +837,7 @@ export class GameController extends Component {
       this.betDragonLb.string = this.UserBetDragonIcon.toString();
       this.ValueAnim1.removeAllChildren();
     }
+    this.AudioController.onAudio(7);
   }
 
   private CancelBetTie() {
@@ -981,6 +852,7 @@ export class GameController extends Component {
       this.betTieLb.string = this.UserBetTieIcon.toString();
       this.ValueAnim2.removeAllChildren();
     }
+    this.AudioController.onAudio(7);
   }
 
   tweenChildrenToPosition(node: Node, targetPosition: Vec3, duration: number) {
@@ -988,6 +860,7 @@ export class GameController extends Component {
       tween(child)
         .to(duration, { position: targetPosition })
         .call(() => {
+          this.AudioController.onAudio(5);
           child.removeFromParent();
         })
 
@@ -995,20 +868,16 @@ export class GameController extends Component {
     });
   }
 
-  private PayoutAnim(){
+  private PayoutAnim() {
     if (this.NetworkConnect.TotalUser > 0) {
+      this.AudioController.onAudio(6);
       console.log("tra cho minh");
     }
-    
+
     if (this.NetworkConnect.TotalUser > 1) {
       console.log("aaa");
 
-      this.createSpriteNodePay(
-        -1450,
-        1,
-        this.PayUser[0],
-        this.PayUserSprite
-      );
+      this.createSpriteNodePay(-1450, 1, this.PayUser[0], this.PayUserSprite);
     }
     if (this.NetworkConnect.TotalUser > 2) {
       console.log("aabbba");
@@ -1032,32 +901,30 @@ export class GameController extends Component {
     }
     if (this.NetworkConnect.TotalUser > 4) {
       this.createSpriteNodePay(
-      -1450,
-      -300,
-      this.PayUser[3],
-      this.PayUserSprite
-    );
+        -1450,
+        -300,
+        this.PayUser[3],
+        this.PayUserSprite
+      );
     }
 
     if (this.NetworkConnect.TotalUser > 5) {
-            this.createSpriteNodePay(
-      -1450,
-      -400,
-      this.PayUser[4],
-      this.PayUserSprite
-    );
-    }
-    
-    if (this.NetworkConnect.TotalUser > 6) {
-         this.createSpriteNodePay(
-      -1450,
-      -500,
-      this.PayUser[5],
-      this.PayUserSprite
-    );
+      this.createSpriteNodePay(
+        -1450,
+        -400,
+        this.PayUser[4],
+        this.PayUserSprite
+      );
     }
 
-   
+    if (this.NetworkConnect.TotalUser > 6) {
+      this.createSpriteNodePay(
+        -1450,
+        -500,
+        this.PayUser[5],
+        this.PayUserSprite
+      );
+    }
 
     // this.createSpriteNodePay(
     //   0,
@@ -1071,12 +938,11 @@ export class GameController extends Component {
     this.shuffelCard();
     this.DragonNode.play("DragonIde");
     this.TigerNode.play("TigerIde");
-    this.GameStatePayOut=false;
+    this.GameStatePayOut = false;
     // this.GameStateStart = false;
   }
 
   private StartBetting() {
-    console.log("played");
     this.GameStateIdle = false;
     this.CardNodeAnim.node.active = false;
     this.CardNodeL.active = true;
@@ -1088,6 +954,7 @@ export class GameController extends Component {
       .to(0.4, { position: this.clonePosCardL })
       .call(() => {
         // this.GameEnd = false;
+        this.AudioController.onAudio(1);
       })
       .start();
     tween(this.CardNodeR)
@@ -1099,14 +966,13 @@ export class GameController extends Component {
 
   private stopBetting() {
     this.StartBet.play("EndBet");
+    this.AudioController.onAudio(2);
     this.GameEnd = true;
   }
-  private PosBet() {
-  
-  }
+  private PosBet() {}
 
   private fight() {
-    if (this.NetworkConnect.resultTiger > this.NetworkConnect.resultDragon) {
+    if (this.NetworkConnect.result === "tigerWin") {
       this.balanceUser = this.balanceUser + this.UserBetTigerIcon * 2;
       this.BalancerLb.string = this.balanceUser.toString();
       this.WinNotice.play("TigerWin");
@@ -1115,26 +981,10 @@ export class GameController extends Component {
       this.DragonWinintro.on(Animation.EventType.FINISHED, () => {
         if (this.winIntroType === "TigerIntro") {
           this.TigerNode.play("TigerAttack");
-          // this.winIntroType = "TigerAttack";
           this.TigerNode.on(Animation.EventType.FINISHED, () => {
             this.DragonNode.play("DragonHurt");
             this.DragonNode.on(Animation.EventType.FINISHED, () => {
               this.DragonNode.play("DragonIde");
-              this.tweenChildrenToPosition(
-                this.ValueAnim,
-                new Vec3(30, 560),
-                0.5
-              );
-              this.tweenChildrenToPosition(
-                this.ValueAnim1,
-                new Vec3(30, 560),
-                0.5
-              );
-              this.tweenChildrenToPosition(
-                this.ValueAnim2,
-                new Vec3(30, 560),
-                0.5
-              );
             });
 
             this.TigerNode.play("TigerIde");
@@ -1143,9 +993,7 @@ export class GameController extends Component {
         }
       });
     }
-    if (this.NetworkConnect.resultDragon > this.NetworkConnect.resultTiger) {
-      console.log("TigerRRES2", this.NetworkConnect.resultTiger);
-      console.log("DragonRRES2", this.NetworkConnect.resultDragon);
+    if (this.NetworkConnect.result === "dragonWin") {
       this.balanceUser = this.balanceUser + this.UserBetDragonIcon * 2;
       this.BalancerLb.string = this.balanceUser.toString();
       this.WinNotice.play("DragonWinIcon");
@@ -1156,26 +1004,28 @@ export class GameController extends Component {
         // Kiểm tra loại WinIntro
         if (this.winIntroType === "DragonIntro") {
           this.DragonNode.play("DragonAttack");
+          this.AudioController.onAudio(12);
           this.DragonNode.on(Animation.EventType.FINISHED, () => {
             this.ExplosionDra.play();
+            this.AudioController.onAudio(10);
             this.TigerNode.play("TigerHurt");
             this.TigerNode.on(Animation.EventType.FINISHED, () => {
               this.TigerNode.play("TigerIde");
-              this.tweenChildrenToPosition(
-                this.ValueAnim,
-                new Vec3(30, 560),
-                0.5
-              );
-              this.tweenChildrenToPosition(
-                this.ValueAnim1,
-                new Vec3(30, 560),
-                0.5
-              );
-              this.tweenChildrenToPosition(
-                this.ValueAnim2,
-                new Vec3(30, 560),
-                0.5
-              );
+              // this.tweenChildrenToPosition(
+              //   this.ValueAnim,
+              //   new Vec3(30, 560),
+              //   0.5
+              // );
+              // this.tweenChildrenToPosition(
+              //   this.ValueAnim1,
+              //   new Vec3(30, 560),
+              //   0.5
+              // );
+              // this.tweenChildrenToPosition(
+              //   this.ValueAnim2,
+              //   new Vec3(30, 560),
+              //   0.5
+              // );
             });
             this.DragonNode.play("DragonIde");
             this.DragonNode.off(Animation.EventType.FINISHED);
@@ -1209,7 +1059,6 @@ export class GameController extends Component {
       })
       .call(() => {
         this.displayImagesCardR();
-        // this.campareCard();
         // this.createGrid();
         // this.createGridNot();
       })

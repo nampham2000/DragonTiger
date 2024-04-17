@@ -2076,6 +2076,20 @@
         "44549c6a-07ed-4a60-8a4a-54a9c605c249",
         "27fbf84c-3892-467b-bb14-5d3f598aaa56",
         "d4ec2b5d-d7db-47ca-94f2-bcd7a357932d@f9941",
+        "f4fa8f44-17f8-40a3-a8ac-df6cfdb4e33d",
+        "4268f352-3eec-4c98-8f87-f538fd9ad025",
+        "45670090-e592-4634-95c0-9dc9c9a2cb7f",
+        "121fa77a-8d5b-4bc2-905a-9abaa5ff8ebd",
+        "70a61a41-17e2-48b4-b8c8-8c226d3e6c8e",
+        "b1121b3f-6622-441d-91d6-abbe96c82149",
+        "c02045e5-228a-4a4b-846c-618295fb2787",
+        "f519d674-937a-4697-b102-425140730d66",
+        "595a4016-bcbc-4c7d-884c-53439f49f198",
+        "d53a9cf8-7cf6-4d64-860a-b7260d35d287",
+        "1066f1c5-6c83-4efa-91ea-15c9ea6af8f5",
+        "24d2dfd1-7229-410f-a960-3a729451109c",
+        "0e3af3e7-2bd6-48a8-b034-da625f35f613",
+        "6f51aa40-ca56-42f4-8400-a0aca7595a98",
         "9ba735ea-e519-4aeb-9673-97c2c7065382@f9941",
         "0b33623d-1fb8-4e7e-a0c7-60f9d0cc37d0@f9941",
         "414af1f6-327c-4489-93f2-3d2e3755bcb2@f9941",
@@ -2120,6 +2134,7 @@
       "dependScripts": [
         "d8ab5610-dd96-4f78-9795-6218739fe6f3",
         "cd8d8b1c-5af2-46c8-ab1a-7bccd45446f0",
+        "a2ee9b91-af14-4033-9ea4-70ee838e0c0e",
         "f92887c2-9ea3-4ec7-b5ff-e017e453225f"
       ]
     },
@@ -12270,6 +12285,134 @@
         "d2909ce2-fa07-4516-a217-d75e95e77804"
       ],
       "dependScripts": []
+    },
+    "versionCode": 0
+  },
+  "c7376c79-030e-49f2-aa59-f44d9a820e47": {
+    "url": "db://assets/Sound",
+    "value": {},
+    "versionCode": 0
+  },
+  "2953db1a-030b-43ed-b59a-8688f16a23a3": {
+    "url": "db://assets/Sound/BACKGROUND MUSIC.mp4",
+    "value": {},
+    "versionCode": 0
+  },
+  "6f51aa40-ca56-42f4-8400-a0aca7595a98": {
+    "url": "db://assets/Sound/BACKGROUND MUSIC.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "61eaa6f3-3b34-4a93-b22b-1ad0497c0958": {
+    "url": "db://assets/Scripts/AudioSource.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "a2ee9b91-af14-4033-9ea4-70ee838e0c0e": {
+    "url": "db://assets/Scripts/AudioController.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "f4fa8f44-17f8-40a3-a8ac-df6cfdb4e33d": {
+    "url": "db://assets/Sound/Card shuffle sound effect.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "4268f352-3eec-4c98-8f87-f538fd9ad025": {
+    "url": "db://assets/Sound/BETTING_START.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "45670090-e592-4634-95c0-9dc9c9a2cb7f": {
+    "url": "db://assets/Sound/BETTING_STOP.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "121fa77a-8d5b-4bc2-905a-9abaa5ff8ebd": {
+    "url": "db://assets/Sound/TIMER.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "70a61a41-17e2-48b4-b8c8-8c226d3e6c8e": {
+    "url": "db://assets/Sound/TIME_OUT.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "264dd61d-94d4-4235-8217-b6f16943532e": {
+    "url": "db://assets/Sound/Coins falling sound effect.mp4",
+    "value": {},
+    "versionCode": 0
+  },
+  "c02045e5-228a-4a4b-846c-618295fb2787": {
+    "url": "db://assets/Sound/Coin Collect.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "b1121b3f-6622-441d-91d6-abbe96c82149": {
+    "url": "db://assets/Sound/Coins falling sound effect.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "f519d674-937a-4697-b102-425140730d66": {
+    "url": "db://assets/Sound/HIT.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "595a4016-bcbc-4c7d-884c-53439f49f198": {
+    "url": "db://assets/Sound/poker_chips1-87592.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d53a9cf8-7cf6-4d64-860a-b7260d35d287": {
+    "url": "db://assets/Sound/NoticeEnterRoomSound.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "6d5edd13-ea4a-4b38-916d-2fb589593e10": {
+    "url": "db://assets/Sound/Dragon",
+    "value": {},
+    "versionCode": 0
+  },
+  "0e3af3e7-2bd6-48a8-b034-da625f35f613": {
+    "url": "db://assets/Sound/Dragon/Loading Gas.mp3",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "1066f1c5-6c83-4efa-91ea-15c9ea6af8f5": {
+    "url": "db://assets/Sound/Dragon/Explosion Blast.wav",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "24d2dfd1-7229-410f-a960-3a729451109c": {
+    "url": "db://assets/Sound/Dragon/Firey woosh thick.wav",
+    "value": {
+      "depends": []
     },
     "versionCode": 0
   }

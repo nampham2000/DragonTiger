@@ -10437,6 +10437,2344 @@
     },
     "C:\\Users\\Admin\\OneDrive\\Desktop\\GameNew\\assets\\Animation\\Tiger\\TigerAttack\\2 Slash\\T_Slash_31.png.meta": {
       "time": 1713274988979.7437
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation": {
+      "time": 1713148592933.4243,
+      "uuid": "a7560bdd-a06f-4455-8c52-913147cafa2d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image": {
+      "time": 1713145602000,
+      "uuid": "4f5be8be-5012-4c86-a329-cc362475b596"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Prefabs": {
+      "time": 1712911132000,
+      "uuid": "d87594e9-9bfb-49a9-b904-858fce46ac9b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scene": {
+      "time": 1713320673716.7522,
+      "uuid": "a91e5ad8-86df-4c55-98ca-33a8c1fd9147"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts": {
+      "time": 1713328014730.098,
+      "uuid": "8b4dfd5f-28ed-4c84-ba54-0493384aa01a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/BetValueAnim": {
+      "time": 1713148632159.8674,
+      "uuid": "8cf59d52-c908-4d56-a79d-c5953924dcc8"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Card": {
+      "time": 1712736074000,
+      "uuid": "2cba9735-3950-4bfb-80d2-863f87614915"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Cloud": {
+      "time": 1712996980000,
+      "uuid": "ea9d90d9-c912-49d8-b0d3-fa0c2414cc30"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon": {
+      "time": 1712824438000,
+      "uuid": "d476a9e9-4518-4ac0-834f-1feb8dc47e02"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Startbet": {
+      "time": 1713062918000,
+      "uuid": "d389413a-3c31-46f0-a9b2-0d194a4b9cfb"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger": {
+      "time": 1712979966000,
+      "uuid": "6102e090-26eb-43d5-84bb-98fdceb4c191"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts": {
+      "time": 1712652052000,
+      "uuid": "b58a216a-aa93-481b-96bc-476f63fdf90e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sounds": {
+      "time": 1712652052000,
+      "uuid": "663c45a9-ebbb-4d79-8c93-992ba31883ad"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack": {
+      "time": 1712806696000,
+      "uuid": "4ffe0702-2bef-48cc-98f7-98e32ca39eb6"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast": {
+      "time": 1712806266000,
+      "uuid": "6a1532e4-600f-4960-9591-17aea968b88e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Hurt": {
+      "time": 1712824458000,
+      "uuid": "a649ec1a-5a73-46fe-8226-4e6b4505a8dd"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Ide": {
+      "time": 1712761224000,
+      "uuid": "91084b6e-11fc-4612-9e51-4205fb383423"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win": {
+      "time": 1712743852000,
+      "uuid": "d599547b-a832-4211-ba71-b9e777e6efc5"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack": {
+      "time": 1712980438000,
+      "uuid": "f5fc984e-8476-4b7d-af15-35851c5f9797"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt": {
+      "time": 1712809114000,
+      "uuid": "ba8101e3-c2cd-42b7-9140-2ecf744477ea"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde": {
+      "time": 1712979754000,
+      "uuid": "5fe40b5c-8ac9-4e81-8d8d-0a909e01bf3f"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIntro": {
+      "time": 1712746992000,
+      "uuid": "ca5c398f-514d-4aeb-a899-7e8894967296"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerWin": {
+      "time": 1712745672000,
+      "uuid": "cc5ada02-553a-42f9-9e7b-6d4b2bad6167"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion": {
+      "time": 1713265999118.393,
+      "uuid": "b9c20e08-54e7-4fa5-a0ad-878baf062da7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire": {
+      "time": 1712806696000,
+      "uuid": "405c879d-525d-4c42-b830-a6b0be5cc2f5"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro": {
+      "time": 1712804822000,
+      "uuid": "f3eca816-4209-436b-8c43-ec1e57031021"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig": {
+      "time": 1712810692000,
+      "uuid": "4af82a15-b7e5-4d6a-9895-905f1938eb3b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash": {
+      "time": 1712810696000,
+      "uuid": "2c0fd51e-8783-4648-a9b6-1c1e79a51d7d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts/Chip.ts": {
+      "time": 1713340611881.5088,
+      "uuid": "cd8d8b1c-5af2-46c8-ab1a-7bccd45446f0"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts/GameController.ts": {
+      "time": 1713352066642.8774,
+      "uuid": "d8ab5610-dd96-4f78-9795-6218739fe6f3"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts/NetworkConnect.ts": {
+      "time": 1713352045716.5254,
+      "uuid": "f92887c2-9ea3-4ec7-b5ff-e017e453225f"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts/PlayerList.ts": {
+      "time": 1712658000000,
+      "uuid": "055dedd8-8187-48d0-8ea4-eb0eee651d41"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation.meta": {
+      "time": 1712724192000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image.meta": {
+      "time": 1712652026000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Prefabs.meta": {
+      "time": 1712833450000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scene.meta": {
+      "time": 1712652092000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts.meta": {
+      "time": 1712657984000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/BetValueAnim.meta": {
+      "time": 1713148592934.4385
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Card.meta": {
+      "time": 1712735296000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Cloud.meta": {
+      "time": 1712996772000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon.meta": {
+      "time": 1712724410000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Startbet.meta": {
+      "time": 1713062624000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger.meta": {
+      "time": 1712745644000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sounds.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack.meta": {
+      "time": 1712747924000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Hurt.meta": {
+      "time": 1712824438000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Ide.meta": {
+      "time": 1712747508000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win.meta": {
+      "time": 1712743044000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack.meta": {
+      "time": 1712810688000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde.meta": {
+      "time": 1712805236000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIntro.meta": {
+      "time": 1712746966000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerWin.meta": {
+      "time": 1712745650000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire.meta": {
+      "time": 1712806696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro.meta": {
+      "time": 1712743852000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts/Chip.ts.meta": {
+      "time": 1712716774000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts/GameController.ts.meta": {
+      "time": 1712718954000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts/NetworkConnect.ts.meta": {
+      "time": 1713155833129.2095
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts/PlayerList.ts.meta": {
+      "time": 1712658000000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/dragonhurt.plist": {
+      "time": 1712724198000,
+      "uuid": "8ae349ac-49da-490c-b6b7-089065e6e3e0"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/dragonhurt.png": {
+      "time": 1712724198000,
+      "uuid": "028a8662-8a97-44a4-8ad3-4eeefade961d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/9d2df9416c6d6c3f61c461e1423462cf.jpg": {
+      "time": 1713070438000,
+      "uuid": "932f8138-d8f4-4cf6-b48f-d455d62c10a3"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR1.png": {
+      "time": 1712652052000,
+      "uuid": "0b33623d-1fb8-4e7e-a0c7-60f9d0cc37d0"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR10.png": {
+      "time": 1712652052000,
+      "uuid": "5311541c-d7bb-4f66-8d22-1f8adacd5142"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR11.png": {
+      "time": 1712652052000,
+      "uuid": "5dbdda6d-a9cf-4f69-8c58-493c7e130278"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR12.png": {
+      "time": 1712652052000,
+      "uuid": "9214c157-4d4b-47fd-8d49-61c6c81b80de"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR13.png": {
+      "time": 1712652052000,
+      "uuid": "19392e71-8cfb-4671-ab0a-0905a3f27156"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR14.png": {
+      "time": 1712652052000,
+      "uuid": "3ac94e60-eae0-4205-b8db-c38bd9f5c366"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR15.png": {
+      "time": 1712652052000,
+      "uuid": "8b56e0bc-d6b0-4a14-bfb8-a7dcb804d832"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR16.png": {
+      "time": 1712652052000,
+      "uuid": "3474fc68-b7e9-44b9-8d19-ea0fca2ab288"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR2.png": {
+      "time": 1712652052000,
+      "uuid": "a625a484-dc01-47c8-be9d-809be35f90f6"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR3.png": {
+      "time": 1712652052000,
+      "uuid": "559e0a25-07a3-48e8-ae12-3b25df8669cd"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR4.png": {
+      "time": 1712652052000,
+      "uuid": "3cdd1362-d146-4814-8329-7cfc8a267a70"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR5.png": {
+      "time": 1712652052000,
+      "uuid": "19ed3725-a0a1-449f-b6e0-3a6c0605f4aa"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR6.png": {
+      "time": 1712652052000,
+      "uuid": "4b2bcd7b-8731-4573-a389-1d1b9e11802c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR7.png": {
+      "time": 1712652052000,
+      "uuid": "ef5726ee-c302-4a43-96ae-adf0f7465f73"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR8.png": {
+      "time": 1712652052000,
+      "uuid": "95e5197b-3b0b-4f53-bd8f-2a783df80a85"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR9.png": {
+      "time": 1712652052000,
+      "uuid": "5b43b32e-e20e-4c41-ab4f-13a9a85077dd"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/Download White Circle PNG.jpeg": {
+      "time": 1713070640000,
+      "uuid": "14ae7709-228a-4152-abcb-0b96c291c5cf"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/Untitled-1.png": {
+      "time": 1712911124000,
+      "uuid": "c155e90b-fe3e-4ac2-b4c1-cbb7d353d9a9"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/avatar.png": {
+      "time": 1712652052000,
+      "uuid": "32d7e92c-01c2-4161-98da-773bceb11e71"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/avatarSquare.png": {
+      "time": 1713145588000,
+      "uuid": "414af1f6-327c-4489-93f2-3d2e3755bcb2"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/backCard.png": {
+      "time": 1712652052000,
+      "uuid": "0eaef207-8d05-4a9c-89d1-1d4bf438759b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/background.png": {
+      "time": 1712652052000,
+      "uuid": "939b5a72-a6a2-490e-b5ea-ec6c1151107e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/background01.png": {
+      "time": 1712652052000,
+      "uuid": "73a0d81e-9967-4182-9a42-d0c57a206a04"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/bg.png": {
+      "time": 1712652052000,
+      "uuid": "25b15f48-d131-4732-ade8-129f77ce661b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip1.png": {
+      "time": 1712652052000,
+      "uuid": "9f0fdf45-c5d9-4acd-b7d1-55d5fd730d1d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip2.png": {
+      "time": 1712652052000,
+      "uuid": "0e0ff984-42c0-401d-914d-830de6cafab9"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip3.png": {
+      "time": 1712652052000,
+      "uuid": "dc791b46-60c7-465c-8cb0-7bfaa9777214"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip4.png": {
+      "time": 1712652052000,
+      "uuid": "36e5a9d8-7338-48e6-9177-80140e0fb1f0"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip5.png": {
+      "time": 1712652052000,
+      "uuid": "b9280eab-08a3-4846-af27-75de5ca0a202"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip6.png": {
+      "time": 1712652052000,
+      "uuid": "aea43730-d20d-4c9f-8565-281c859e9632"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/closeBtn.png": {
+      "time": 1713089824000,
+      "uuid": "e26275f6-bcbd-4837-a74d-ffbe50ae3bf3"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/cloud-left.png": {
+      "time": 1712652052000,
+      "uuid": "3906732c-4a7a-4e4e-a4b2-ccfd831f2d1b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/cloud-right.png": {
+      "time": 1712652052000,
+      "uuid": "0b437c17-0a16-4050-bb71-59a3141c3939"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/coinIcon.png": {
+      "time": 1712652052000,
+      "uuid": "e368cfb5-14b1-4c4d-8e4e-af5cfc57ff38"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/dragonCard.png": {
+      "time": 1712652052000,
+      "uuid": "0bd369b8-bf86-482b-a7a2-a311b8fcfd52"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/dragonIcon.png": {
+      "time": 1712652052000,
+      "uuid": "fc138120-fb42-46df-aa1b-d0e6d615f949"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/dragonSplash.png": {
+      "time": 1712652052000,
+      "uuid": "923bf97a-bfea-41ec-badd-88f0970f84ac"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/frameAvatar.png": {
+      "time": 1713092396000,
+      "uuid": "aea390dd-8851-451c-b375-3a7a7fd67901"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/goldenChip.png": {
+      "time": 1712652052000,
+      "uuid": "9ba735ea-e519-4aeb-9673-97c2c7065382"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/icon-player.png": {
+      "time": 1712652052000,
+      "uuid": "9c5c75ec-394d-4a0c-9158-320c60fec83e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/logo.png": {
+      "time": 1712652052000,
+      "uuid": "3b7df2f4-d238-4397-9499-cceb3590682e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/logoSplash.png": {
+      "time": 1712652052000,
+      "uuid": "6bcef563-13ce-4791-b73a-0615916d64d4"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/processBar.png": {
+      "time": 1712652052000,
+      "uuid": "e142006a-2249-4a2a-9457-e5e6c28d5362"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/processFrame.png": {
+      "time": 1712652052000,
+      "uuid": "366498d4-b61c-4b1a-b6a7-a986f5d98ec9"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s10.png": {
+      "time": 1712739684000,
+      "uuid": "8566a1cd-8ae5-4cd5-96bc-4bafb7e5d9a5"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s2.png": {
+      "time": 1712739684000,
+      "uuid": "d845f913-9da8-454f-ac38-d37c94deafe0"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s3.png": {
+      "time": 1712739684000,
+      "uuid": "dc9f5c4b-2b2a-40ed-ba63-e485166c3836"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s4.png": {
+      "time": 1712739684000,
+      "uuid": "21ce8fad-2a24-42c0-b3d3-954f102ba87c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s5.png": {
+      "time": 1712739684000,
+      "uuid": "2d92bc09-bfa7-428b-b559-3e0583a071c5"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s6.png": {
+      "time": 1712739684000,
+      "uuid": "c992234b-2d63-4277-9949-d9c3c3431ccf"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s7.png": {
+      "time": 1712739684000,
+      "uuid": "9fff05f9-d970-4905-94f3-0fce4d0391de"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s8.png": {
+      "time": 1712739684000,
+      "uuid": "f6e3d277-7d44-4fc4-9e02-d1054adf9281"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s9.png": {
+      "time": 1712739684000,
+      "uuid": "204e26e2-4031-4a26-98f9-b145f43743c3"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sA.png": {
+      "time": 1712739684000,
+      "uuid": "288f9c2f-9a99-4007-9488-e817edba2bf2"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sJ.png": {
+      "time": 1712739684000,
+      "uuid": "dcdbabde-c1f3-4e6d-a11a-3c5df3136456"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sK.png": {
+      "time": 1712739684000,
+      "uuid": "336b50b5-89c0-4de9-985e-ecaff5ddab85"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sQ.png": {
+      "time": 1712739684000,
+      "uuid": "5a987fdb-4920-4c13-b572-434e2e3a48c4"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/scroll.png": {
+      "time": 1712652052000,
+      "uuid": "1d8debdc-d5e3-4706-88b4-7c53e57ce8d1"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/startBet.png": {
+      "time": 1712652052000,
+      "uuid": "ba726bf0-65c1-4d38-b77c-056abf3b3f41"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/stopBet.png": {
+      "time": 1712652052000,
+      "uuid": "0c724ca2-9a08-46c2-95e0-06a104a3024a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/table 43.png": {
+      "time": 1712833432000,
+      "uuid": "937064b3-f29d-4b83-98ea-5eab12c9f8ab"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/table 52.png": {
+      "time": 1712911124000,
+      "uuid": "837dec81-cc21-4b11-84d9-572ff118c94a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/table 54.png": {
+      "time": 1712911064000,
+      "uuid": "97f4effc-5616-461c-8d8f-7644db9fdd3a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/table 56.png": {
+      "time": 1712833432000,
+      "uuid": "63746e3b-ab31-4f40-bc01-e446ad1c27a3"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/tieCard.png": {
+      "time": 1712652052000,
+      "uuid": "c63e3f8a-6580-4ccf-b5d6-17a0b5af9fd4"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/tieIcon.png": {
+      "time": 1712652052000,
+      "uuid": "d4ec2b5d-d7db-47ca-94f2-bcd7a357932d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/tigerCard.png": {
+      "time": 1712652052000,
+      "uuid": "3c478ba8-8bfa-4768-ac2f-111d37b270d5"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/tigerIcon.png": {
+      "time": 1712652052000,
+      "uuid": "536f0e46-0479-47c9-bbf3-825ab28e1c5d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/tigerSplash.png": {
+      "time": 1712652052000,
+      "uuid": "2c01b504-028e-4c61-a5ae-4a45cd6ad741"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/white-circle-png-new-moon-phase-drawi-11563654400bdrw3yigxk.png": {
+      "time": 1713070816000,
+      "uuid": "31dd78f5-7da5-4deb-9d4f-47e96c06583b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Prefabs/DragonWin.prefab": {
+      "time": 1712912108000,
+      "uuid": "c3aecb3e-9266-476a-adec-4a8895899baa"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Prefabs/Tie.prefab": {
+      "time": 1712912114000,
+      "uuid": "bcabb7b4-2089-43ca-b4d6-c85eaeb24642"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Prefabs/TigerWin.prefab": {
+      "time": 1712912120000,
+      "uuid": "0584e434-4342-43a9-a905-c17bc6f3a5ab"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scene/Game.scene": {
+      "time": 1713352220264.4004,
+      "uuid": "6223537d-4143-493b-8d2a-2511d740155b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scene/scene-2d.scene": {
+      "time": 1713167764144.3228,
+      "uuid": "d2909ce2-fa07-4516-a217-d75e95e77804"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/BetValueAnim/AnimPay.anim": {
+      "time": 1713148632158.8816,
+      "uuid": "9f6f30d5-b965-4a53-ae28-9f2d7e5895b2"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Card/An.plist": {
+      "time": 1712735302000,
+      "uuid": "e6ffc856-b01e-4527-a905-8f8469afdcad"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Card/An.png": {
+      "time": 1712735302000,
+      "uuid": "24943795-c686-488b-b930-0ba009f590ec"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Card/Cardshuff.anim": {
+      "time": 1712736110000,
+      "uuid": "7f6e2aab-f34f-458f-92c8-2c8e195cff8c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Cloud/CloudLeft.anim": {
+      "time": 1712997040000,
+      "uuid": "d576269a-ae58-4269-9b1f-4ef354c1d523"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Cloud/CloudRight.anim": {
+      "time": 1712997292000,
+      "uuid": "59587392-9272-489c-abde-58eba0d7baac"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonHurt.anim": {
+      "time": 1712825004000,
+      "uuid": "3ce2335f-7caa-4aee-abd7-2d8927c7aac8"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Startbet/EndBet.anim": {
+      "time": 1713063576000,
+      "uuid": "c047dd7a-9c2d-485a-ac6f-6d58bf4ca40f"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Startbet/Startbet.anim": {
+      "time": 1713064326000,
+      "uuid": "b1d0043a-c193-4049-a08d-4770ffa96de4"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/tigerIde2.plist": {
+      "time": 1712979966000,
+      "uuid": "f2325255-9bce-46a6-85eb-20058aa8ea57"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/tigerIde2.png": {
+      "time": 1712979966000,
+      "uuid": "c9d2f33a-8afd-4833-9e3d-b719f1bfe087"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Neusharp-Bold.ttf": {
+      "time": 1712652052000,
+      "uuid": "6ff8c28f-c427-4416-a156-ca29e93d92fe"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Black.ttf": {
+      "time": 1712652052000,
+      "uuid": "9a9d898f-96a6-4834-acf7-0b33bf9ac700"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-BlackItalic.ttf": {
+      "time": 1712652052000,
+      "uuid": "838fb5ae-37b6-4c2a-9198-8a588d5719ac"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Bold.ttf": {
+      "time": 1712652052000,
+      "uuid": "44549c6a-07ed-4a60-8a4a-54a9c605c249"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-BoldItalic.ttf": {
+      "time": 1712652052000,
+      "uuid": "65954992-e410-42b6-90c7-b668b5e5d243"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Italic.ttf": {
+      "time": 1712652052000,
+      "uuid": "a28502db-6da0-4e88-921d-2d2764f23a24"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Light.ttf": {
+      "time": 1712652052000,
+      "uuid": "3c2a9b9d-8f91-4a82-bd37-42beb24a88e8"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-LightItalic.ttf": {
+      "time": 1712652052000,
+      "uuid": "281f97ab-641a-4016-88d8-3143a16c897a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Medium.ttf": {
+      "time": 1712652052000,
+      "uuid": "820e3749-03ec-4d3f-bb2e-95601dd7f7c9"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-MediumItalic.ttf": {
+      "time": 1712652052000,
+      "uuid": "c094efd6-7d2f-4e8d-ae3c-2b954e791554"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Regular.ttf": {
+      "time": 1712652052000,
+      "uuid": "f7ee8b9f-0598-4cb2-b482-9b39d486bd92"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Thin.ttf": {
+      "time": 1712652052000,
+      "uuid": "835c6fd1-2e0d-4f44-a521-86c5cfddbea9"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-ThinItalic.ttf": {
+      "time": 1712652052000,
+      "uuid": "279a6ba2-9aee-40e6-83bf-f9d67a9034f0"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sounds/intro.mp3": {
+      "time": 1712652052000,
+      "uuid": "818b24ab-7327-4d3d-948b-e301e3c5ce03"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/DragonAttack.anim": {
+      "time": 1712981700000,
+      "uuid": "52ba68e9-d3aa-48ea-af4f-92ee4716cb3d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/dragpnAttack.plist": {
+      "time": 1712747932000,
+      "uuid": "7a8e78cf-fbd1-46c3-962b-975713e1f1ed"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/dragpnAttack.png": {
+      "time": 1712747932000,
+      "uuid": "60eb3b67-83c5-4342-96d6-bd32e1a29c23"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_00.png": {
+      "time": 1712806266000,
+      "uuid": "e463b4e0-5952-46c8-98a9-c99172d63a54"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_01.png": {
+      "time": 1712806266000,
+      "uuid": "d6f7e4c4-7407-444f-a255-5a9de85add12"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_02.png": {
+      "time": 1712806266000,
+      "uuid": "356142e2-0b32-4a46-8b6e-731e136bce31"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_03.png": {
+      "time": 1712806266000,
+      "uuid": "80c5b83b-8d37-4ddc-aa6b-5f0f3c3599c7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_04.png": {
+      "time": 1712806266000,
+      "uuid": "e96f0672-a66f-497a-b2b3-dcb187bba904"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_05.png": {
+      "time": 1712806266000,
+      "uuid": "a46ef5a3-756b-4a60-96c1-f78d921ce9da"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_06.png": {
+      "time": 1712806266000,
+      "uuid": "9fb52314-085f-49a5-b196-bb707e2d2f51"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_07.png": {
+      "time": 1712806266000,
+      "uuid": "b522dfea-ba21-4094-92a0-fb1b22fb9a79"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_08.png": {
+      "time": 1712806266000,
+      "uuid": "d9ec147d-1ed6-4f2f-93a9-3e14e908a40e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_09.png": {
+      "time": 1712806266000,
+      "uuid": "d642c206-da2a-4375-96de-2f69d17fb250"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_10.png": {
+      "time": 1712806266000,
+      "uuid": "28bd1691-4b3a-4a82-9974-ada49ebdd595"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_11.png": {
+      "time": 1712806266000,
+      "uuid": "17f556d4-6b02-455b-b442-9de17908fac7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_12.png": {
+      "time": 1712806266000,
+      "uuid": "4f8b1c80-013e-4893-ab28-2018dad5c42a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_13.png": {
+      "time": 1712806266000,
+      "uuid": "7459fc71-8a03-4bdb-bcdd-98576e97cee0"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_14.png": {
+      "time": 1712806266000,
+      "uuid": "f7a928a3-ddbe-4be7-be07-e6970c6a567e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_15.png": {
+      "time": 1712806266000,
+      "uuid": "ca5583e1-3741-4c41-bb88-20c03ebe3359"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_16.png": {
+      "time": 1712806266000,
+      "uuid": "93ee5e5a-5e3a-4312-bdb1-0e7652a0ebf8"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_17.png": {
+      "time": 1712806266000,
+      "uuid": "84cd54be-d662-46ed-b2b9-6b536232e1e5"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_18.png": {
+      "time": 1712806266000,
+      "uuid": "8a50c35e-7029-4491-b013-8f52d0612d3d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_19.png": {
+      "time": 1712806266000,
+      "uuid": "b8c2388e-f2d1-43b7-9b3c-1f51c7ea4848"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_20.png": {
+      "time": 1712806266000,
+      "uuid": "1c079bf1-c612-4626-b2dd-fe3cd745436c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_21.png": {
+      "time": 1712806266000,
+      "uuid": "a22d3f19-2bc3-452d-b704-8c8631efc70c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_22.png": {
+      "time": 1712806266000,
+      "uuid": "b842e97a-27b4-4d90-9f8e-d2c6223d1f24"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_23.png": {
+      "time": 1712806266000,
+      "uuid": "c6a10c9b-2a7c-47e8-90b9-62f2d9af2ece"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_24.png": {
+      "time": 1712806266000,
+      "uuid": "f4884592-3df4-4e26-b823-b699227c7b49"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_25.png": {
+      "time": 1712806266000,
+      "uuid": "403f8df7-d99c-49bd-b068-f2d627b609ba"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_26.png": {
+      "time": 1712806266000,
+      "uuid": "724f59e9-ef88-42c2-ba10-536c2307c149"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_27.png": {
+      "time": 1712806266000,
+      "uuid": "20576290-67c5-45d8-9d2f-39634efd10e4"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_28.png": {
+      "time": 1712806266000,
+      "uuid": "47af3c31-e74b-41f3-94d6-cdd14e3a8d70"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_29.png": {
+      "time": 1712806266000,
+      "uuid": "b8c21ee1-c5a5-4f50-ab32-f2a7eb5c51c0"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_30.png": {
+      "time": 1712806266000,
+      "uuid": "df78659e-829a-4171-8ce3-5b5748b5d25f"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_31.png": {
+      "time": 1712806266000,
+      "uuid": "d2fe7391-bc5d-41f5-a206-16a812e50e2e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_32.png": {
+      "time": 1712806266000,
+      "uuid": "c10bf7bf-3dc8-4665-a605-4e79e6d7f91f"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_33.png": {
+      "time": 1712806266000,
+      "uuid": "9b698616-1869-46bb-bcca-4c69f8b0df73"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_34.png": {
+      "time": 1712806266000,
+      "uuid": "6daf11bf-1287-44ba-90e7-84566a4c1078"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_35.png": {
+      "time": 1712806266000,
+      "uuid": "86c57a30-d27a-4fec-bb59-ffecd47efb72"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_36.png": {
+      "time": 1712806266000,
+      "uuid": "5aae725f-5ed3-4908-809a-6ea81ab8484f"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_37.png": {
+      "time": 1712806266000,
+      "uuid": "535031af-6c26-40d3-ba44-b54cf9eb1270"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Hurt/DragonHurt.anim": {
+      "time": 1712824910000,
+      "uuid": "43ace0c1-0e51-45bb-9e62-92cf4d894eb4"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Hurt/DragonHurt.plist": {
+      "time": 1712824442000,
+      "uuid": "b60f60e3-616f-48ce-97bf-3bd1d817b7db"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Hurt/DragonHurt.png": {
+      "time": 1712824442000,
+      "uuid": "347712a3-f874-46bb-8116-8ae4141123e9"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Ide/DragonIde.anim": {
+      "time": 1712981576000,
+      "uuid": "6b736ba2-16df-4d4f-bb98-e4b9d8e668f0"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Ide/DragonIde.plist": {
+      "time": 1712747512000,
+      "uuid": "92ef52ec-668f-43f8-a6f6-3d7a43ee5e41"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Ide/DragonIde.png": {
+      "time": 1712747512000,
+      "uuid": "646277fc-f1d5-4b9b-a955-27937e012736"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonWinIcon.anim": {
+      "time": 1712806490000,
+      "uuid": "27fbf84c-3892-467b-bb14-5d3f598aaa56"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/dragonWin.plist": {
+      "time": 1712743048000,
+      "uuid": "44e74ace-4813-4ad2-8c72-fbb1e925ce3f"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/dragonWin.png": {
+      "time": 1712743048000,
+      "uuid": "e06f6c3f-6598-4158-9fbd-6021cd98f76c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/TigerAttack.anim": {
+      "time": 1712980836000,
+      "uuid": "cfd41de8-9d5b-47ba-923e-7bad737f44ba"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/tigerAttack2.plist": {
+      "time": 1712980438000,
+      "uuid": "c3691ebe-19dc-4b8b-a30f-8868c42ee3b8"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/tigerAttack2.png": {
+      "time": 1712980438000,
+      "uuid": "0bf88688-a6ef-4fe7-80a2-8113bb92e621"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH00.png": {
+      "time": 1712809088000,
+      "uuid": "f87243d4-3fa8-493f-b29a-d03fa02052e9"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH01.png": {
+      "time": 1712809088000,
+      "uuid": "af860b3f-6b44-4920-be88-4e2938519030"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH02.png": {
+      "time": 1712809088000,
+      "uuid": "2e250491-b2ec-436a-8955-d5ca995c1ec2"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH03.png": {
+      "time": 1712809088000,
+      "uuid": "ea9701c5-27af-4076-97c0-893f53673f18"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH04.png": {
+      "time": 1712809088000,
+      "uuid": "e10a12cc-c8bf-4179-be35-d4457d5cbad8"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH05.png": {
+      "time": 1712809088000,
+      "uuid": "141a1498-6462-4775-949b-eccfdc59306c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH06.png": {
+      "time": 1712809088000,
+      "uuid": "3fa62ed5-476a-4668-bad5-7cdf7bd7c598"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH07.png": {
+      "time": 1712809088000,
+      "uuid": "762016b7-c340-4895-9cf7-80c6d74fc2cd"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH08.png": {
+      "time": 1712809088000,
+      "uuid": "d2c981e1-f66c-493a-815a-549e6675b98f"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH09.png": {
+      "time": 1712809088000,
+      "uuid": "15e9469f-52b2-4218-9ebf-a0e6e6ed6b8e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH10.png": {
+      "time": 1712809088000,
+      "uuid": "a7614efe-df43-44ba-a48c-00f42238d642"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH11.png": {
+      "time": 1712809088000,
+      "uuid": "02520890-3aa8-40d8-8e39-01cab5fd8f1e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH12.png": {
+      "time": 1712809088000,
+      "uuid": "50823050-526a-4bdd-adab-aa66a6a873c7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH13.png": {
+      "time": 1712809088000,
+      "uuid": "9e66f272-6503-4a3d-a714-75b032e47467"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH14.png": {
+      "time": 1712809088000,
+      "uuid": "11181707-0ed2-4818-a131-189a15b3e7a7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH15.png": {
+      "time": 1712809088000,
+      "uuid": "ac44eac4-ef0a-46fa-8987-499775c4cd12"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH16.png": {
+      "time": 1712809088000,
+      "uuid": "0e4d8f80-0886-4f68-82c0-463623eb5f02"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH17.png": {
+      "time": 1712809088000,
+      "uuid": "db76030b-b536-4d17-87d3-4bc3719b7b52"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH18.png": {
+      "time": 1712809088000,
+      "uuid": "17d86e6f-de60-4167-ad09-19ed1742d7ae"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH19.png": {
+      "time": 1712809088000,
+      "uuid": "feda6dac-cec7-4bc7-9a51-77f197e27167"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH20.png": {
+      "time": 1712809088000,
+      "uuid": "11e5eed9-6bbb-4520-9068-55464343bb64"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TigerHurt.anim": {
+      "time": 1712980046000,
+      "uuid": "2c173957-a498-4d7e-a6f4-f758e5409328"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde/TigerIde.anim": {
+      "time": 1712980104000,
+      "uuid": "527c13a6-c1b4-4b77-8816-5ca98d2a9c14"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde/TigerIde.plist": {
+      "time": 1712919170000,
+      "uuid": "a96cd1a9-f5e8-45fb-a072-3c0c6cd4b4f3"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde/TigerIde.png": {
+      "time": 1712919170000,
+      "uuid": "bbade88b-d78c-49b2-838c-2502b506a7c2"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde/TigerIdeFix.plist": {
+      "time": 1712919500000,
+      "uuid": "5c42830e-d775-4941-9c03-8f114c9b18b7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde/TigerIdeFix.png": {
+      "time": 1712919500000,
+      "uuid": "3a2200fb-87fa-42c6-989e-b70ee5119d7e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIntro/TigerIntro.anim": {
+      "time": 1712747274000,
+      "uuid": "a77790d7-ddec-4662-8a9e-19cb4393c87d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIntro/TigerIntro.plist": {
+      "time": 1712746972000,
+      "uuid": "7f5d6fd6-dd13-4802-a1cb-f1db402040dd"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIntro/TigerIntro.png": {
+      "time": 1712746972000,
+      "uuid": "6331d71f-dc8b-44db-8988-45fe5ad9c751"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerWin/TigerWin.anim": {
+      "time": 1712762694000,
+      "uuid": "efb7438a-47b4-4a3d-97ef-32df55276567"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerWin/tigerWin.plist": {
+      "time": 1712745656000,
+      "uuid": "ecff177e-a994-474e-800a-a9824de5eca9"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerWin/tigerWin.png": {
+      "time": 1712745656000,
+      "uuid": "a0eb16f9-cc73-467e-b175-afe46c6ceb08"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Boom.anim": {
+      "time": 1713240968548.1501,
+      "uuid": "8e89cc53-c742-40ea-9e75-964a76229d4f"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo00.png": {
+      "time": 1712806634000,
+      "uuid": "21b3513f-018a-481b-8469-8585d33dd847"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo01.png": {
+      "time": 1712806634000,
+      "uuid": "3526e4f3-74e3-4dd1-aac2-070dfd586de3"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo02.png": {
+      "time": 1712806634000,
+      "uuid": "ba591cce-3921-465c-af13-d427073a6063"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo03.png": {
+      "time": 1712806634000,
+      "uuid": "76b75d77-bb7d-437c-aaaa-954bac9a92f5"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo04.png": {
+      "time": 1712806634000,
+      "uuid": "67eba554-c03c-42f1-befb-f4419b3358ac"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo05.png": {
+      "time": 1712806634000,
+      "uuid": "3938b4e1-ce92-42e5-b749-359ac148b07b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo06.png": {
+      "time": 1712806634000,
+      "uuid": "fae2fbfe-7a4c-460c-8cd3-34afe8759a35"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo07.png": {
+      "time": 1712806634000,
+      "uuid": "c7e9b976-20fc-4010-a872-3c5ea14ee54b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo08.png": {
+      "time": 1712806634000,
+      "uuid": "13e654d6-b098-48f4-adb2-bc766823062a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo09.png": {
+      "time": 1712806634000,
+      "uuid": "edbbbd20-72dc-4f72-8916-8a87cc8f49d5"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo10.png": {
+      "time": 1712806634000,
+      "uuid": "2a54cac5-3d9d-454b-80cc-2b6ebaf98bc2"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo11.png": {
+      "time": 1712806634000,
+      "uuid": "ecb37115-802c-4dd6-83ef-3250e61f6494"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo12.png": {
+      "time": 1712806634000,
+      "uuid": "5313acd9-ced6-4974-bb90-ff7df9571c07"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo13.png": {
+      "time": 1712806634000,
+      "uuid": "8749f49b-a72a-431e-9838-22d4a2654b9d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo14.png": {
+      "time": 1712806634000,
+      "uuid": "d51398c3-4276-46ea-a91a-8dbefee893cb"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo15.png": {
+      "time": 1712806634000,
+      "uuid": "b5d08e17-71ee-4226-a9fd-b96a7441840d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire00.png": {
+      "time": 1712806696000,
+      "uuid": "47733551-8e0e-4837-a9cd-33c620bdd0ef"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire01.png": {
+      "time": 1712806696000,
+      "uuid": "e23a99e5-382b-4444-8726-0eebfe5c69ea"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire02.png": {
+      "time": 1712806696000,
+      "uuid": "0890317d-4bec-4ffc-a11d-570a92e1e95d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire03.png": {
+      "time": 1712806696000,
+      "uuid": "d8b83fec-6f52-4b2e-8149-7a84d6e3de92"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire04.png": {
+      "time": 1712806696000,
+      "uuid": "9948d854-9df8-4a2c-8b08-31e39accd725"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire05.png": {
+      "time": 1712806696000,
+      "uuid": "c1819128-0a3d-4d0f-9fb6-c151fbead7dd"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire06.png": {
+      "time": 1712806696000,
+      "uuid": "f983194e-b38b-497c-ae6a-82ab93d206b7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire07.png": {
+      "time": 1712806696000,
+      "uuid": "318801e0-cd8f-4689-b47f-d9f625220e4d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire08.png": {
+      "time": 1712806696000,
+      "uuid": "c1963664-9c94-4336-89d2-965deeaf1e9b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire09.png": {
+      "time": 1712806696000,
+      "uuid": "ed63c255-52ca-4319-bf24-aa01667a7f57"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire10.png": {
+      "time": 1712806696000,
+      "uuid": "4cdaed72-94a1-4284-8af8-736a819550d4"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire11.png": {
+      "time": 1712806696000,
+      "uuid": "653dca1c-0ad5-4579-90fa-3f687a4adf5a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire12.png": {
+      "time": 1712806696000,
+      "uuid": "34dc7f2d-2fe8-4f1a-911f-cb0226860089"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire13.png": {
+      "time": 1712806696000,
+      "uuid": "038573a6-1c4e-4614-a561-95ae3d80cc8c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire14.png": {
+      "time": 1712806696000,
+      "uuid": "aa56d903-8e78-4a8f-8182-6f8ccdbc7edc"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire15.png": {
+      "time": 1712806696000,
+      "uuid": "174c4e30-9842-4ade-a2ac-1ec84df72f41"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire16.png": {
+      "time": 1712806696000,
+      "uuid": "fb37dc22-3d72-433e-96c8-37785f5baa2d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire17.png": {
+      "time": 1712806696000,
+      "uuid": "557bb94c-f5b5-4a66-9a48-dd9fd25883d3"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire18.png": {
+      "time": 1712806696000,
+      "uuid": "5854e71c-c459-41c6-a871-17f3fa985c48"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire19.png": {
+      "time": 1712806696000,
+      "uuid": "eb287334-9259-4319-bd5a-d1114de6abb7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro/DragonIntro.anim": {
+      "time": 1713083210000,
+      "uuid": "a209d163-5ecd-4676-8d5a-37657c8b1e10"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro/DragonIntro.plist": {
+      "time": 1712804822000,
+      "uuid": "6eae7d0e-3ca4-4a3c-9c05-278f71cf9114"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro/DragonIntro.png": {
+      "time": 1712804822000,
+      "uuid": "419d3e44-a190-4778-8018-d15587ac91a0"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro/dragonWin-0.plist": {
+      "time": 1712743880000,
+      "uuid": "9fc1fb23-6012-4db5-aa23-a7a5b8fffa07"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro/dragonWin-0.png": {
+      "time": 1712744394000,
+      "uuid": "753f13f7-4c36-44ab-96e0-90d136237210"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_00.png": {
+      "time": 1712810692000,
+      "uuid": "e12687e2-d93b-401c-a677-44ee19143e16"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_01.png": {
+      "time": 1712810692000,
+      "uuid": "6a551830-08db-4e0a-ba2e-2174b4bb69cb"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_02.png": {
+      "time": 1712810692000,
+      "uuid": "222c54b8-f660-4950-8095-a63433d146f7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_03.png": {
+      "time": 1712810692000,
+      "uuid": "e3e0d0d4-3e30-4ea2-b970-c6ba0d4d0d12"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_04.png": {
+      "time": 1712810692000,
+      "uuid": "dd0429d1-542b-41ac-8970-13c4cc18368c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_05.png": {
+      "time": 1712810692000,
+      "uuid": "536e2d0a-04c5-46cf-9020-3ccb1327ce4c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_06.png": {
+      "time": 1712810692000,
+      "uuid": "b3717ddb-4446-4313-86b7-bfe4302bd048"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_07.png": {
+      "time": 1712810692000,
+      "uuid": "1eabde20-4a2b-4f6e-a6fa-ee87e0fd99df"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_08.png": {
+      "time": 1712810692000,
+      "uuid": "3967fac2-16ab-42af-a314-549c65950c4e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_09.png": {
+      "time": 1712810692000,
+      "uuid": "7a6c187a-412e-4188-bc20-71b8dd6d1225"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_10.png": {
+      "time": 1712810692000,
+      "uuid": "73ad5306-5341-46da-bbe9-dd507945a379"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_11.png": {
+      "time": 1712810692000,
+      "uuid": "365740d5-5c54-4c7b-b5ab-0d7d0d9d8f8c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_12.png": {
+      "time": 1712810692000,
+      "uuid": "653dfcd2-1553-451c-9cce-b2f4ae03f788"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_13.png": {
+      "time": 1712810692000,
+      "uuid": "16cc0bbb-e231-4758-a626-a72a1eed2ee7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_14.png": {
+      "time": 1712810692000,
+      "uuid": "896d7719-d645-4fb7-9184-4391704a3935"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_15.png": {
+      "time": 1712810692000,
+      "uuid": "80e3b72e-3414-490c-91e4-e1b08fc3fa6a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_16.png": {
+      "time": 1712810692000,
+      "uuid": "8b45501a-2c5a-48c7-8d07-ebc10e4b98be"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_17.png": {
+      "time": 1712810692000,
+      "uuid": "fb2a3516-a62f-4b37-a008-17c840c72c13"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_18.png": {
+      "time": 1712810692000,
+      "uuid": "0930a4a6-dc9c-42de-9ba2-67579dc8465b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_19.png": {
+      "time": 1712810692000,
+      "uuid": "7d9478ea-b3bd-458c-8513-7aac29ef5cd4"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_20.png": {
+      "time": 1712810692000,
+      "uuid": "9f4f0758-5313-4490-995f-8b7bd1414193"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_00.png": {
+      "time": 1712810696000,
+      "uuid": "417aedab-bef8-4eff-aad7-1c7d6c7ec2b9"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_01.png": {
+      "time": 1712810696000,
+      "uuid": "3728a03d-bf9b-4f3f-898c-c5398ec02f7c"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_02.png": {
+      "time": 1712810696000,
+      "uuid": "6d69cae7-ad9f-42f9-aab1-8c4bbe2d475e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_03.png": {
+      "time": 1712810696000,
+      "uuid": "9c3f4e59-834f-42a5-a33c-930b80fada05"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_04.png": {
+      "time": 1712810696000,
+      "uuid": "d427ba88-8b3b-454f-9ec1-a2ebc21ad151"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_05.png": {
+      "time": 1712810696000,
+      "uuid": "c9830578-4117-490c-ab20-2f6a5ec92742"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_06.png": {
+      "time": 1712810696000,
+      "uuid": "a3960f22-a7b8-44ee-bc1f-f29da56411a8"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_07.png": {
+      "time": 1712810696000,
+      "uuid": "10ef8408-5ffc-4b23-9160-2e15eeda1214"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_08.png": {
+      "time": 1712810696000,
+      "uuid": "8c5ea15a-d00a-4009-ac46-251b9f7d56ba"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_09.png": {
+      "time": 1712810696000,
+      "uuid": "e6832c4e-4851-4da9-bf03-448a126cede9"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_10.png": {
+      "time": 1712810696000,
+      "uuid": "55acca9f-b11c-43e4-af7e-5343ba2eb448"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_11.png": {
+      "time": 1712810696000,
+      "uuid": "673ac4f6-1d59-44e9-9f37-9dbfc0dddd0e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_12.png": {
+      "time": 1712810696000,
+      "uuid": "baa0c76d-5fb2-4846-89d4-ecb7ebb5deba"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_13.png": {
+      "time": 1712810696000,
+      "uuid": "beac8f13-de4c-4af5-acb4-4b87d6544de7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_14.png": {
+      "time": 1712810696000,
+      "uuid": "f23b1f80-e414-420d-a80f-c8317a4b93dd"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_15.png": {
+      "time": 1712810696000,
+      "uuid": "45e91d4b-9ea8-4d88-b81c-de3dce643a3a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_16.png": {
+      "time": 1712810696000,
+      "uuid": "fb629be8-954e-456a-be13-de73a203947e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_17.png": {
+      "time": 1712810696000,
+      "uuid": "5f70184d-1d32-4270-b8c6-a6a35cf17bdf"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_18.png": {
+      "time": 1712810696000,
+      "uuid": "387d0b3c-09d9-4753-bd9d-bdce23411758"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_19.png": {
+      "time": 1712810696000,
+      "uuid": "b2f30339-79f3-42ac-8192-9fe3b2a0e39b"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_20.png": {
+      "time": 1712810696000,
+      "uuid": "635c5ef9-3b6c-4cdf-9cff-8d8ab8f5f54a"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_21.png": {
+      "time": 1712810696000,
+      "uuid": "92d385da-8a6a-4e35-8bbf-e3ce4d107cc7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_22.png": {
+      "time": 1712810696000,
+      "uuid": "9240bf66-4785-45ec-9082-462b88318a42"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_23.png": {
+      "time": 1712810696000,
+      "uuid": "e193f707-5dff-4958-8a55-3c6f010d6028"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_24.png": {
+      "time": 1712810696000,
+      "uuid": "a80d100e-657d-4f76-8397-ff0a52961307"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_25.png": {
+      "time": 1712810696000,
+      "uuid": "1316a77e-2c44-4814-834c-60b90711d048"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_26.png": {
+      "time": 1712810696000,
+      "uuid": "cdc3ea61-5127-4f1c-8318-ce7842ef0070"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_27.png": {
+      "time": 1712810696000,
+      "uuid": "93dac988-8888-48e1-abfe-6abedcf2f5bf"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_28.png": {
+      "time": 1712810696000,
+      "uuid": "07b65f17-df2c-4cd1-889f-f5b1774082b5"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_29.png": {
+      "time": 1712810696000,
+      "uuid": "520b8784-c132-4042-9a83-b71dd7d9db87"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_30.png": {
+      "time": 1712810696000,
+      "uuid": "7aa60ede-f301-4efd-aaa8-15cda9cbbf66"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_31.png": {
+      "time": 1712810696000,
+      "uuid": "63655711-8227-40b0-8598-fe1a04ee0da7"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_32.png": {
+      "time": 1712810696000,
+      "uuid": "da38395c-dae8-4f3d-a268-3e9624cdefdb"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR1.png.meta": {
+      "time": 1713102596000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/9d2df9416c6d6c3f61c461e1423462cf.jpg.meta": {
+      "time": 1713070438000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR10.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/dragonhurt.png.meta": {
+      "time": 1712724198000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR11.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR13.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR12.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR14.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR16.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR15.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR2.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR4.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR3.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR6.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR5.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR7.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR8.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/AVATAR9.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/Download White Circle PNG.jpeg.meta": {
+      "time": 1713070640000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/dragonhurt.plist.meta": {
+      "time": 1712724198000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/Untitled-1.png.meta": {
+      "time": 1712911124000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/backCard.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/avatarSquare.png.meta": {
+      "time": 1713145602000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/avatar.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip2.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip1.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/bg.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip4.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip3.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/background.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip5.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/chip6.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/closeBtn.png.meta": {
+      "time": 1713089824000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/cloud-left.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/cloud-right.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/dragonCard.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/coinIcon.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/dragonIcon.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/background01.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/frameAvatar.png.meta": {
+      "time": 1713092396000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/goldenChip.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/dragonSplash.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/icon-player.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/logo.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/processBar.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/processFrame.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/logoSplash.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s10.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s2.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s3.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s4.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s5.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s6.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s7.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s8.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/s9.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sA.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sJ.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sK.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sQ.png.meta": {
+      "time": 1712739684000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/startBet.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/stopBet.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/scroll.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/table 43.png.meta": {
+      "time": 1712833432000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/table 52.png.meta": {
+      "time": 1712911124000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/table 56.png.meta": {
+      "time": 1712833432000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/table 54.png.meta": {
+      "time": 1712911064000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/tieCard.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/tieIcon.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/tigerCard.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Prefabs/DragonWin.prefab.meta": {
+      "time": 1712833600000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Prefabs/Tie.prefab.meta": {
+      "time": 1712911132000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Prefabs/TigerWin.prefab.meta": {
+      "time": 1712833600000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/tigerIcon.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scene/scene-2d.scene.meta": {
+      "time": 1713167764145.5398
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scene/Game.scene.meta": {
+      "time": 1712652102000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/BetValueAnim/AnimPay.anim.meta": {
+      "time": 1713148632162.4907
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/white-circle-png-new-moon-phase-drawi-11563654400bdrw3yigxk.png.meta": {
+      "time": 1713070816000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/tigerSplash.png.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Cloud/CloudLeft.anim.meta": {
+      "time": 1712996788000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Card/Cardshuff.anim.meta": {
+      "time": 1712736074000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Cloud/CloudRight.anim.meta": {
+      "time": 1712996980000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonHurt.anim.meta": {
+      "time": 1712724426000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Startbet/EndBet.anim.meta": {
+      "time": 1713062918000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Startbet/Startbet.anim.meta": {
+      "time": 1713062634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Neusharp-Bold.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Card/An.png.meta": {
+      "time": 1712735302000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Black.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-BlackItalic.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-BoldItalic.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Bold.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Card/An.plist.meta": {
+      "time": 1712735302000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Light.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Italic.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-LightItalic.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Medium.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-MediumItalic.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/tigerIde2.png.meta": {
+      "time": 1712979966000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Regular.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-Thin.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/DragonAttack.anim.meta": {
+      "time": 1712761326000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/fonts/Roboto-ThinItalic.ttf.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Image/sounds/intro.mp3.meta": {
+      "time": 1712652052000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_00.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_01.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/tigerIde2.plist.meta": {
+      "time": 1712979966000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/dragpnAttack.png.meta": {
+      "time": 1712747932000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_02.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_03.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_04.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_05.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_06.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_07.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_08.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_09.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_10.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_11.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_12.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_13.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/dragpnAttack.plist.meta": {
+      "time": 1712747932000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_14.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_17.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_15.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_16.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_18.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_21.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_22.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_19.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_20.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_23.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_26.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_24.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_27.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_25.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_28.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_30.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_31.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_29.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_32.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_35.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_36.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_33.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_34.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/DragonBlast/Dr_B_37.png.meta": {
+      "time": 1712806266000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Hurt/DragonHurt.anim.meta": {
+      "time": 1712824458000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Ide/DragonIde.anim.meta": {
+      "time": 1712761224000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonWinIcon.anim.meta": {
+      "time": 1712743064000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Ide/DragonIde.png.meta": {
+      "time": 1712747512000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Hurt/DragonHurt.png.meta": {
+      "time": 1712824442000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/dragonWin.png.meta": {
+      "time": 1712743048000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/TigerAttack.anim.meta": {
+      "time": 1712810810000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Ide/DragonIde.plist.meta": {
+      "time": 1712747512000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/tigerAttack2.png.meta": {
+      "time": 1712980438000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH00.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH01.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH02.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/dragonWin.plist.meta": {
+      "time": 1712743048000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/tigerAttack2.plist.meta": {
+      "time": 1712980438000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH04.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH05.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH03.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH06.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH09.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH07.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH08.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH11.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH12.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH13.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH10.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Hurt/DragonHurt.plist.meta": {
+      "time": 1712824442000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH16.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH17.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH14.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH15.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TigerHurt.anim.meta": {
+      "time": 1712809114000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde/TigerIde.anim.meta": {
+      "time": 1712805336000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH18.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH20.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerHurt/TH19.png.meta": {
+      "time": 1712809090000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIntro/TigerIntro.anim.meta": {
+      "time": 1712746992000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde/TigerIde.png.meta": {
+      "time": 1712805624000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde/TigerIdeFix.png.meta": {
+      "time": 1712919500000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerWin/TigerWin.anim.meta": {
+      "time": 1712745672000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIntro/TigerIntro.png.meta": {
+      "time": 1712746972000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde/TigerIde.plist.meta": {
+      "time": 1712805624000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Boom.anim.meta": {
+      "time": 1712807296000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIde/TigerIdeFix.plist.meta": {
+      "time": 1712919500000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerIntro/TigerIntro.plist.meta": {
+      "time": 1712746972000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo00.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo01.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo02.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo03.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerWin/tigerWin.plist.meta": {
+      "time": 1712745656000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo04.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo05.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo06.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo07.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo08.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerWin/tigerWin.png.meta": {
+      "time": 1712745656000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo09.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo10.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo12.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo11.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo13.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire00.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo14.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/Explosion/Explo15.png.meta": {
+      "time": 1712806634000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire01.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire02.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire04.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire03.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire05.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire06.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire07.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire10.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire11.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire08.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire09.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire14.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire15.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire12.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire13.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire16.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro/DragonIntro.anim.meta": {
+      "time": 1712743922000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire18.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire19.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Attack/SpitFire/SpitFire17.png.meta": {
+      "time": 1712806698000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_00.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_01.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro/dragonWin-0.png.meta": {
+      "time": 1712744394000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro/DragonIntro.png.meta": {
+      "time": 1712804822000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_02.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_03.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_04.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro/DragonIntro.plist.meta": {
+      "time": 1713083014000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_05.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Dragon/Win/DragonIntro/dragonWin-0.plist.meta": {
+      "time": 1712744394000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_06.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_07.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_08.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_09.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_10.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_11.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_12.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_13.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_14.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_16.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_15.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_17.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_20.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_00.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_19.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/1 Dig/T_dig_18.png.meta": {
+      "time": 1712810692000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_02.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_01.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_03.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_04.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_05.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_08.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_10.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_06.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_07.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_09.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_12.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_11.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_15.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_14.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_13.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_16.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_17.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_20.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_18.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_19.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_21.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_22.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_24.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_25.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_23.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_28.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_30.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_29.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_27.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_26.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_31.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Animation/Tiger/TigerAttack/2 Slash/T_Slash_32.png.meta": {
+      "time": 1712810696000
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound.meta": {
+      "time": 1713327750342.772
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound": {
+      "time": 1713339449944.003,
+      "uuid": "c7376c79-030e-49f2-aa59-f44d9a820e47"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/BACKGROUND MUSIC.mp3.meta": {
+      "time": 1713327937185.5667
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/BACKGROUND MUSIC.mp3": {
+      "time": 1713327937167.6748,
+      "uuid": "6f51aa40-ca56-42f4-8400-a0aca7595a98"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts/AudioController.ts.meta": {
+      "time": 1713328014734.4724
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Scripts/AudioController.ts": {
+      "time": 1713328034823.264,
+      "uuid": "a2ee9b91-af14-4033-9ea4-70ee838e0c0e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Card shuffle sound effect.mp3.meta": {
+      "time": 1713328209707.773
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Card shuffle sound effect.mp3": {
+      "time": 1713328209698.9463,
+      "uuid": "f4fa8f44-17f8-40a3-a8ac-df6cfdb4e33d"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/BETTING_START.mp3.meta": {
+      "time": 1713328524145.8972
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/BETTING_START.mp3": {
+      "time": 1713328524140.0083,
+      "uuid": "4268f352-3eec-4c98-8f87-f538fd9ad025"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/BETTING_STOP.mp3.meta": {
+      "time": 1713328529925.1619
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/BETTING_STOP.mp3": {
+      "time": 1713328529920.9155,
+      "uuid": "45670090-e592-4634-95c0-9dc9c9a2cb7f"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/TIMER.mp3.meta": {
+      "time": 1713330277608.1597
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/TIMER.mp3": {
+      "time": 1713330277576.509,
+      "uuid": "121fa77a-8d5b-4bc2-905a-9abaa5ff8ebd"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/TIME_OUT.mp3.meta": {
+      "time": 1713330281666.336
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/TIME_OUT.mp3": {
+      "time": 1713330281660.5984,
+      "uuid": "70a61a41-17e2-48b4-b8c8-8c226d3e6c8e"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Coin Collect.mp3.meta": {
+      "time": 1713335153541.576
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Coin Collect.mp3": {
+      "time": 1713335153529.0144,
+      "uuid": "c02045e5-228a-4a4b-846c-618295fb2787"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Coins falling sound effect.mp3.meta": {
+      "time": 1713335166551.71
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Coins falling sound effect.mp3": {
+      "time": 1713335166510.846,
+      "uuid": "b1121b3f-6622-441d-91d6-abbe96c82149"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/HIT.mp3.meta": {
+      "time": 1713335739138.2546
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/HIT.mp3": {
+      "time": 1713335739128.529,
+      "uuid": "f519d674-937a-4697-b102-425140730d66"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/poker_chips1-87592.mp3.meta": {
+      "time": 1713336689252.5896
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/poker_chips1-87592.mp3": {
+      "time": 1713336689235.2407,
+      "uuid": "595a4016-bcbc-4c7d-884c-53439f49f198"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/NoticeEnterRoomSound.mp3.meta": {
+      "time": 1713337762812.4604
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/NoticeEnterRoomSound.mp3": {
+      "time": 1713337762793.197,
+      "uuid": "d53a9cf8-7cf6-4d64-860a-b7260d35d287"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Dragon.meta": {
+      "time": 1713339449944.8591
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Dragon": {
+      "time": 1713339456676.6936,
+      "uuid": "6d5edd13-ea4a-4b38-916d-2fb589593e10"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Dragon/Loading Gas.mp3.meta": {
+      "time": 1713339456679.0598
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Dragon/Explosion Blast.wav.meta": {
+      "time": 1713339456686.2405
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Dragon/Firey woosh thick.wav.meta": {
+      "time": 1713339456693.8184
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Dragon/Loading Gas.mp3": {
+      "time": 1713339456671.9502,
+      "uuid": "0e3af3e7-2bd6-48a8-b034-da625f35f613"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Dragon/Explosion Blast.wav": {
+      "time": 1713339456673.875,
+      "uuid": "1066f1c5-6c83-4efa-91ea-15c9ea6af8f5"
+    },
+    "/Users/waostudio/Desktop/Fix2/assets/Sound/Dragon/Firey woosh thick.wav": {
+      "time": 1713339456674.9294,
+      "uuid": "24d2dfd1-7229-410f-a960-3a729451109c"
     }
   },
   "missing": {
@@ -10664,6 +13002,21 @@
       "path": "/Users/waostudio/Desktop/TigerDragon 4/assets/Animation/Tiger/TigerIde/tigerIde2.png",
       "time": 1712979727376.837,
       "removeTime": 1712979755120
+    },
+    "2953db1a-030b-43ed-b59a-8688f16a23a3": {
+      "path": "/Users/waostudio/Desktop/Fix2/assets/Sound/BACKGROUND MUSIC.mp4",
+      "time": 1713327756378.7563,
+      "removeTime": 1713327933682
+    },
+    "61eaa6f3-3b34-4a93-b22b-1ad0497c0958": {
+      "path": "/Users/waostudio/Desktop/Fix2/assets/Scripts/AudioSource.ts",
+      "time": 1713327980794.52,
+      "removeTime": 1713327994620
+    },
+    "264dd61d-94d4-4235-8217-b6f16943532e": {
+      "path": "/Users/waostudio/Desktop/Fix2/assets/Sound/Coins falling sound effect.mp4",
+      "time": 1713335033814.022,
+      "removeTime": 1713335039497
     }
   }
 }

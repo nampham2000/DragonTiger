@@ -1,11 +1,12 @@
 import { _decorator, Component, Label, Node, Sprite, tween, Vec3 } from "cc";
 const { ccclass, property } = _decorator;
 import Colyseus from "db://colyseus-sdk/colyseus.js";
+import { AudioController } from "./AudioController";
 
 @ccclass("NetworkConnect")
 export class NetworkConnect extends Component {
   @property({ type: String })
-  hostname = "";
+  hostname = "localhost";
 
   @property({ type: Number })
   port = 80;
@@ -25,11 +26,17 @@ export class NetworkConnect extends Component {
   client!: Colyseus.Client;
   room!: Colyseus.Room;
   gameState;
-  resultDragon;
-  resultTiger;
+  resultDragon: number = 0;
+  resultTiger: number = 0;
   TotalUser;
   UserBet;
   NotmeBet;
+  result;
+
+  @property({
+    type: AudioController,
+  })
+  private AudioController: AudioController;
 
   start() {
     this.client = new Colyseus.Client(
@@ -41,21 +48,19 @@ export class NetworkConnect extends Component {
 
   async connect() {
     try {
-      
       const rooms = await this.client.getAvailableRooms("room1");
-      console.log(rooms.length);
 
-      // if (rooms.length === 0) {
+      if (rooms.length === 0) {
         this.room = await this.client.create("room1");
         console.log("Created new room with sessionId:", this.room.sessionId);
-      // } else {
-      //   // Nếu có phòng có sẵn, tham gia vào phòng đầu tiên trong danh sách
-      //   this.room = await this.client.joinById(rooms[0].roomId);
-      //   console.log(
-      //     "Joined existing room with sessionId:",
-      //     this.room.sessionId
-      //   );
-      // }
+      } else {
+        // Nếu có phòng có sẵn, tham gia vào phòng đầu tiên trong danh sách
+        this.room = await this.client.joinById(rooms[0].roomId);
+        console.log(
+          "Joined existing room with sessionId:",
+          this.room.sessionId
+        );
+      }
 
       console.log("Joined successfully!");
       console.log("User's sessionId:", this.room.sessionId);
@@ -67,16 +72,23 @@ export class NetworkConnect extends Component {
 
       this.room.onMessage("timer", (message) => {
         this.TimerDown.string = message;
+        if (message < 30 && message > 0) {
+          this.AudioController.onAudio(3);
+        }
+        if (message === 0) {
+          this.AudioController.onAudio(4);
+        }
       });
 
       this.room.onMessage("result", (message) => {
-        this.resultDragon = message.dragonCard.value;
-        this.resultTiger = message.tigerCard.value;
+        console.log(message.result);
+        console.log("rong", message.dragonCard.value);
+        console.log("ho", message.tigerCard.value);
       });
 
       this.room.onMessage("userBet", (message) => {
         if (message.playerID !== this.room.sessionId) {
-          console.log("Thang kia bet");
+          console.log(message);
           this.UserBet = message.playerID;
         } else {
           console.log("false");
@@ -87,12 +99,11 @@ export class NetworkConnect extends Component {
         console.log("Room state changed:", state);
         console.log("onStateChange: ", state);
         console.log(state.roundState);
-        
+        console.log(this.room.state);
         const players = [...state.players.values()];
         this.updatePlayerList(players);
-        console.log(players);
-        this.TotalUser=players.length;
-
+        console.log("PlayerStatus", players[0].isHost);
+        this.TotalUser = players.length;
         this.gameState = state.roundState;
       });
 
@@ -105,26 +116,23 @@ export class NetworkConnect extends Component {
   }
 
   updatePlayerList(playerList: any[]) {
-    let displayIndex = 0; // Biến đếm số lượng người chơi đã được thêm vào danh sách hiển thị
+    let displayIndex = 0;
     const numElements = playerList.length;
-
-    // Ẩn tất cả các node trong danh sách
     this.ListL.forEach((node) => {
-        node.active = false;
+      node.active = false;
     });
     for (let i = 0; i < numElements && displayIndex < this.ListL.length; i++) {
-        if (playerList[i].sessionId !== this.room.sessionId) {
-            this.ListLabel[displayIndex].string = playerList[i].sessionId;
-            this.ListL[displayIndex].active = true;
-            displayIndex++;
-        }
+      if (playerList[i].sessionId !== this.room.sessionId) {
+        this.ListLabel[displayIndex].string = playerList[i].sessionId;
+        this.ListL[displayIndex].active = true;
+        displayIndex++;
+        this.AudioController.onAudio(9);
+      }
     }
     for (let i = displayIndex; i < this.ListL.length; i++) {
-        this.ListL[i].active = false;
+      this.ListL[i].active = false;
     }
-}
-
-
+  }
 
   // createSpriteNode(posX, PosY, PosNode: Node) {
   //   // Tạo một Node mới

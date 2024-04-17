@@ -1,4 +1,5 @@
 import { _decorator, Button, Component, Label, logID, Node, Vec3 } from "cc";
+import { AudioController } from "./AudioController";
 const { ccclass, property } = _decorator;
 
 @ccclass("Chip")
@@ -14,6 +15,10 @@ export class Chip extends Component {
     type: Label,
   })
   private betTiger: Label;
+  @property({
+    type: AudioController,
+  })
+  private AudioController: AudioController;
 
   public listScore: number[] = [1, 2, 3, 4, 5, 6];
   start() {
@@ -31,7 +36,7 @@ export class Chip extends Component {
         // Thay đổi kích thước của nút được nhấp hiện tại
         button.node.scale = new Vec3(1.2, 1.2, 1.2);
         previousButton = button;
-
+        this.AudioController.onAudio(7);
         // Cập nhật dữ liệu hoặc thực hiện các thao tác khác
         this.UserBet = this.listScore[i];
         this.buttonPub = button;
